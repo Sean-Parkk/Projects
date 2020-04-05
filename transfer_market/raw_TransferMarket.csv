@@ -1,0 +1,690 @@
+,name,age,height,country,position,foot,team,joined,contract expires,goals,assists,appearances,minutes played,market value
+0,Kylian Mbappé,21,"1,78 m",  France,Forward - Centre-Forward,right,Paris Saint-Germain,"Jul 1, 2018",30.06.2022,30,17,33,2.479,€200.00m
+1,Raheem Sterling,25,"1,70 m","  England
+  Jamaica",Forward - Left Winger,right,Manchester City,"Jul 14, 2015",30.06.2023,20,7,39,3.002,€160.00m
+2,Neymar,28,"1,75 m",  Brazil,Forward - Left Winger,right,Paris Saint-Germain,"Aug 3, 2017",30.06.2022,18,10,22,1.906,€160.00m
+3,Sadio Mané,27,"1,74 m",  Senegal,Forward - Left Winger,right,Liverpool FC,"Jul 1, 2016",30.06.2023,18,12,38,3.049,€150.00m
+4,Mohamed Salah,27,"1,75 m",  Egypt,Forward - Right Winger,left,Liverpool FC,"Jul 1, 2017",30.06.2023,20,9,40,3.423,€150.00m
+5,Harry Kane,26,"1,88 m",  England,Forward - Centre-Forward,right,Tottenham Hotspur,"Jan 1, 2011",30.06.2024,17,2,25,2.230,€150.00m
+6,Kevin De Bruyne,28,"1,81 m",  Belgium,Midfielder - Attacking Midfield,right,Manchester City,"Aug 30, 2015",30.06.2023,9,20,35,2.841,€150.00m
+7,Lionel Messi,32,"1,70 m","  Argentina
+  Spain",Forward - Right Winger,left,FC Barcelona,"Jul 1, 2005",30.06.2021,24,16,31,2.640,€140.00m
+8,Jadon Sancho,20,"1,80 m",  England,Forward - Right Winger,right,Borussia Dortmund,"Aug 31, 2017",30.06.2022,17,19,35,2.791,€130.00m
+9,Antoine Griezmann,29,"1,76 m",  France,Forward - Left Winger,left,FC Barcelona,"Jul 14, 2019",30.06.2024,14,4,37,2.951,€120.00m
+10,Trent Alexander-Arnold,21,"1,80 m",  England,Defender - Right-Back,right,Liverpool FC,"Jul 1, 2016",30.06.2024,2,14,40,3.365,€110.00m
+11,Bernardo Silva,25,"1,73 m",  Portugal,Forward - Right Winger,left,Manchester City,"Jul 1, 2017",30.06.2025,7,8,40,2.720,€100.00m
+12,N'Golo Kanté,29,"1,68 m","  France
+  Mali",Midfielder - Central Midfield,right,"Jul 16, 2016",30.06.2023,"Nov 23, 2018",3,-,22,1.775,€100.00m
+13,Leroy Sané,24,"1,84 m","  Germany
+  France",Forward - Left Winger,left,Manchester City,"Aug 2, 2016",30.06.2021,-,-,2,70,€100.00m
+14,Virgil van Dijk,28,"1,93 m","  Netherlands
+  Suriname",Defender - Centre-Back,right,"Jan 1, 2018",30.06.2023,Nike,4,2,41,3.780,€100.00m
+15,Paul Pogba,27,"1,91 m",  France,Midfielder - Central Midfield,both,Manchester United,"Aug 9, 2016",30.06.2021,-,2,8,610,€100.00m
+16,Jan Oblak,27,"1,88 m",  Slovenia,Goalkeeper,right,Atlético Madrid,"Jul 16, 2014",30.06.2023,30,16,37,1.124,€100.00m
+17,Eden Hazard,29,"1,75 m",  Belgium,Forward - Left Winger,both,Real Madrid,"Jul 1, 2019",30.06.2024,1,5,15,2.114,€90.00m
+18,João Félix,20,"1,80 m",  Portugal,Forward - Second Striker,both,Atlético Madrid,"Jul 3, 2019",30.06.2026,6,3,28,2.919,€90.00m
+19,Frenkie de Jong,22,"1,81 m",  Netherlands,Midfielder - Central Midfield,right,FC Barcelona,"Jul 1, 2019",30.06.2024,2,4,37,2.925,€90.00m
+20,Kai Havertz,20,"1,89 m",  Germany,Midfielder - Attacking Midfield,left,Bayer 04 Leverkusen,"Jul 1, 2016",30.06.2022,10,8,34,2.077,€90.00m
+21,Paulo Dybala,26,"1,77 m","  Argentina
+  Italy",Forward - Second Striker,left,Juventus FC,"Jul 1, 2015",30.06.2022,13,12,34,2.376,€90.00m
+22,Serge Gnabry,24,"1,75 m","  Germany
+  Cote d'Ivoire",Forward - Right Winger,right,Bayern Munich,"Jul 1, 2017",30.06.2023,18,11,33,3.420,€90.00m
+23,Saúl Ñíguez,25,"1,84 m",  Spain,Midfielder - Central Midfield,left,Atlético Madrid,"Jul 1, 2013",30.06.2026,4,-,37,3.339,€90.00m
+24,Roberto Firmino,28,"1,81 m",  Brazil,Forward - Centre-Forward,right,Liverpool FC,"Jul 1, 2015",30.06.2023,11,12,43,3.002,€160.00m
+25,Alisson,27,"1,91 m",  Brazil,Goalkeeper,right,Liverpool FC,"Jul 19, 2018",30.06.2024,17,14,28,2.904,€85.00m
+26,Raheem Sterling,25,"1,70 m","  England
+  Jamaica",Forward - Left Winger,right,Manchester City,"Jul 14, 2015",30.06.2023,20,7,39,1.938,€85.00m
+27,Romelu Lukaku,26,"1,91 m","  Belgium
+  DR Congo",Forward - Centre-Forward,left,Inter Milan,"Aug 8, 2019",30.06.2024,23,5,35,2.200,€80.00m
+28,Christian Eriksen,28,"1,82 m",  Denmark,Midfielder - Attacking Midfield,both,Inter Milan,"Jan 28, 2020",30.06.2024,4,4,36,2.437,€80.00m
+29,Erling Haaland,19,"1,94 m",  Norway,Forward - Centre-Forward,left,Borussia Dortmund,"Jan 1, 2020",30.06.2024,40,9,33,2.934,€80.00m
+30,Lautaro Martínez,22,"1,74 m",  Argentina,Forward - Centre-Forward,right,Inter Milan,"Jul 4, 2018",30.06.2023,16,4,31,2.539,€80.00m
+31,Rodri,23,"1,91 m",  Spain,Midfielder - Defensive Midfield,right,Manchester City,"Jul 4, 2019",30.06.2024,4,1,39,2.364,€80.00m
+32,Sergej Milinkovic-Savic,25,"1,91 m","  Serbia
+  Spain",Midfielder - Central Midfield,right,SS Lazio,"Aug 6, 2015",30.06.2024,5,7,31,3.574,€80.00m
+33,Marcus Rashford,22,"1,85 m",  England,Forward - Centre-Forward,right,Manchester United,"Jan 1, 2016",30.06.2023,19,5,31,2.684,€80.00m
+34,Andrew Robertson,26,"1,78 m",  Scotland,Defender - Left-Back,left,Liverpool FC,"Jul 21, 2017",30.06.2024,2,7,41,2.832,€80.00m
+35,Dele Alli,23,"1,88 m","  England
+  Nigeria",Midfielder - Attacking Midfield,right,Tottenham Hotspur,"Feb 2, 2015",30.06.2024,9,5,35,3.000,€80.00m
+36,Timo Werner,24,"1,81 m",  Germany,Forward - Centre-Forward,right,RB Leipzig,"Jul 1, 2016",30.06.2023,27,12,36,3.108,€80.00m
+37,Raphaël Varane,26,"1,91 m","  France
+  Martinique",Defender - Centre-Back,right,Real Madrid,"Jul 1, 2011",30.06.2022,3,1,33,2.437,€80.00m
+38,Joshua Kimmich,25,"1,76 m",  Germany,Midfielder - Defensive Midfield,right,Bayern Munich,"Jul 2, 2015",30.06.2023,4,8,36,3.120,€80.00m
+39,Heung-min Son,27,"1,84 m","  Korea, South",Forward - Left Winger,both,Tottenham Hotspur,"Aug 28, 2015",30.06.2023,16,9,32,2.281,€75.00m
+40,Casemiro,28,"1,85 m","  Brazil
+  Spain",Midfielder - Defensive Midfield,right,Real Madrid,"Jul 1, 2013",30.06.2023,4,4,35,541,€75.00m
+41,Matthijs de Ligt,20,"1,89 m",  Netherlands,Defender - Centre-Back,right,Juventus FC,"Jul 18, 2019",30.06.2024,2,-,27,2.396,€75.00m
+42,Aymeric Laporte,25,"1,90 m",  France,Defender - Centre-Back,left,"Jan 30, 2018",30.06.2025,"Feb 22, 2019",-,-,8,1.958,€75.00m
+43,Marco Verratti,27,"1,65 m",  Italy,Midfielder - Central Midfield,right,Paris Saint-Germain,"Jul 18, 2012",30.06.2024,-,6,33,2.837,€75.00m
+44,Mauro Icardi,27,"1,81 m","  Argentina
+  Italy",Forward - Centre-Forward,right,Paris Saint-Germain,"Sep 2, 2019",30.06.2020,20,4,31,2.224,€70.00m
+45,Cristiano Ronaldo,35,"1,87 m",  Portugal,Forward - Left Winger,both,Juventus FC,"Jul 10, 2018",30.06.2022,25,4,32,1.362,€70.00m
+46,Gabriel Jesus,23,"1,75 m",  Brazil,Forward - Centre-Forward,right,Manchester City,"Jan 1, 2017",30.06.2023,18,9,39,492,€70.00m
+47,Arthur,23,"1,72 m",  Brazil,Midfielder - Central Midfield,right,FC Barcelona,"Jul 9, 2018",30.06.2024,4,4,23,821,€70.00m
+48,Ousmane Dembélé,22,"1,78 m",  France,Forward - Right Winger,both,FC Barcelona,"Aug 25, 2017",30.06.2022,1,-,9,1.297,€70.00m
+49,Lucas Hernández,24,"1,82 m","  France
+  Spain",Defender - Centre-Back,left,Bayern Munich,"Jul 1, 2019",30.06.2024,-,-,14,2.904,€85.00m
+50,José Giménez,25,"1,85 m","  Uruguay
+  Spain",Defender - Centre-Back,right,Atlético Madrid,"Jul 1, 2013",30.06.2023,-,1,16,3.642,€70.00m
+51,Ederson,26,"1,88 m","  Brazil
+  Portugal",Goalkeeper,left,Manchester City,"Jul 1, 2017",30.06.2025,27,13,31,1.757,€70.00m
+52,Romelu Lukaku,26,"1,91 m","  Belgium
+  DR Congo",Forward - Centre-Forward,left,Inter Milan,"Aug 8, 2019",30.06.2024,23,5,35,2.036,€70.00m
+53,Harry Maguire,27,"1,94 m",  England,Defender - Centre-Back,right,Manchester United,"Aug 5, 2019",30.06.2025,2,2,41,2.711,€70.00m
+54,Kalidou Koulibaly,28,"1,87 m","  Senegal
+  France",Defender - Centre-Back,right,SSC Napoli,"Jul 1, 2014",30.06.2023,-,-,21,2.873,€70.00m
+55,Philippe Coutinho,27,"1,72 m","  Brazil
+  Portugal",Midfielder - Attacking Midfield,right,Bayern Munich,"Aug 19, 2019",30.06.2020,9,8,32,1.383,€65.00m
+56,Pierre-Emerick Aubameyang,30,"1,87 m","  Gabon
+  France",Forward - Centre-Forward,right,Arsenal FC,"Jan 31, 2018",30.06.2021,20,1,32,2.779,€65.00m
+57,Robert Lewandowski,31,"1,84 m",  Poland,Forward - Centre-Forward,right,Bayern Munich,"Jul 1, 2014",30.06.2023,39,5,33,2.044,€65.00m
+58,Tanguy Ndombélé,23,"1,81 m","  France
+  DR Congo",Midfielder - Central Midfield,right,"Jul 2, 2019",30.06.2025,adidas,2,4,27,2.569,€65.00m
+59,Richarlison,22,"1,79 m",  Brazil,Forward - Left Winger,right,Everton FC,"Jul 24, 2018",30.06.2024,12,4,32,2.965,€65.00m
+60,Nicolas Pépé,24,"1,83 m","  Cote d'Ivoire
+  France",Forward - Right Winger,left,"Aug 1, 2019",30.06.2024,Nike,6,8,32,2.443,€65.00m
+61,Marquinhos,25,"1,83 m","  Brazil
+  Portugal",Defender - Centre-Back,right,Paris Saint-Germain,"Jul 19, 2013",30.06.2024,4,1,32,2.606,€65.00m
+62,Jorginho,28,"1,80 m","  Italy
+  Brazil",Midfielder - Defensive Midfield,right,Chelsea FC,"Jul 14, 2018",30.06.2023,7,2,37,2.037,€65.00m
+63,David Alaba,27,"1,80 m",  Austria,Defender - Centre-Back,left,Bayern Munich,"Jul 1, 2010",30.06.2021,1,2,28,2.900,€60.00m
+64,Miralem Pjanic,30,"1,80 m","  Bosnia-Herzegovina
+  Luxembourg",Midfielder - Central Midfield,right,Juventus FC,"Jul 1, 2016",30.06.2023,3,4,32,2.068,€60.00m
+65,Sergio Agüero,31,"1,73 m","  Argentina
+  Spain",Forward - Centre-Forward,right,Manchester City,"Jul 28, 2011",30.06.2021,23,3,30,2.681,€60.00m
+66,Achraf Hakimi,21,"1,81 m","  Morocco
+  Spain",Defender - Right-Back,right,Borussia Dortmund,"Jul 11, 2018",30.06.2020,7,10,37,2.698,€60.00m
+67,Federico Valverde,21,"1,82 m","  Uruguay
+  Spain",Midfielder - Central Midfield,right,Real Madrid,"Jul 1, 2018",30.06.2025,2,4,32,2.729,€60.00m
+68,Mikel Oyarzabal,22,"1,81 m",  Spain,Forward - Left Winger,left,"Jan 1, 2016",30.06.2024,"Aug 14, 2018",10,7,33,2.117,€60.00m
+69,Fabián Ruiz,24,"1,89 m",  Spain,Midfielder - Central Midfield,left,SSC Napoli,"Jul 5, 2018",30.06.2023,3,2,32,1.576,€60.00m
+70,Davinson Sánchez,23,"1,87 m",  Colombia,Defender - Centre-Back,right,Tottenham Hotspur,"Aug 23, 2017",30.06.2024,-,-,32,2.867,€60.00m
+71,Federico Chiesa,22,"1,80 m",  Italy,Forward - Right Winger,right,ACF Fiorentina,"Jul 1, 2016",30.06.2022,7,5,26,3.141,€60.00m
+72,Christian Pulisic,21,"1,72 m","  United States
+  Croatia",Forward - Right Winger,right,Chelsea FC,"Jan 2, 2019",30.06.2024,6,6,23,2.762,€60.00m
+73,James Maddison,23,"1,75 m",  England,Midfielder - Attacking Midfield,right,Leicester City,"Jul 1, 2018",30.06.2023,9,3,35,2.501,€60.00m
+74,Bruno Fernandes,25,"1,83 m",  Portugal,Midfielder - Attacking Midfield,right,Manchester United,"Jan 29, 2020",30.06.2025,18,18,37,2.526,€60.00m
+75,Milan Skriniar,25,"1,88 m",  Slovakia,Defender - Centre-Back,right,Inter Milan,"Jul 7, 2017",30.06.2023,-,1,32,2.430,€60.00m
+76,Clément Lenglet,24,"1,86 m",  France,Defender - Centre-Back,left,FC Barcelona,"Jul 12, 2018",30.06.2023,3,1,29,1.001,€60.00m
+77,Anthony Martial,24,"1,83 m","  France
+  Guadeloupe",Forward - Centre-Forward,right,Manchester United,"Sep 1, 2015",30.06.2024,16,5,34,2.715,€60.00m
+78,Riyad Mahrez,29,"1,79 m","  Algeria
+  France",Forward - Right Winger,left,Manchester City,"Jul 10, 2018",30.06.2023,9,14,37,2.328,€60.00m
+79,Niklas Süle,24,"1,95 m",  Germany,Defender - Centre-Back,right,Bayern Munich,"Jul 1, 2017",30.06.2022,-,1,12,2.634,€60.00m
+80,Marcelo Brozovic,27,"1,81 m",  Croatia,Midfielder - Defensive Midfield,both,Inter Milan,"Jul 1, 2016",30.06.2022,3,5,32,2.779,€65.00m
+81,Lorenzo Insigne,28,"1,63 m",  Italy,Forward - Left Winger,right,SSC Napoli,"Jan 1, 2010",30.06.2022,9,6,31,2.605,€60.00m
+82,Stefan de Vrij,28,"1,89 m",  Netherlands,Defender - Centre-Back,right,Inter Milan,"Jul 1, 2018",30.06.2023,2,4,30,2.508,€60.00m
+83,Thibaut Courtois,27,"1,99 m",  Belgium,Goalkeeper,left,Real Madrid,"Aug 9, 2018",30.06.2024,26,15,32,2.702,€60.00m
+84,Richarlison,22,"1,79 m",  Brazil,Forward - Left Winger,right,Everton FC,"Jul 24, 2018",30.06.2024,12,4,32,2.865,€55.00m
+85,Koke,28,"1,76 m",  Spain,Midfielder - Central Midfield,right,Atlético Madrid,"Jan 1, 2011",30.06.2024,3,5,31,2.700,€55.00m
+86,Thiago,28,"1,74 m","  Spain
+  Brazil",Midfielder - Central Midfield,right,Bayern Munich,"Jul 14, 2013",30.06.2021,3,2,32,3.171,€55.00m
+87,Toni Kroos,30,"1,83 m",  Germany,Midfielder - Central Midfield,right,Real Madrid,"Jul 17, 2014",30.06.2023,5,9,33,2.623,€55.00m
+88,Houssem Aouar,21,"1,75 m","  France
+  Algeria",Midfielder - Central Midfield,right,Olympique Lyon,"Jul 4, 2016",30.06.2023,9,7,37,1.415,€55.00m
+89,Declan Rice,21,"1,85 m","  England
+  Ireland",Midfielder - Defensive Midfield,right,"Jul 1, 2017",30.06.2024,club option 1 year,-,2,30,2.572,€55.00m
+90,Gianluigi Donnarumma,21,"1,96 m",  Italy,Goalkeeper,right,AC Milan,"Jul 1, 2015",30.06.2021,33,10,26,2.426,€55.00m
+91,Donny van de Beek,22,"1,84 m",  Netherlands,Midfielder - Attacking Midfield,right,Ajax Amsterdam,"Feb 1, 2016",30.06.2022,10,11,37,2.500,€50.00m
+92,Youri Tielemans,22,"1,76 m","  Belgium
+  DR Congo",Midfielder - Central Midfield,right,Leicester City,"Jul 8, 2019",30.06.2023,5,7,34,1.278,€50.00m
+93,Memphis Depay,26,"1,76 m","  Netherlands
+  Ghana",Forward - Left Winger,right,Olympique Lyon,"Jan 20, 2017",30.06.2021,14,2,18,2.622,€50.00m
+94,Wilfried Zaha,27,"1,80 m","  Cote d'Ivoire
+  England",Forward - Right Winger,right,Crystal Palace,"Feb 2, 2015",30.06.2023,3,5,30,1.741,€50.00m
+95,Luis Alberto,27,"1,83 m",  Spain,Midfielder - Attacking Midfield,right,SS Lazio,"Aug 31, 2016",30.06.2022,5,14,30,2.164,€50.00m
+96,Alphonso Davies,19,"1,81 m","  Canada
+  Liberia",Defender - Left-Back,left,"Jan 1, 2019",30.06.2023,,1,8,32,1.363,€50.00m
+97,Rodrygo,19,"1,74 m",  Brazil,Forward - Right Winger,right,Real Madrid,"Jul 1, 2019",30.06.2025,9,2,21,1.949,€50.00m
+98,Ferran Torres,20,"1,84 m",  Spain,Forward - Right Winger,right,Valencia CF,"Jan 1, 2018",30.06.2021,6,7,35,1.534,€50.00m
+99,Nicolò Zaniolo,20,"1,90 m",  Italy,Midfielder - Attacking Midfield,left,AS Roma,"Jul 1, 2018",30.06.2024,6,2,24,2.495,€50.00m
+100,Carlos Soler,23,"1,80 m",  Spain,Midfielder - Right Midfield,right,Valencia CF,"Jan 1, 2017",30.06.2023,3,-,27,2.490,€50.00m
+101,Vinícius Júnior,19,"1,76 m",  Brazil,Forward - Left Winger,right,Real Madrid,"Jul 12, 2018",30.06.2025,4,3,28,2.415,€50.00m
+102,Rodrigo Bentancur,22,"1,87 m",  Uruguay,Midfielder - Central Midfield,right,Juventus FC,"Jul 1, 2017",30.06.2024,1,7,29,2.510,€50.00m
+103,Giovani Lo Celso,23,"1,77 m","  Argentina
+  Italy",Midfielder - Central Midfield,left,"Aug 8, 2019",30.06.2025,Real Betis Balompié,2,1,28,2.784,€50.00m
+104,Dayot Upamecano,21,"1,86 m","  France
+  Guinea-Bissau",Defender - Centre-Back,right,RB Leipzig,"Jan 13, 2017",30.06.2021,-,1,29,1.679,€50.00m
+105,Tammy Abraham,22,"1,91 m","  England
+  Nigeria",Forward - Centre-Forward,right,"Jul 1, 2017",30.06.2022,Nike,15,6,34,2.859,€50.00m
+106,Martin Ödegaard,21,"1,78 m",  Norway,Midfielder - Attacking Midfield,left,Real Sociedad,"Jul 5, 2019",30.06.2020,7,8,28,3.309,€50.00m
+107,Ben Chilwell,23,"1,78 m",  England,Defender - Left-Back,left,Leicester City,"Jul 1, 2015",30.06.2024,2,4,28,3.292,€50.00m
+108,Iñaki Williams,25,"1,86 m","  Spain
+  Ghana",Forward - Centre-Forward,right,Athletic Bilbao,"Jul 1, 2015",30.06.2028,10,3,34,2.354,€50.00m
+109,Kingsley Coman,23,"1,79 m","  France
+  Guadeloupe",Forward - Left Winger,right,Bayern Munich,"Jul 1, 2017",30.06.2023,5,5,24,2.686,€50.00m
+110,Thomas,26,"1,85 m",  Ghana,Midfielder - Defensive Midfield,right,Atlético Madrid,"Jul 1, 2015",30.06.2023,3,1,35,3.526,€50.00m
+111,Moussa Dembélé,23,"1,83 m","  France
+  Mali",Forward - Centre-Forward,right,Olympique Lyon,"Aug 31, 2018",30.06.2023,22,7,42,2.168,€50.00m
+112,Rúben Neves,23,"1,80 m",  Portugal,Midfielder - Defensive Midfield,right,Wolverhampton Wanderers,"Jul 8, 2017",30.06.2023,4,2,43,1.187,€50.00m
+113,José Gayà,24,"1,72 m",  Spain,Defender - Left-Back,left,Valencia CF,"Jul 1, 2014",30.06.2023,-,1,28,2.455,€50.00m
+114,Hakim Ziyech,27,"1,81 m","  Morocco
+  Netherlands",Forward - Right Winger,left,Ajax Amsterdam,"Aug 30, 2016",30.06.2022,8,21,35,2.910,€50.00m
+115,Raúl Jiménez,28,"1,88 m",  Mexico,Forward - Centre-Forward,right,Wolverhampton Wanderers,"Jul 1, 2019",30.06.2023,22,10,44,1.992,€50.00m
+116,Julian Brandt,23,"1,85 m",  Germany,Midfielder - Central Midfield,right,Borussia Dortmund,"Jul 1, 2019",30.06.2024,7,8,33,2.695,€50.00m
+117,Leon Goretzka,25,"1,89 m",  Germany,Midfielder - Central Midfield,right,Bayern Munich,"Jul 1, 2018",30.06.2022,5,6,23,2.497,€50.00m
+118,Wissam Ben Yedder,29,"1,70 m","  France
+  Tunisia",Forward - Centre-Forward,right,AS Monaco,"Aug 14, 2019",30.06.2024,19,9,31,1.575,€50.00m
+119,Daniel Carvajal,28,"1,73 m",  Spain,Defender - Right-Back,right,Real Madrid,"Jul 1, 2013",30.06.2022,1,7,32,2.284,€50.00m
+120,Rodrigo,29,"1,82 m","  Spain
+  Brazil",Forward - Centre-Forward,left,Valencia CF,"Jul 1, 2015",30.06.2022,5,11,28,2.700,€50.00m
+121,Ciro Immobile,30,"1,85 m",  Italy,Forward - Centre-Forward,right,SS Lazio,"Jul 27, 2016",30.06.2023,30,7,33,1.827,€50.00m
+122,Kyle Walker,29,"1,83 m",  England,Defender - Right-Back,right,Manchester City,"Jul 14, 2017",30.06.2024,1,4,30,2.759,€50.00m
+123,Antonio Rüdiger,27,"1,90 m","  Germany
+  Sierra Leone",Defender - Centre-Back,right,Chelsea FC,"Jul 9, 2017",30.06.2022,2,-,18,3.028,€50.00m
+124,Sergi Roberto,28,"1,78 m",  Spain,Defender - Right-Back,right,FC Barcelona,"Jul 1, 2013",30.06.2022,1,2,29,1.063,€45.00m
+125,Alex Sandro,29,"1,81 m",  Brazil,Defender - Left-Back,left,"Aug 20, 2015",30.06.2023,"Dec 20, 2018",-,4,31,2.220,€45.00m
+126,Jordi Alba,31,"1,70 m",  Spain,Defender - Left-Back,left,FC Barcelona,"Jul 1, 2012",30.06.2024,1,2,24,654,€45.00m
+127,David de Gea,29,"1,89 m",  Spain,Goalkeeper,right,Manchester United,"Jul 1, 2011",30.06.2023,33,10,32,2.866,€45.00m
+128,Ilkay Gündogan,29,"1,80 m",  Germany,Midfielder - Central Midfield,right,Manchester City,"Jul 1, 2016",30.06.2023,5,5,40,2.667,€45.00m
+129,Georginio Wijnaldum,29,"1,75 m","  Netherlands
+  Suriname",Midfielder - Central Midfield,right,Liverpool FC,"Jul 22, 2016",30.06.2021,5,-,38,1.892,€45.00m
+130,David Neres,23,"1,76 m",  Brazil,Forward - Right Winger,left,Ajax Amsterdam,"Jan 31, 2017",30.06.2023,6,2,20,2.224,€45.00m
+131,Mattéo Guendouzi,20,"1,84 m","  France
+  Morocco",Midfielder - Central Midfield,right,Arsenal FC,"Jul 11, 2018",30.06.2022,-,3,32,2.036,€45.00m
+132,Ibrahima Konaté,20,"1,93 m",  France,Defender - Centre-Back,right,RB Leipzig,"Jul 1, 2017",30.06.2023,-,-,8,3.526,€50.00m
+133,Mason Mount,21,"1,78 m",  England,Midfielder - Attacking Midfield,right,Chelsea FC,"Jul 1, 2019",30.06.2024,6,5,41,1.340,€45.00m
+134,Denis Zakaria,23,"1,90 m","  Switzerland
+  DR Congo",Midfielder - Defensive Midfield,right,Borussia Mönchengladbach,"Jul 1, 2017",30.06.2022,2,2,31,1.735,€45.00m
+135,Lucas Torreira,24,"1,66 m","  Uruguay
+  Spain",Midfielder - Defensive Midfield,right,Arsenal FC,"Jul 10, 2018",30.06.2023,2,1,33,2.271,€45.00m
+136,Wilfred Ndidi,23,"1,83 m",  Nigeria,Midfielder - Defensive Midfield,right,Leicester City,"Jan 3, 2017",30.06.2024,2,1,29,2.303,€45.00m
+137,Nicolò Barella,23,"1,72 m",  Italy,Midfielder - Central Midfield,right,"Jul 12, 2019",30.06.2024,Cagliari Calcio,3,6,29,1.303,€45.00m
+138,André Onana,24,"1,90 m",  Cameroon,Goalkeeper,right,Ajax Amsterdam,"Jan 14, 2015",30.06.2022,37,15,39,2.598,€45.00m
+139,Raúl Jiménez,28,"1,88 m",  Mexico,Forward - Centre-Forward,right,Wolverhampton Wanderers,"Jul 1, 2019",30.06.2023,22,10,44,2.783,€42.00m
+140,John Stones,25,"1,88 m",  England,Defender - Centre-Back,right,"Aug 9, 2016",30.06.2022,Nike,-,1,20,950,€42.00m
+141,João Cancelo,25,"1,82 m",  Portugal,Defender - Right-Back,right,Manchester City,"Aug 7, 2019",30.06.2025,1,1,24,2.567,€42.00m
+142,Sébastien Haller,25,"1,90 m","  France
+  Cote d'Ivoire",Forward - Centre-Forward,right,West Ham United,"Jul 17, 2019",30.06.2024,7,2,29,3.021,€40.00m
+143,Álvaro Morata,27,"1,87 m",  Spain,Forward - Centre-Forward,right,Atlético Madrid,"Jan 28, 2019",30.06.2020,12,3,32,1.012,€40.00m
+144,Duván Zapata,29,"1,89 m",  Colombia,Forward - Centre-Forward,right,Atalanta BC,"Jan 17, 2020",30.06.2023,12,7,19,992,€40.00m
+145,Mateo Kovacic,25,"1,77 m",  Croatia,Midfielder - Central Midfield,right,Chelsea FC,"Jul 1, 2019",30.06.2024,2,3,37,2.184,€40.00m
+146,Eduardo Camavinga,17,"1,82 m","  France
+  Angola",Midfielder - Defensive Midfield,left,"Jan 1, 2019",30.06.2022,"Aug 15, 2019",1,2,36,2.189,€40.00m
+147,Naby Keïta,25,"1,72 m",  Guinea,Midfielder - Central Midfield,right,Liverpool FC,"Jul 1, 2018",30.06.2023,3,1,18,2.705,€40.00m
+148,Joe Gomez,22,"1,88 m","  England
+  The Gambia",Defender - Centre-Back,right,Liverpool FC,"Jul 1, 2015",30.06.2024,-,-,34,2.649,€40.00m
+149,Aaron Wan-Bissaka,22,"1,83 m","  England
+  DR Congo",Defender - Right-Back,right,Manchester United,"Jul 1, 2019",30.06.2024,-,2,34,3.042,€40.00m
+150,Ansu Fati,17,"1,78 m","  Spain
+  Guinea-Bissau",Forward - Left Winger,right,FC Barcelona,"Aug 1, 2019",30.06.2022,5,1,24,1.353,€40.00m
+151,Éder Militão,22,"1,86 m",  Brazil,Defender - Centre-Back,right,Real Madrid,"Jul 1, 2019",30.06.2025,-,-,13,14.312,€40.00m
+152,Maxi Gómez,23,"1,86 m",  Uruguay,Forward - Centre-Forward,right,Valencia CF,"Jul 14, 2019",30.06.2024,9,4,32,1.638,€40.00m
+153,Theo Hernández,22,"1,84 m","  France
+  Spain",Defender - Left-Back,left,AC Milan,"Jul 6, 2019",30.06.2024,6,2,25,1.880,€40.00m
+154,Diego Carlos,27,"1,86 m",  Brazil,Defender - Centre-Back,right,Sevilla FC,"Jul 1, 2019",30.06.2024,2,-,31,2.248,€40.00m
+155,Jonathan Ikoné,21,"1,75 m","  France
+  DR Congo",Midfielder - Attacking Midfield,left,LOSC Lille,"Jul 2, 2018",30.06.2023,4,7,36,770,€40.00m
+156,Caglar Söyüncü,23,"1,87 m",  Turkey,Defender - Centre-Back,right,Leicester City,"Aug 9, 2018",30.06.2023,1,1,35,3.324,€40.00m
+157,Dani Ceballos,23,"1,79 m",  Spain,Midfielder - Central Midfield,right,Arsenal FC,"Jul 25, 2019",30.06.2020,1,2,24,2.440,€40.00m
+158,Marco Asensio,24,"1,82 m","  Spain
+  Netherlands",Forward - Left Winger,left,Real Madrid,"Jul 1, 2015",30.06.2023,38,43,228,2.103,€40.00m
+159,Ferland Mendy,24,"1,80 m","  France
+  Senegal",Defender - Left-Back,left,Real Madrid,"Jul 1, 2019",30.06.2025,-,2,22,2.970,€40.00m
+160,Lorenzo Pellegrini,23,"1,86 m",  Italy,Midfielder - Central Midfield,both,AS Roma,"Jul 1, 2017",30.06.2022,3,11,24,1.942,€40.00m
+161,Ángel Correa,25,"1,71 m","  Argentina
+  Spain",Forward - Right Winger,right,Atlético Madrid,"Jan 1, 2015",30.06.2024,7,8,33,1.303,€45.00m
+162,Luka Jovic,22,"1,82 m",  Serbia,Forward - Centre-Forward,both,Real Madrid,"Jul 2, 2019",30.06.2025,2,2,24,1.234,€40.00m
+163,Alex Telles,27,"1,81 m","  Brazil
+  Italy",Defender - Left-Back,left,FC Porto,"Jul 12, 2016",30.06.2021,10,9,40,2.429,€40.00m
+164,Harry Winks,24,"1,78 m",  England,Midfielder - Central Midfield,right,Tottenham Hotspur,"Jul 1, 2016",30.06.2024,-,-,33,20,€40.00m
+165,Nélson Semedo,26,"1,77 m",  Portugal,Defender - Right-Back,right,FC Barcelona,"Jul 14, 2017",30.06.2022,-,5,29,2.860,€40.00m
+166,Ricardo Pereira,26,"1,75 m","  Portugal
+  Cape Verde",Defender - Right-Back,right,Leicester City,"Jul 1, 2018",30.06.2023,4,3,33,2.670,€40.00m
+167,Nabil Fekir,26,"1,73 m","  France
+  Algeria",Midfielder - Attacking Midfield,left,"Jul 23, 2019",30.06.2023,Nike,7,6,23,3.580,€40.00m
+168,Kepa,25,"1,86 m",  Spain,Goalkeeper,right,Chelsea FC,"Aug 8, 2018",30.06.2025,43,8,33,1.521,€40.00m
+169,Duván Zapata,29,"1,89 m",  Colombia,Forward - Centre-Forward,right,Atalanta BC,"Jan 17, 2020",30.06.2023,12,7,19,1.209,€40.00m
+170,Héctor Bellerín,25,"1,78 m",  Spain,Defender - Right-Back,right,Arsenal FC,"Jul 1, 2014",30.06.2023,1,2,16,1.553,€40.00m
+171,Lucas Ocampos,25,"1,87 m",  Argentina,Forward - Right Winger,both,Sevilla FC,"Jul 3, 2019",30.06.2024,12,3,29,2.919,€40.00m
+172,Florian Thauvin,27,"1,79 m",  France,Forward - Right Winger,left,"Jul 1, 2017",30.06.2021,adidas,-,-,2,2.405,€40.00m
+173,Piotr Zielinski,25,"1,80 m",  Poland,Midfielder - Central Midfield,both,SSC Napoli,"Aug 4, 2016",30.06.2021,2,5,35,2.379,€40.00m
+174,Andrea Belotti,26,"1,81 m",  Italy,Forward - Centre-Forward,right,"Aug 18, 2015",30.06.2022,"Dec 4, 2016",15,3,31,650,€40.00m
+175,Filip Kostic,27,"1,84 m",  Serbia,Midfielder - Left Midfield,left,Eintracht Frankfurt,"Jul 1, 2019",30.06.2023,12,15,40,942,€40.00m
+176,Felipe Anderson,26,"1,75 m",  Brazil,Forward - Left Winger,right,West Ham United,"Jul 15, 2018",30.06.2022,1,5,24,2.573,€40.00m
+177,Samuel Umtiti,26,"1,82 m","  France
+  Cameroon",Defender - Centre-Back,left,FC Barcelona,"Jul 12, 2016",30.06.2023,-,-,16,2.873,€40.00m
+178,Allan,29,"1,75 m","  Brazil
+  Portugal",Midfielder - Central Midfield,right,SSC Napoli,"Jul 21, 2015",30.06.2023,1,1,24,770,€40.00m
+179,Marcel Sabitzer,26,"1,77 m",  Austria,Forward - Right Winger,right,RB Leipzig,"Jul 1, 2014",30.06.2022,15,8,35,2.120,€40.00m
+180,Konstantinos Manolas,28,"1,89 m",  Greece,Defender - Centre-Back,right,SSC Napoli,"Jul 1, 2019",30.06.2024,3,-,27,2.957,€40.00m
+181,Thorgan Hazard,27,"1,75 m",  Belgium,Forward - Left Winger,right,Borussia Dortmund,"Jul 1, 2019",30.06.2024,5,11,34,452,€38.00m
+182,James Rodríguez,28,"1,81 m","  Colombia
+  Spain",Midfielder - Attacking Midfield,left,Real Madrid,"Jul 22, 2014",30.06.2021,1,2,13,3.510,€38.00m
+183,Joel Matip,28,"1,95 m","  Cameroon
+  Germany",Defender - Centre-Back,right,Liverpool FC,"Jul 1, 2016",30.06.2024,2,-,12,1.946,€38.00m
+184,Lucas Moura,27,"1,72 m",  Brazil,Forward - Right Winger,right,Tottenham Hotspur,"Jan 31, 2018",30.06.2024,7,3,39,2.650,€38.00m
+185,Ángel Di María,32,"1,80 m","  Argentina
+  Italy",Forward - Right Winger,left,Paris Saint-Germain,"Aug 6, 2015",30.06.2021,11,21,37,1.258,€38.00m
+186,Wojciech Szczesny,29,"1,96 m",  Poland,Goalkeeper,right,Juventus FC,"Jul 19, 2017",30.06.2024,25,10,26,934,€37.00m
+187,Luka Jovic,22,"1,82 m",  Serbia,Forward - Centre-Forward,both,Real Madrid,"Jul 2, 2019",30.06.2025,2,2,24,2.662,€37.00m
+188,Marco Reus,30,"1,80 m",  Germany,Forward - Second Striker,right,Borussia Dortmund,"Jul 1, 2012",30.06.2023,12,7,26,450,€35.00m
+189,Karim Benzema,32,"1,84 m","  France
+  Algeria",Forward - Centre-Forward,both,Real Madrid,"Jul 9, 2009",30.06.2022,19,9,36,2.500,€35.00m
+190,Malcom,23,"1,71 m",  Brazil,Forward - Right Winger,left,Zenit St. Petersburg,"Aug 2, 2019",30.06.2024,1,1,6,2.035,€35.00m
+191,Rúben Dias,22,"1,87 m",  Portugal,Defender - Centre-Back,right,SL Benfica,"Jul 1, 2017",30.06.2024,3,2,39,2.130,€35.00m
+192,Joaquín Correa,25,"1,88 m","  Argentina
+  Italy",Forward - Second Striker,right,SS Lazio,"Aug 1, 2018",30.06.2024,8,4,27,772,€35.00m
+193,Jack Grealish,24,"1,75 m","  England
+  Ireland",Midfielder - Attacking Midfield,right,Aston Villa,"Jul 1, 2013",30.06.2023,9,8,31,1.416,€35.00m
+194,Andrej Kramaric,28,"1,77 m",  Croatia,Forward - Centre-Forward,right,TSG 1899 Hoffenheim,"Jul 1, 2016",30.06.2022,7,3,15,3.070,€35.00m
+195,Leon Bailey,22,"1,78 m",  Jamaica,Forward - Left Winger,left,Bayer 04 Leverkusen,"Jan 31, 2017",30.06.2023,7,1,22,1.393,€35.00m
+196,Jonathan Tah,24,"1,95 m","  Germany
+  Cote d'Ivoire",Defender - Centre-Back,right,Bayer 04 Leverkusen,"Jul 16, 2015",30.06.2023,-,1,32,1.996,€35.00m
+197,Bruno Guimarães,22,"1,82 m","  Brazil
+  Spain",Midfielder - Central Midfield,right,Olympique Lyon,"Jan 30, 2020",30.06.2024,-,-,5,2.491,€35.00m
+198,Renan Lodi,21,"1,79 m",  Brazil,Defender - Left-Back,left,"Jul 7, 2019",30.06.2025,,1,3,33,180,€35.00m
+199,Dejan Kulusevski,19,"1,86 m","  Sweden
+  North Macedonia",Forward - Right Winger,left,"Jan 3, 2020",30.06.2020,Juventus FC,5,7,26,1.460,€35.00m
+200,Sandro Tonali,19,"1,81 m",  Italy,Midfielder - Defensive Midfield,right,Brescia Calcio,"Jan 1, 2018",30.06.2021,1,5,24,1.330,€35.00m
+201,Ryan Sessegnon,19,"1,78 m",  England,Midfielder - Left Midfield,left,Tottenham Hotspur,"Aug 8, 2019",30.06.2025,1,1,12,1.993,€35.00m
+202,Callum Hudson-Odoi,19,"1,77 m","  England
+  Ghana",Forward - Left Winger,right,Chelsea FC,"Jan 1, 2019",30.06.2024,4,6,27,2.074,€35.00m
+203,Benjamin Pavard,24,"1,86 m",  France,Defender - Right-Back,right,Bayern Munich,"Jul 1, 2019",30.06.2024,2,5,35,2.913,€35.00m
+204,Dan-Axel Zagadou,20,"1,96 m","  France
+  Cote d'Ivoire",Defender - Centre-Back,left,"Jul 1, 2017",30.06.2022,"Jun 5, 2017",1,1,20,1.944,€35.00m
+205,Christopher Nkunku,22,"1,75 m","  France
+  DR Congo",Midfielder - Attacking Midfield,right,RB Leipzig,"Jul 18, 2019",30.06.2024,4,15,33,2.226,€35.00m
+206,Diogo Jota,23,"1,78 m",  Portugal,Forward - Left Winger,right,Wolverhampton Wanderers,"Jul 1, 2018",30.06.2022,15,6,37,3.510,€38.00m
+207,Éverton,24,"1,74 m",  Brazil,Forward - Left Winger,right,"Jan 1, 2014",31.12.2023,"Oct 4, 2019",-,1,2,1.214,€35.00m
+208,Hirving Lozano,24,"1,75 m",  Mexico,Forward - Left Winger,right,SSC Napoli,"Aug 23, 2019",30.06.2024,3,2,28,2.787,€35.00m
+209,Alessandro Bastoni,20,"1,90 m",  Italy,Defender - Centre-Back,left,Inter Milan,"Aug 30, 2017",30.06.2023,1,-,17,1.076,€35.00m
+210,Dani Olmo,21,"1,79 m",  Spain,Midfielder - Attacking Midfield,right,RB Leipzig,"Jan 25, 2020",30.06.2024,9,8,27,3.497,€35.00m
+211,Milot Rashica,23,"1,77 m","  Kosovo
+  Albania",Forward - Left Winger,right,SV Werder Bremen,"Jan 31, 2018",30.06.2022,10,5,24,2.583,€35.00m
+212,Steven Bergwijn,22,"1,78 m","  Netherlands
+  Suriname",Forward - Left Winger,right,Tottenham Hotspur,"Jan 29, 2020",30.06.2025,8,13,36,3.126,€35.00m
+213,Presnel Kimpembe,24,"1,83 m","  France
+  DR Congo",Defender - Centre-Back,left,Paris Saint-Germain,"Jul 1, 2015",30.06.2023,-,-,24,2.105,€35.00m
+214,Issa Diop,23,"1,94 m","  France
+  Senegal",Defender - Centre-Back,right,West Ham United,"Jul 1, 2018",30.06.2023,3,-,26,2.225,€35.00m
+215,Alex Meret,23,"1,90 m",  Italy,Goalkeeper,left,SSC Napoli,"Jul 1, 2019",30.06.2023,27,6,21,2.804,€35.00m
+216,Rúben Dias,22,"1,87 m",  Portugal,Defender - Centre-Back,right,SL Benfica,"Jul 1, 2017",30.06.2024,3,2,39,1.764,€35.00m
+217,Thilo Kehrer,23,"1,86 m","  Germany
+  Burundi",Defender - Centre-Back,right,Paris Saint-Germain,"Aug 16, 2018",30.06.2023,1,-,16,1.813,€35.00m
+218,Lukas Klostermann,23,"1,89 m",  Germany,Defender - Centre-Back,right,RB Leipzig,"Aug 22, 2014",30.06.2021,3,2,33,3.313,€35.00m
+219,Federico Bernardeschi,26,"1,83 m",  Italy,Forward - Right Winger,left,Juventus FC,"Jul 24, 2017",30.06.2022,1,1,24,1.996,€35.00m
+220,Alejandro Grimaldo,24,"1,71 m",  Spain,Defender - Left-Back,left,SL Benfica,"Jan 1, 2016",30.06.2023,1,8,39,2.605,€35.00m
+221,Nico Elvedi,23,"1,89 m",  Switzerland,Defender - Centre-Back,right,Borussia Mönchengladbach,"Jul 1, 2015",30.06.2021,1,-,31,2.421,€35.00m
+222,Victor Lindelöf,25,"1,87 m",  Sweden,Defender - Centre-Back,right,Manchester United,"Jul 1, 2017",30.06.2024,1,1,35,2.187,€35.00m
+223,Nathan Aké,25,"1,80 m","  Netherlands
+  Cote d'Ivoire",Defender - Centre-Back,left,AFC Bournemouth,"Jul 1, 2017",30.06.2022,2,1,24,2.537,€35.00m
+224,Raphaël Guerreiro,26,"1,70 m","  Portugal
+  France",Midfielder - Left Midfield,left,"Jul 1, 2016",30.06.2023,"Oct 17, 2019",5,5,29,2.227,€35.00m
+225,Kurt Zouma,25,"1,90 m","  France
+  Central African Republic",Defender - Centre-Back,right,"Jan 31, 2014",30.06.2023,Nike,1,3,33,2.913,€35.00m
+226,Benjamin Mendy,25,"1,85 m","  France
+  Senegal",Defender - Left-Back,left,Manchester City,"Jul 24, 2017",30.06.2023,-,4,23,2.814,€35.00m
+227,Alex Oxlade-Chamberlain,26,"1,75 m",  England,Midfielder - Central Midfield,right,Liverpool FC,"Aug 31, 2017",30.06.2023,7,1,34,3.321,€35.00m
+228,Nicolás Tagliafico,27,"1,72 m","  Argentina
+  Italy",Defender - Left-Back,left,Ajax Amsterdam,"Jan 5, 2018",30.06.2022,5,7,38,1.097,€35.00m
+229,Jordan Pickford,26,"1,85 m",  England,Goalkeeper,left,Everton FC,"Jul 1, 2017",30.06.2024,51,8,34,1.756,€35.00m
+230,Christopher Nkunku,22,"1,75 m","  France
+  DR Congo",Midfielder - Attacking Midfield,right,RB Leipzig,"Jul 18, 2019",30.06.2024,4,15,33,1.807,€32.00m
+231,Lucas Digne,26,"1,78 m",  France,Defender - Left-Back,left,Everton FC,"Aug 1, 2018",30.06.2023,1,6,30,1.353,€32.00m
+232,Matthias Ginter,26,"1,91 m",  Germany,Defender - Centre-Back,right,Borussia Mönchengladbach,"Jul 4, 2017",30.06.2021,1,1,27,1.509,€32.00m
+233,Kieran Trippier,29,"1,73 m",  England,Defender - Right-Back,right,Atlético Madrid,"Jul 17, 2019",30.06.2022,-,4,26,3.166,€32.00m
+234,Kevin Volland,27,"1,79 m",  Germany,Forward - Centre-Forward,left,Bayer 04 Leverkusen,"Jul 1, 2016",30.06.2021,11,9,31,1.359,€32.00m
+235,Pablo Sarabia,27,"1,78 m",  Spain,Forward - Right Winger,left,Paris Saint-Germain,"Jul 2, 2019",30.06.2024,14,8,36,1.550,€32.00m
+236,Bernd Leno,28,"1,89 m",  Germany,Goalkeeper,right,Arsenal FC,"Jul 1, 2018",30.06.2023,38,8,30,1.899,€32.00m
+237,Steven Bergwijn,22,"1,78 m","  Netherlands
+  Suriname",Forward - Left Winger,right,Tottenham Hotspur,"Jan 29, 2020",30.06.2025,8,13,36,2.850,€32.00m
+238,Jordan Henderson,29,"1,87 m",  England,Midfielder - Central Midfield,right,"Jul 1, 2011",30.06.2023,"Sep 3, 2018",3,5,35,2.791,€32.00m
+239,Dani Parejo,30,"1,82 m",  Spain,Midfielder - Central Midfield,right,Valencia CF,"Jul 1, 2011",30.06.2022,10,6,37,1.672,€32.00m
+240,Aaron Ramsey,29,"1,82 m",  Wales,Midfielder - Central Midfield,both,Juventus FC,"Jul 1, 2019",30.06.2023,4,1,24,2.259,€32.00m
+241,Luis Suárez,33,"1,82 m","  Uruguay
+  Italy",Forward - Centre-Forward,right,FC Barcelona,"Jul 11, 2014",30.06.2021,14,11,23,2.150,€32.00m
+242,Mason Greenwood,18,"1,81 m",  England,Forward - Centre-Forward,both,"Jul 1, 2019",30.06.2023,club option 1 year,14,4,38,2.610,€30.00m
+243,Ozan Kabak,20,"1,86 m",  Turkey,Defender - Centre-Back,right,FC Schalke 04,"Jul 1, 2019",30.06.2024,3,1,21,1.085,€30.00m
+244,Alex Iwobi,23,"1,83 m","  Nigeria
+  England",Forward - Left Winger,right,Everton FC,"Aug 8, 2019",30.06.2024,2,1,22,3.012,€30.00m
+245,Adama Traoré,24,"1,78 m","  Spain
+  Mali",Forward - Right Winger,right,Wolverhampton Wanderers,"Aug 8, 2018",30.06.2023,6,10,43,1.629,€30.00m
+246,Corentin Tolisso,25,"1,81 m","  France
+  Togo",Midfielder - Central Midfield,right,Bayern Munich,"Jul 1, 2017",30.06.2022,3,5,24,1.606,€30.00m
+247,Adrien Rabiot,25,"1,88 m",  France,Midfielder - Central Midfield,left,Juventus FC,"Jul 1, 2019",30.06.2023,-,-,24,2.501,€30.00m
+248,Tiemoué Bakayoko,25,"1,89 m","  France
+  Cote d'Ivoire",Midfielder - Defensive Midfield,right,AS Monaco,"Aug 31, 2019",30.06.2020,1,2,23,1.807,€30.00m
+249,Iñigo Martínez,28,"1,82 m",  Spain,Defender - Centre-Back,left,"Jan 30, 2018",30.06.2023,,-,3,31,2.318,€30.00m
+250,Felipe,30,"1,91 m",  Brazil,Defender - Centre-Back,right,Atlético Madrid,"Jul 1, 2019",30.06.2022,2,-,31,2.563,€30.00m
+251,Stefan Savic,29,"1,87 m","  Montenegro
+  Serbia",Defender - Centre-Back,right,Atlético Madrid,"Jul 20, 2015",30.06.2022,1,-,19,1.055,€30.00m
+252,Thomas Müller,30,"1,86 m",  Germany,Forward - Second Striker,right,Bayern Munich,"Jul 1, 2009",30.06.2021,10,19,36,559,€30.00m
+253,Gonzalo Higuaín,32,"1,84 m","  Argentina
+  France",Forward - Centre-Forward,right,Juventus FC,"Jul 26, 2016",30.06.2021,8,8,34,2.722,€30.00m
+254,Nikola Milenkovic,22,"1,95 m",  Serbia,Defender - Centre-Back,right,ACF Fiorentina,"Jul 1, 2017",30.06.2022,3,-,29,2.278,€30.00m
+255,Phil Foden,19,"1,71 m",  England,Midfielder - Central Midfield,left,"Jul 1, 2017",30.06.2024,"Dec 10, 2018",3,7,26,4.337,€30.00m
+256,Victor Osimhen,21,"1,85 m",  Nigeria,Forward - Centre-Forward,right,LOSC Lille,"Aug 1, 2019",30.06.2024,18,6,38,2.730,€30.00m
+257,Samu Chukwueze,20,"1,72 m",  Nigeria,Forward - Right Winger,left,Villarreal CF,"Nov 1, 2018",30.06.2023,4,4,30,2.039,€30.00m
+258,Moussa Diaby,20,"1,70 m","  France
+  Mali",Forward - Left Winger,left,"Jul 1, 2019",30.06.2024,,5,6,26,1.597,€30.00m
+259,Boubacar Kamara,20,"1,84 m","  France
+  Senegal",Defender - Centre-Back,right,Olympique Marseille,"Jul 1, 2017",30.06.2022,2,2,28,2.513,€30.00m
+260,Wesley,23,"1,91 m",  Brazil,Forward - Centre-Forward,right,Aston Villa,"Jul 1, 2019",30.06.2024,6,1,22,2.880,€30.00m
+261,Amine Harit,22,"1,80 m","  Morocco
+  France",Midfielder - Attacking Midfield,right,FC Schalke 04,"Jul 10, 2017",30.06.2024,7,7,27,1.005,€30.00m
+262,Igor Zubeldia,23,"1,80 m",  Spain,Midfielder - Defensive Midfield,right,"Jul 1, 2017",30.06.2024,"Jun 29, 2018",-,1,31,1.035,€30.00m
+263,Cengiz Ünder,22,"1,73 m",  Turkey,Forward - Right Winger,left,AS Roma,"Jul 16, 2017",30.06.2023,3,-,20,1.380,€30.00m
+264,Merih Demiral,22,"1,90 m",  Turkey,Defender - Centre-Back,right,Juventus FC,"Jul 5, 2019",30.06.2024,1,1,7,90,€30.00m
+265,Mikel Merino,23,"1,86 m",  Spain,Midfielder - Central Midfield,left,Real Sociedad,"Jul 12, 2018",30.06.2023,4,1,32,1.702,€30.00m
+266,Dominic Calvert-Lewin,23,"1,87 m",  England,Forward - Centre-Forward,right,Everton FC,"Aug 31, 2016",30.06.2025,15,1,32,1.308,€30.00m
+267,David Brooks,22,"1,73 m","  Wales
+  England",Midfielder - Attacking Midfield,left,AFC Bournemouth,"Jul 1, 2018",30.06.2022,11,14,75,1.341,€30.00m
+268,Yeray Álvarez,25,"1,82 m",  Spain,Defender - Centre-Back,right,"Jul 1, 2016",30.06.2026,"Jul 18, 2019",-,-,30,2.024,€30.00m
+269,Ayoze Pérez,26,"1,78 m",  Spain,Forward - Second Striker,right,Leicester City,"Jul 4, 2019",30.06.2023,7,5,31,1.701,€30.00m
+270,Rafa Silva,26,"1,71 m",  Portugal,Midfielder - Left Midfield,right,SL Benfica,"Aug 31, 2016",30.06.2024,9,6,25,2.463,€30.00m
+271,Konrad Laimer,22,"1,80 m",  Austria,Midfielder - Central Midfield,right,RB Leipzig,"Jul 1, 2017",30.06.2023,4,4,33,2.425,€30.00m
+272,Djené,28,"1,78 m",  Togo,Defender - Centre-Back,right,Getafe CF,"Jul 24, 2017",30.06.2023,-,-,32,2.044,€30.00m
+273,Stefano Sensi,24,"1,68 m",  Italy,Midfielder - Central Midfield,right,Inter Milan,"Jul 2, 2019",30.06.2020,3,4,17,2.464,€30.00m
+274,Thomas Lemar,24,"1,71 m","  France
+  Guadeloupe",Forward - Left Winger,left,Atlético Madrid,"Jul 1, 2018",30.06.2023,-,-,24,1.595,€30.00m
+275,Oleksandr Zinchenko,23,"1,75 m",  Ukraine,Defender - Left-Back,left,Manchester City,"Jul 4, 2016",30.06.2024,1,-,18,880,€30.00m
+276,Ruben Loftus-Cheek,24,"1,91 m",  England,Midfielder - Central Midfield,right,Chelsea FC,"Jan 1, 2015",30.06.2024,-,1,1,2.481,€30.00m
+277,Andreas Christensen,23,"1,88 m",  Denmark,Defender - Centre-Back,right,Chelsea FC,"Jul 1, 2015",30.06.2022,-,-,20,2.640,€30.00m
+278,Ante Rebic,26,"1,85 m",  Croatia,Forward - Second Striker,right,AC Milan,"Sep 2, 2019",30.06.2021,10,2,24,2.135,€30.00m
+279,Emerson,25,"1,75 m","  Italy
+  Brazil",Defender - Left-Back,left,Chelsea FC,"Jan 30, 2018",30.06.2022,-,1,18,1.121,€30.00m
+280,Alassane Plea,27,"1,81 m","  France
+  Mali",Forward - Centre-Forward,right,Borussia Mönchengladbach,"Jul 13, 2018",30.06.2023,8,8,28,679,€30.00m
+281,Yussuf Poulsen,25,"1,93 m","  Denmark
+  Tanzania",Forward - Centre-Forward,right,RB Leipzig,"Jul 4, 2013",30.06.2022,3,11,29,3.333,€30.00m
+282,Danilo Pereira,28,"1,88 m","  Portugal
+  Guinea-Bissau",Midfielder - Defensive Midfield,right,FC Porto,"Jul 2, 2015",30.06.2022,-,1,30,3.228,€30.00m
+283,Idrissa Gueye,30,"1,74 m",  Senegal,Midfielder - Defensive Midfield,right,"Jul 30, 2019",30.06.2023,adidas,1,2,31,2.808,€30.00m
+284,Kerem Demirbay,26,"1,83 m","  Germany
+  Turkey",Midfielder - Central Midfield,left,Bayer 04 Leverkusen,"Jul 1, 2019",30.06.2024,1,6,29,1.463,€28.00m
+285,Callum Wilson,28,"1,80 m","  England
+  Ireland",Forward - Centre-Forward,right,AFC Bournemouth,"Jul 4, 2014",30.06.2023,9,1,32,834,€28.00m
+286,Willian José,28,"1,89 m","  Brazil
+  Spain",Forward - Centre-Forward,right,Real Sociedad,"Jul 31, 2016",30.06.2024,9,-,30,864,€28.00m
+287,Emre Can,26,"1,86 m","  Germany
+  Turkey",Midfielder - Defensive Midfield,right,Borussia Dortmund,"Jan 31, 2020",30.06.2024,1,-,16,2.083,€28.00m
+288,Granit Xhaka,27,"1,86 m",  Switzerland,Midfielder - Defensive Midfield,left,Arsenal FC,"Jul 1, 2016",30.06.2023,-,1,29,2.746,€28.00m
+289,Mário Fernandes,São Caetano do Sul  ,29,"1,87 m","  Russia
+  Brazil",Defender - Right-Back,Agencia Brasil,CSKA Moscow,"Jul 1, 2012",3,3,29,2.485,€28.00m
+290,Thomas Meunier,28,"1,90 m",  Belgium,Defender - Right-Back,right,Paris Saint-Germain,"Jul 3, 2016",30.06.2020,1,2,27,2.063,€28.00m
+291,Julian Draxler,26,"1,87 m",  Germany,Midfielder - Central Midfield,right,Paris Saint-Germain,"Jan 3, 2017",30.06.2021,-,7,19,2.665,€28.00m
+292,Douglas Costa,29,"1,72 m",  Brazil,Forward - Right Winger,left,Juventus FC,"Jul 1, 2018",30.06.2022,2,5,18,2.273,€28.00m
+293,César Azpilicueta,30,"1,78 m",  Spain,Defender - Right-Back,right,Chelsea FC,"Aug 24, 2012",30.06.2022,4,3,37,817,€28.00m
+294,Toby Alderweireld,31,"1,86 m",  Belgium,Defender - Centre-Back,right,Tottenham Hotspur,"Jul 8, 2015",30.06.2023,1,2,36,878,€28.00m
+295,Mats Hummels,31,"1,91 m",  Germany,Defender - Centre-Back,right,Borussia Dortmund,"Jul 1, 2019",30.06.2022,1,3,33,135,€28.00m
+296,Gabriel Martinelli,18,"1,80 m","  Brazil
+  Italy",Forward - Centre-Forward,right,Arsenal FC,"Jul 2, 2019",30.06.2024,10,4,26,2.411,€28.00m
+297,Lucas Paquetá,22,"1,80 m","  Brazil
+  Portugal",Midfielder - Attacking Midfield,left,AC Milan,"Jan 3, 2019",30.06.2023,-,1,19,3.443,€28.00m
+298,Moise Kean,20,"1,83 m","  Italy
+  Cote d'Ivoire",Forward - Centre-Forward,right,Everton FC,"Aug 4, 2019",30.06.2024,1,2,26,613,€28.00m
+299,Donyell Malen,21,"1,79 m","  Netherlands
+  Suriname",Forward - Centre-Forward,right,PSV Eindhoven,"Jul 1, 2018",30.06.2024,17,9,25,155,€28.00m
+300,Daniel James,22,"1,70 m","  Wales
+  England",Forward - Left Winger,right,Manchester United,"Jul 1, 2019",30.06.2024,4,7,37,1.761,€28.00m
+301,Marcus Thuram,22,"1,92 m","  France
+  Guadeloupe",Forward - Centre-Forward,right,Borussia Mönchengladbach,"Jul 22, 2019",30.06.2023,10,9,33,1.509,€28.00m
+302,Scott McTominay,23,"1,90 m","  Scotland
+  England",Midfielder - Central Midfield,right,Manchester United,"Jul 1, 2017",30.06.2023,5,1,27,2.166,€28.00m
+303,Gianluca Mancini,23,"1,90 m",  Italy,Defender - Centre-Back,right,AS Roma,"Jul 17, 2019",30.06.2024,1,1,31,2.532,€28.00m
+304,Tyrone Mings,27,"1,95 m","  England
+  Barbados",Defender - Centre-Back,left,Aston Villa,"Jul 8, 2019",-,2,1,26,1.327,€27.00m
+305,Gonçalo Guedes,23,"1,79 m",  Portugal,Forward - Left Winger,right,Valencia CF,"Aug 27, 2018",30.06.2023,-,1,14,2.082,€27.00m
+306,André Gomes,26,"1,88 m",  Portugal,Midfielder - Central Midfield,right,Everton FC,"Jul 1, 2019",30.06.2024,-,-,12,1.929,€27.00m
+307,Jean-Philippe Gbamin,24,"1,86 m","  Cote d'Ivoire
+  France",Midfielder - Defensive Midfield,right,Everton FC,"Aug 2, 2019",30.06.2024,-,-,2,2.915,€27.00m
+308,Morgan Sanson,25,"1,80 m",  France,Midfielder - Central Midfield,right,Olympique Marseille,"Jan 17, 2017",30.06.2022,5,5,30,1.125,€27.00m
+309,Leander Dendoncker,24,"1,88 m",  Belgium,Midfielder - Defensive Midfield,right,Wolverhampton Wanderers,"Jul 1, 2019",-,4,-,46,3.193,€27.00m
+310,Matteo Politano,26,"1,71 m",  Italy,Forward - Right Winger,left,SSC Napoli,"Jan 28, 2020",30.06.2021,-,-,22,2.779,€27.00m
+311,Yannick Carrasco,26,"1,80 m","  Belgium
+  Spain",Forward - Left Winger,both,Atlético Madrid,"Jan 31, 2020",30.06.2020,-,-,5,1.921,€26.00m
+312,Geoffrey Kondogbia,27,"1,88 m","  Central African Republic
+  France",Midfielder - Central Midfield,left,Valencia CF,"Jul 1, 2018",30.06.2022,2,-,24,223,€25.00m
+313,Emil Forsberg,28,"1,79 m",  Sweden,Forward - Left Winger,right,RB Leipzig,"Jan 7, 2015",30.06.2022,10,4,27,22,€25.00m
+314,Gylfi Sigurdsson,30,"1,86 m",  Iceland,Midfielder - Attacking Midfield,right,Everton FC,"Aug 16, 2017",30.06.2022,2,2,29,3.260,€25.00m
+315,Willian,31,"1,75 m",  Brazil,Forward - Right Winger,right,Chelsea FC,"Aug 28, 2013",30.06.2020,7,6,37,1.441,€25.00m
+316,Ismaïla Sarr,22,"1,85 m",  Senegal,Forward - Right Winger,right,Watford FC,"Aug 8, 2019",30.06.2024,6,4,21,1.747,€25.00m
+317,Boubakary Soumaré,21,"1,88 m","  France
+  Senegal",Midfielder - Defensive Midfield,right,LOSC Lille,"Jul 12, 2017",30.06.2022,-,1,30,1.096,€25.00m
+318,Krzysztof Piatek,24,"1,83 m",  Poland,Forward - Centre-Forward,right,Hertha BSC,"Jan 30, 2020",30.06.2025,7,1,27,1.992,€25.00m
+319,Wout Weghorst,27,"1,97 m",  Netherlands,Forward - Centre-Forward,right,VfL Wolfsburg,"Jul 1, 2018",30.06.2023,15,5,34,1.338,€25.00m
+320,Ross Barkley,26,"1,85 m",  England,Midfielder - Central Midfield,right,"Jan 5, 2018",30.06.2023,Nike,3,4,20,1.196,€25.00m
+321,Pizzi,Bragança  ,30,"1,77 m",  Portugal,Midfielder - Right Midfield,Gestifute,SL Benfica,"Jul 26, 2013",26,13,40,1.581,€25.00m
+322,Axel Witsel,31,"1,88 m","  Belgium
+  Martinique",Midfielder - Defensive Midfield,right,Borussia Dortmund,"Aug 6, 2018",30.06.2022,4,4,32,613,€28.00m
+323,Nahitan Nández,24,"1,72 m","  Uruguay
+  Italy",Midfielder - Central Midfield,right,Cagliari Calcio,"Aug 9, 2019",30.06.2024,1,4,26,1.932,€25.00m
+324,Reinier,18,"1,85 m",  Brazil,Midfielder - Attacking Midfield,right,"Jan 20, 2020",30.06.2026,Real Madrid Castilla (#19),2,1,3,1.530,€25.00m
+325,Gabriel Veron,17,"1,76 m",  Brazil,Forward - Right Winger,right,"Jan 1, 2020",31.12.2024,"Nov 21, 2019",-,-,1,2.026,€25.00m
+326,Jonathan David,20,"1,80 m","  Canada
+  United States",Midfielder - Attacking Midfield,both,KAA Gent,"Jul 1, 2018",30.06.2023,23,10,40,2.632,€25.00m
+327,William Saliba,19,"1,93 m","  France
+  Cameroon",Defender - Centre-Back,right,AS Saint-Étienne,"Jul 26, 2019",30.06.2020,-,-,17,1.977,€25.00m
+328,Reece James,20,"1,82 m",  England,Defender - Right-Back,right,Chelsea FC,"Jul 1, 2019",30.06.2025,2,4,28,1.146,€25.00m
+329,Youcef Atal,23,"1,76 m",  Algeria,Defender - Right-Back,both,OGC Nice,"Jul 17, 2018",30.06.2023,1,2,14,2.203,€25.00m
+330,Jules Koundé,21,"1,84 m","  France
+  Benin",Defender - Centre-Back,right,Sevilla FC,"Jul 3, 2019",30.06.2024,2,1,26,806,€25.00m
+331,Exequiel Palacios,21,"1,77 m",  Argentina,Midfielder - Central Midfield,right,"Jan 1, 2020",30.06.2025,,1,1,19,1.951,€25.00m
+332,Júnior Firpo,23,"1,84 m","  Spain
+  Dominican Republic",Defender - Left-Back,left,FC Barcelona,"Aug 4, 2019",30.06.2024,1,1,17,2.589,€25.00m
+333,Marash Kumbulla,20,"1,85 m","  Albania
+  Italy",Defender - Centre-Back,right,Hellas Verona,"Jul 1, 2018",30.06.2022,1,-,19,2.396,€25.00m
+334,Evan N'Dicka,20,"1,92 m","  France
+  Cameroon",Defender - Centre-Back,left,"Jul 5, 2018",30.06.2023,30.06.2021,-,-,22,2.650,€25.00m
+335,Matteo Politano,26,"1,71 m",  Italy,Forward - Right Winger,left,SSC Napoli,"Jan 28, 2020",Option to buy,1,1,28,2.059,€25.00m
+336,André Zambo Anguissa,24,"1,84 m",  Cameroon,Midfielder - Defensive Midfield,right,"Jul 26, 2019",30.06.2020,30.06.2024,14,3,34,1.485,€25.00m
+337,Alexander Isak,20,"1,90 m","  Sweden
+  Eritrea",Forward - Centre-Forward,right,Real Sociedad,"Jul 1, 2019",30.06.2023,3,2,28,2.660,€25.00m
+338,Nordi Mukiele,22,"1,87 m","  France
+  DR Congo",Defender - Right-Back,right,RB Leipzig,"Jul 1, 2018",30.06.2025,3,4,34,2.430,€25.00m
+339,Joelinton,23,"1,86 m",  Brazil,Forward - Centre-Forward,right,Newcastle United,"Jul 23, 2019",30.06.2023,7,2,27,1.509,€25.00m
+340,Justin Kluivert,20,"1,71 m","  Netherlands
+  Suriname",Forward - Left Winger,both,AS Roma,"Jul 1, 2018",,3,4,20,2.490,€25.00m
+341,Jeff Reine-Adélaïde,22,"1,84 m","  France
+  Martinique",Midfielder - Central Midfield,right,"Aug 14, 2019",30.06.2024,30.06.2024,3,2,26,1.945,€25.00m
+342,Gaetano Castrovilli,23,"1,87 m",  Italy,Midfielder - Central Midfield,right,ACF Fiorentina,"Jul 1, 2017",30.06.2024,-,2,12,1.554,€25.00m
+343,Kieran Tierney,22,"1,78 m","  Scotland
+  Isle of Man",Defender - Left-Back,left,Arsenal FC,"Aug 8, 2019",30.06.2022,1,2,25,1.862,€25.00m
+344,Franck Kessié,23,"1,83 m",  Cote d'Ivoire,Midfielder - Central Midfield,right,AC Milan,"Jul 1, 2019",30.06.2023,1,1,31,1.927,€25.00m
+345,Mauro Arambarri,24,"1,75 m",  Uruguay,Midfielder - Central Midfield,right,Getafe CF,"Jul 1, 2018",30.06.2023,2,1,29,1.699,€25.00m
+346,Yerry Mina,25,"1,95 m",  Colombia,Defender - Centre-Back,right,Everton FC,"Aug 9, 2018",30.06.2022,-,1,33,1.174,€25.00m
+347,Manuel Akanji,24,"1,87 m","  Switzerland
+  Nigeria",Defender - Centre-Back,right,Borussia Dortmund,"Jan 15, 2018",Real Madrid,1,4,25,1.530,€25.00m
+348,Sergio Reguilón,23,"1,78 m",  Spain,Defender - Left-Back,left,"Jul 5, 2019",30.06.2020,,-,-,20,2.042,€25.00m
+349,Mario Hermoso,24,"1,84 m",  Spain,Defender - Centre-Back,left,"Jul 18, 2019",30.06.2024,30.06.2024,2,-,32,1.680,€25.00m
+350,Nemanja Maksimovic,25,"1,84 m",  Serbia,Midfielder - Central Midfield,right,Getafe CF,"Jul 16, 2018",30.06.2022,8,5,30,2.790,€25.00m
+351,Robin Gosens,25,"1,83 m","  Germany
+  Netherlands",Defender - Left-Back,left,Atalanta BC,"Jul 1, 2017",Puma,3,4,21,1.479,€25.00m
+352,Allan Saint-Maximin,23,"1,73 m","  France
+  Guadeloupe",Forward - Left Winger,right,"Aug 2, 2019",30.06.2025,"Mar 13, 2020",3,4,30,2.500,€25.00m
+353,Aleksandr Golovin,23,"1,80 m",  Russia,Midfielder - Attacking Midfield,right,"Jul 27, 2018",30.06.2024,30.06.2023,1,2,24,2.074,€25.00m
+354,Jefferson Lerma,25,"1,79 m",  Colombia,Midfielder - Defensive Midfield,right,AFC Bournemouth,"Aug 7, 2018",30.06.2022,7,1,20,2.142,€25.00m
+355,Suat Serdar,22,"1,84 m","  Germany
+  Turkey",Midfielder - Central Midfield,right,FC Schalke 04,"Jul 1, 2018",30.06.2024,4,1,23,2.562,€25.00m
+356,Gelson Martins,24,"1,73 m","  Portugal
+  Cape Verde",Forward - Right Winger,right,AS Monaco,"Jul 1, 2019",30.06.2024,5,3,24,3.314,€25.00m
+357,Rodrigo de Paul,25,"1,80 m","  Argentina
+  Italy",Midfielder - Attacking Midfield,right,Udinese Calcio,"Jul 20, 2016",30.06.2022,-,2,20,1.975,€25.00m
+358,Diego Llorente,26,"1,86 m",  Spain,Defender - Centre-Back,right,Real Sociedad,"Jul 1, 2017",30.06.2020,7,3,19,1.592,€25.00m
+359,Patrik Schick,24,"1,87 m",  Czech Republic,Forward - Centre-Forward,left,RB Leipzig,"Sep 2, 2019",30.06.2022,32,9,32,2.050,€25.00m
+360,Duje Caleta-Car,23,"1,92 m",  Croatia,Defender - Centre-Back,right,"Jul 20, 2018",30.06.2023,30.06.2024,14,3,34,2.384,€25.00m
+361,Thomas Strakosha,25,"1,93 m",  Albania,Goalkeeper,right,SS Lazio,"Jan 31, 2013",30.06.2022,1,3,26,1.787,€25.00m
+362,Alexander Isak,20,"1,90 m","  Sweden
+  Eritrea",Forward - Centre-Forward,right,Real Sociedad,"Jul 1, 2019","Sep 13, 2016",-,2,25,1.131,€25.00m
+363,Florian Grillitsch,24,"1,87 m",  Austria,Midfielder - Central Midfield,right,TSG 1899 Hoffenheim,"Jul 1, 2017","Jan 4, 2018",1,1,31,3.050,€25.00m
+364,Eric Dier,26,"1,88 m","  England
+  Portugal",Midfielder - Defensive Midfield,right,"Jul 31, 2014",30.06.2021,30.06.2023,1,1,28,1.096,€25.00m
+365,James Tarkowski,27,"1,85 m","  England
+  Poland",Defender - Centre-Back,right,"Feb 1, 2016",30.06.2022,30.06.2024,3,1,34,2.107,€25.00m
+366,Leandro Paredes,25,"1,80 m",  Argentina,Midfielder - Defensive Midfield,right,Paris Saint-Germain,"Jan 29, 2019",30.06.2022,3,2,28,3.034,€25.00m
+367,Jordan Veretout,27,"1,77 m",  France,Midfielder - Central Midfield,right,AS Roma,"Jul 20, 2019",30.06.2023,4,5,30,3.672,€25.00m
+368,Remo Freuler,27,"1,80 m",  Switzerland,Midfielder - Central Midfield,right,Atalanta BC,"Jan 19, 2016","Aug 2, 2018",4,2,30,1.400,€25.00m
+369,Gerard Deulofeu,26,"1,77 m",  Spain,Forward - Left Winger,right,Watford FC,"Jul 1, 2018",30.06.2022,2,17,41,2.931,€25.00m
+370,Abdoulaye Doucouré,27,"1,83 m","  France
+  Mali",Midfielder - Central Midfield,right,"Feb 1, 2016",30.06.2023,30.06.2022,1,-,25,2.899,€25.00m
+371,Jesús Corona,27,"1,73 m",  Mexico,Midfielder - Right Midfield,right,FC Porto,"Aug 31, 2015",30.06.2023,4,3,20,1.546,€25.00m
+372,Michael Keane,27,"1,88 m","  England
+  Ireland",Defender - Centre-Back,right,Everton FC,"Jul 3, 2017",30.06.2023,2,1,24,1.702,€24.00m
+373,Marcos Alonso,29,"1,88 m",  Spain,Defender - Left-Back,left,Chelsea FC,"Aug 31, 2016",30.06.2023,4,4,27,2.501,€24.00m
+374,Luka Milivojevic,28,"1,86 m",  Serbia,Midfielder - Defensive Midfield,right,Crystal Palace,"Jan 31, 2017",30.06.2020,12,6,29,1.588,€24.00m
+375,Sergio Canales,29,"1,80 m",  Spain,Midfielder - Attacking Midfield,left,Real Betis Balompié,"Jul 3, 2018",30.06.2020,6,4,20,90,€24.00m
+376,Dries Mertens,32,"1,69 m",  Belgium,Forward - Centre-Forward,right,SSC Napoli,"Jul 1, 2013","Jul 7, 2019",23,1,34,2.153,€24.00m
+377,Henrikh Mkhitaryan,31,"1,77 m",  Armenia,Midfielder - Attacking Midfield,both,AS Roma,"Sep 2, 2019","Apr 25, 2017",7,3,22,1.478,€23.00m
+378,Aleksandar Mitrovic,25,"1,88 m",  Serbia,Forward - Centre-Forward,right,"Jul 30, 2018",30.06.2024,"Sep 27, 2019",2,2,26,480,€23.00m
+379,Edinson Cavani,33,"1,84 m","  Uruguay
+  Italy",Forward - Centre-Forward,right,"Jul 16, 2013",30.06.2020,30.06.2024,4,-,34,2.468,€23.00m
+380,Moussa Sissoko,30,"1,87 m","  France
+  Mali",Midfielder - Central Midfield,right,"Aug 31, 2016",30.06.2023,30.06.2023,16,21,42,1.676,€23.00m
+381,Leonardo Bonucci,32,"1,90 m",  Italy,Defender - Centre-Back,right,Juventus FC,"Aug 2, 2018",30.06.2021,-,4,31,36.063,€23.00m
+382,Dusan Tadic,31,"1,81 m",  Serbia,Forward - Left Winger,left,Ajax Amsterdam,"Jul 3, 2018",30.06.2022,1,-,33,165,€22.00m
+383,Ivan Rakitic,32,"1,84 m","  Croatia
+  Switzerland",Midfielder - Central Midfield,right,FC Barcelona,"Jul 1, 2014",30.06.2022,1,1,34,2.713,€22.00m
+384,Gerard Piqué,33,"1,92 m",  Spain,Defender - Centre-Back,right,FC Barcelona,"Jul 1, 2008",30.06.2024,43,9,34,3.529,€22.00m
+385,Daley Blind,30,"1,80 m",  Netherlands,Defender - Centre-Back,left,Ajax Amsterdam,"Jul 17, 2018",30.06.2024,1,2,21,2.562,€22.00m
+386,Pau López,25,"1,89 m",  Spain,Goalkeeper,left,AS Roma,"Jul 10, 2019",30.06.2024,9,5,21,2.987,€22.00m
+387,Bryan Cristante,25,"1,86 m","  Italy
+  Canada",Midfielder - Central Midfield,right,AS Roma,"Jul 1, 2019",30.06.2021,1,5,31,2.098,€22.00m
+388,Domenico Berardi,25,"1,83 m",  Italy,Forward - Right Winger,left,US Sassuolo,"Jul 1, 2015",30.06.2024,1,3,29,512,€22.00m
+389,Marten de Roon,29,"1,85 m",  Netherlands,Midfielder - Defensive Midfield,right,Atalanta BC,"Aug 10, 2017",30.11.2024,-,2,1,2.030,€22.00m
+390,Dennis Praet,25,"1,81 m",  Belgium,Midfielder - Central Midfield,right,Leicester City,"Aug 8, 2019",30.06.2022,-,2,29,1.099,€22.00m
+391,Oscar,28,"1,79 m","  Brazil
+  Italy",Midfielder - Attacking Midfield,right,Shanghai SIPG,"Jan 1, 2017",,-,-,20,1.920,€22.00m
+392,Francis Coquelin,28,"1,77 m",  France,Midfielder - Defensive Midfield,right,Valencia CF,"Jan 11, 2018",31.12.2024,2,-,5,1.775,€22.00m
+393,Amadou Diawara,22,"1,83 m",  Guinea,Midfielder - Defensive Midfield,right,"Jul 1, 2019",30.06.2024,30.06.2024,1,-,31,1.611,€22.00m
+394,Gabriel Barbosa,23,"1,78 m",  Brazil,Forward - Centre-Forward,left,Clube de Regatas do Flamengo,"Jan 28, 2020",30.06.2022,3,1,23,989,€22.00m
+395,Julian Weigl,24,"1,86 m",  Germany,Midfielder - Defensive Midfield,right,SL Benfica,"Jan 1, 2020",31.12.2023,118,51,467,3.046,€22.00m
+396,Matías Vecino,28,"1,87 m","  Uruguay
+  Italy",Midfielder - Central Midfield,right,Inter Milan,"Aug 2, 2017","Aug 16, 2019",1,-,2,1.661,€22.00m
+397,Paulinho,31,"1,83 m",  Brazil,Midfielder - Central Midfield,right,Guangzhou Evergrande Taobao,"Jan 2, 2019","Mar 5, 2019",9,9,34,2.282,€22.00m
+398,Matheus Henrique,22,"1,75 m",  Brazil,Midfielder - Central Midfield,right,"Sep 27, 2018",31.12.2023,30.06.2023,2,1,41,2.598,€22.00m
+399,Mohamed Ihattaren,18,"1,83 m","  Netherlands
+  Morocco",Midfielder - Attacking Midfield,left,"Jan 1, 2019",30.06.2022,30.06.2024,-,2,30,433,€22.00m
+400,Lisandro Martínez,22,"1,78 m",  Argentina,Defender - Centre-Back,left,Ajax Amsterdam,"Jul 1, 2019",30.06.2023,1,-,34,1.729,€22.00m
+401,Max Aarons,20,"1,78 m",  England,Defender - Right-Back,right,Norwich City,"Jul 1, 2018",30.06.2021,3,9,30,2.107,€22.00m
+402,Gabriel Magalhães,22,"1,90 m",  Brazil,Defender - Centre-Back,left,LOSC Lille,"Jan 31, 2017",30.06.2023,2,1,10,1.693,€22.00m
+403,Bukayo Saka,18,"1,78 m","  England
+  Nigeria",Midfielder - Left Midfield,left,Arsenal FC,"Jul 1, 2019",30.06.2024,7,7,32,2.205,€22.00m
+404,Jean-Philippe Mateta,22,"1,92 m","  France
+  DR Congo",Forward - Centre-Forward,right,1.FSV Mainz 05,"Jul 1, 2018",,2,2,22,991,€22.00m
+405,Harvey Barnes,22,"1,80 m",  England,Midfielder - Left Midfield,right,Leicester City,"Jul 1, 2017",30.06.2024,-,1,23,3.056,€22.00m
+406,Rafael Leão,20,"1,88 m","  Portugal
+  Angola",Forward - Centre-Forward,right,"Aug 1, 2019",30.06.2024,30.06.2022,1,2,26,1.907,€22.00m
+407,Ismaël Bennacer,22,"1,75 m","  Algeria
+  France",Midfielder - Defensive Midfield,left,AC Milan,"Aug 4, 2019",30.06.2023,-,-,24,2.713,€22.00m
+408,Sean Longstaff,22,"1,81 m",  England,Midfielder - Central Midfield,right,Newcastle United,"Jan 1, 2019",30.06.2020,5,3,12,746,€22.00m
+409,Mouctar Diakhaby,23,"1,92 m","  France
+  Guinea",Defender - Centre-Back,right,Valencia CF,"Jul 1, 2018",30.06.2024,4,-,36,2.925,€22.00m
+410,Christian Kouamé,22,"1,85 m",  Cote d'Ivoire,Forward - Centre-Forward,right,ACF Fiorentina,"Jan 31, 2020",30.06.2024,1,1,24,2.351,€22.00m
+411,Sander Berge,22,"1,95 m",  Norway,Midfielder - Defensive Midfield,right,Sheffield United,"Jan 30, 2020",30.06.2022,6,2,31,1.714,€22.00m
+412,Weston McKennie,21,"1,85 m",  United States,Midfielder - Central Midfield,right,FC Schalke 04,"Jul 1, 2017",30.06.2024,8,6,30,2.291,€22.00m
+413,Todd Cantwell,22,"1,77 m",  England,Midfielder - Left Midfield,right,Norwich City,"Jul 1, 2018",30.06.2022,-,-,6,1.899,€22.00m
+414,Nikola Vlasic,22,"1,78 m",  Croatia,Midfielder - Attacking Midfield,right,CSKA Moscow,"Jul 1, 2019",31.05.2020,6,2,27,2.227,€22.00m
+415,Eric Bailly,25,"1,87 m",  Cote d'Ivoire,Defender - Centre-Back,right,Manchester United,"Jul 1, 2016",30.06.2024,3,2,28,724,€22.00m
+416,Harry Wilson,23,"1,73 m","  Wales
+  England",Forward - Right Winger,left,AFC Bournemouth,"Aug 6, 2019",30.06.2020,1,4,21,2.053,€22.00m
+417,Florian Neuhaus,23,"1,83 m",  Germany,Midfielder - Central Midfield,right,Borussia Mönchengladbach,"Jul 1, 2017",,8,2,29,2.452,€22.00m
+418,Angeliño,23,"1,70 m",  Spain,Defender - Left-Back,left,RB Leipzig,"Jan 31, 2020",30.06.2024,-,1,13,3.046,€22.00m
+419,Neal Maupay,23,"1,73 m","  France
+  Argentina",Forward - Centre-Forward,right,"Aug 5, 2019",30.06.2023,30.06.2023,2,4,39,1.200,€22.00m
+420,Ben Davies,26,"1,81 m",  Wales,Defender - Left-Back,left,Tottenham Hotspur,"Jul 23, 2014",30.06.2023,1,2,26,1.812,€22.00m
+421,Fred,27,"1,69 m",  Brazil,Midfielder - Central Midfield,left,Manchester United,"Jul 1, 2018",30.06.2022,45,13,37,2.573,€21.00m
+422,Luke Shaw,24,"1,81 m",  England,Defender - Left-Back,left,Manchester United,"Jul 1, 2014","Mar 5, 2019",9,9,34,1.613,€21.00m
+423,Mike Maignan,24,"1,91 m","  France
+  French Guiana",Goalkeeper,right,LOSC Lille,"Aug 18, 2015",30.06.2021,8,3,25,1.590,€21.00m
+424,Mohamed Ihattaren,18,"1,83 m","  Netherlands
+  Morocco",Midfielder - Attacking Midfield,left,"Jan 1, 2019",30.06.2022,30.06.2022,1,-,33,125,€20.00m
+425,Michy Batshuayi,26,"1,84 m","  Belgium
+  DR Congo",Forward - Centre-Forward,right,Chelsea FC,"Jul 3, 2016",30.06.2020,1,4,32,813,€20.00m
+426,Gabriel Paulista,29,"1,87 m","  Brazil
+  Spain",Defender - Centre-Back,right,Valencia CF,"Aug 18, 2017",Option for a further year,2,2,35,180,€20.00m
+427,Ryan Fraser,26,"1,63 m",  Scotland,Forward - Left Winger,right,AFC Bournemouth,"Jan 18, 2013",30.06.2022,18,2,33,2.635,€20.00m
+428,Jesse Lingard,27,"1,74 m",  England,Forward - Right Winger,right,"Jul 1, 2012",30.06.2021,30.06.2021,2,3,25,1.374,€20.00m
+429,Danny Ings,27,"1,78 m",  England,Forward - Centre-Forward,right,Southampton FC,"Jul 1, 2019",30.06.2023,2,1,26,3.541,€20.00m
+430,Suso,26,"1,77 m",  Spain,Forward - Right Winger,left,Sevilla FC,"Jan 29, 2020",30.06.2022,-,-,9,2.114,€20.00m
+431,Marc Bartra,29,"1,84 m",  Spain,Defender - Centre-Back,right,Real Betis Balompié,"Jan 30, 2018",30.06.2022,21,9,29,2.145,€20.00m
+432,Thomas Delaney,28,"1,82 m","  Denmark
+  United States",Midfielder - Central Midfield,left,Borussia Dortmund,"Jul 1, 2018",30.06.2022,3,2,28,1.773,€20.00m
+433,Josip Ilicic,32,"1,90 m","  Slovenia
+  Croatia",Forward - Second Striker,left,Atalanta BC,"Jul 5, 2017",Option for a further year,41,12,37,1.798,€20.00m
+434,Marcel Halstenberg,28,"1,88 m",  Germany,Defender - Left-Back,left,RB Leipzig,"Aug 31, 2015",30.06.2024,4,-,36,2.254,€20.00m
+435,Anthony Lopes,29,"1,84 m","  Portugal
+  France",Goalkeeper,left,"Jul 1, 2011",30.06.2023,Option to buy,5,8,22,3.352,€20.00m
+436,Sander Berge,22,"1,95 m",  Norway,Midfielder - Defensive Midfield,right,Sheffield United,"Jan 30, 2020",30.06.2021,1,3,23,2.706,€20.00m
+437,Ivan Perisic,31,"1,87 m",  Croatia,Forward - Left Winger,both,"Aug 13, 2019",30.06.2020,30.06.2024,8,4,34,3.638,€20.00m
+438,Mesut Özil,31,"1,80 m",  Germany,Midfielder - Attacking Midfield,left,Arsenal FC,"Sep 2, 2013",Nike,6,6,25,2.191,€20.00m
+439,Krépin Diatta,21,"1,75 m",  Senegal,Forward - Left Winger,right,Club Brugge KV,"Jan 3, 2018",30.06.2023,11,5,18,2.731,€20.00m
+440,Dodi Lukebakio,22,"1,87 m","  Belgium
+  DR Congo",Forward - Right Winger,left,"Aug 1, 2019",30.06.2024,,-,-,2,1.687,€20.00m
+441,Yacine Brahimi,30,"1,75 m","  Algeria
+  France",Forward - Left Winger,right,Al Rayyan Sports Club,"Jul 23, 2019",Olympique Lyon UEFA U19 (#12),8,3,16,1.179,€20.00m
+442,João Pedro,18,"1,82 m",  Brazil,Forward - Centre-Forward,right,"Jan 1, 2020",30.06.2025,30.06.2024,-,-,2,514,€20.00m
+443,Rayan Cherki,16,"1,76 m","  France
+  Algeria",Midfielder - Attacking Midfield,right,"Jan 1, 2020",30.06.2022,30.06.2023,2,5,31,1.718,€20.00m
+444,Antony,20,"1,72 m",  Brazil,Forward - Right Winger,left,São Paulo Futebol Clube,"Jan 1, 2019",30.06.2023,5,2,24,2.844,€20.00m
+445,Dwight McNeil,20,"1,83 m",  England,Forward - Left Winger,left,Burnley FC,"Jul 1, 2018",30.06.2025,9,1,41,1.437,€20.00m
+446,Thiago Almada,18,"1,71 m",  Argentina,Midfielder - Attacking Midfield,right,Club Atlético Vélez Sarsfield,"Jul 1, 2018",30.06.2024,20,12,36,2.690,€20.00m
+447,Edmond Tapsoba,21,"1,92 m",  Burkina Faso,Defender - Centre-Back,right,Bayer 04 Leverkusen,"Jan 31, 2020",FC Barcelona,3,5,24,2.494,€20.00m
+448,Carlos Vinícius,25,"1,90 m",  Brazil,Forward - Centre-Forward,left,SL Benfica,"Jul 20, 2019","Dec 19, 2019",-,-,20,2.942,€20.00m
+449,Emerson,21,"1,83 m",  Brazil,Defender - Right-Back,right,"Jul 2, 2019",30.06.2021,30.06.2022,1,1,23,1.868,€20.00m
+450,Benoît Badiashile,19,"1,94 m","  France
+  DR Congo",Defender - Centre-Back,left,"Jul 1, 2018",30.06.2024,30.06.2023,3,2,32,2.671,€20.00m
+451,Luiz Felipe,23,"1,87 m","  Brazil
+  Italy",Defender - Centre-Back,right,SS Lazio,"Aug 30, 2016","Jul 19, 2019",20,13,39,2.730,€20.00m
+452,Douglas Luiz,21,"1,78 m",  Brazil,Midfielder - Central Midfield,right,Aston Villa,"Jul 25, 2019",30.06.2023,9,5,35,908,€20.00m
+453,Myron Boadu,19,"1,83 m","  Netherlands
+  Ghana",Forward - Centre-Forward,right,"Jul 1, 2017",30.06.2023,30.06.2023,10,12,42,2.362,€20.00m
+454,Raphinha,23,"1,75 m","  Brazil
+  Italy",Forward - Right Winger,left,Stade Rennais FC,"Sep 2, 2019",30.06.2024,1,2,26,986,€20.00m
+455,Calvin Stengs,21,"1,82 m","  Netherlands
+  Suriname",Forward - Right Winger,left,AZ Alkmaar,"May 18, 2017",30.06.2022,2,6,36,504,€20.00m
+456,Pau Torres,23,"1,91 m",  Spain,Defender - Centre-Back,left,Villarreal CF,"Jul 1, 2018",30.06.2024,3,5,30,2.755,€20.00m
+457,Sergiño Dest,19,"1,75 m","  United States
+  Netherlands",Defender - Right-Back,right,Ajax Amsterdam,"Sep 12, 2019",30.06.2024,-,1,15,2.488,€20.00m
+458,Pablo Fornals,24,"1,78 m",  Spain,Midfielder - Attacking Midfield,right,West Ham United,"Jul 1, 2019",30.06.2023,1,-,10,1.388,€20.00m
+459,Florentino,20,"1,84 m","  Portugal
+  Angola",Midfielder - Defensive Midfield,right,SL Benfica,"Feb 1, 2019",30.06.2022,11,3,29,2.357,€20.00m
+460,Diogo Dalot,21,"1,83 m",  Portugal,Defender - Right-Back,right,Manchester United,"Jul 1, 2018",30.06.2020,3,3,39,15.613,€20.00m
+461,Loren Morón,26,"1,85 m",  Spain,Forward - Centre-Forward,right,Real Betis Balompié,"Jan 30, 2018",30.06.2023,-,-,18,2.060,€20.00m
+462,Lucas Tousart,22,"1,85 m",  France,Midfielder - Defensive Midfield,right,Olympique Lyon,"Jan 28, 2020",30.06.2022,2,3,33,2.365,€20.00m
+463,Unai Núñez,23,"1,86 m",  Spain,Defender - Centre-Back,right,Athletic Bilbao,"Jul 1, 2017",,-,5,31,2.850,€20.00m
+464,Marc Roca,23,"1,84 m",  Spain,Midfielder - Defensive Midfield,left,RCD Espanyol Barcelona,"Jul 1, 2016",30.06.2025,18,6,36,1.184,€20.00m
+465,Valentin Rongier,25,"1,72 m",  France,Midfielder - Central Midfield,right,"Sep 3, 2019",30.06.2024,"Dec 12, 2019",2,1,22,1.266,€20.00m
+466,Jarrod Bowen,23,"1,75 m","  England
+  Wales",Forward - Right Winger,left,West Ham United,"Jan 31, 2020",Nike,1,9,37,2.044,€20.00m
+467,Fikayo Tomori,22,"1,84 m","  England
+  Canada",Defender - Centre-Back,right,"Jul 1, 2017",30.06.2024,30.06.2020,1,5,34,820,€20.00m
+468,Jonathan Bamba,24,"1,75 m","  France
+  Cote d'Ivoire",Forward - Left Winger,right,"Jul 2, 2018",30.06.2023,30.06.2020,-,2,15,1.960,€20.00m
+469,Marc Cucurella,21,"1,75 m",  Spain,Midfielder - Left Midfield,left,Getafe CF,"Jul 18, 2019",30.06.2024,12,3,29,2.383,€20.00m
+470,Carles Aleñá,22,"1,80 m",  Spain,Midfielder - Central Midfield,left,Real Betis Balompié,"Jan 1, 2020",30.06.2024,3,1,24,2.205,€20.00m
+471,Kasper Dolberg,22,"1,87 m",  Denmark,Forward - Centre-Forward,right,OGC Nice,"Aug 29, 2019",30.06.2020,-,1,7,1.693,€20.00m
+472,Marcos Llorente,25,"1,84 m",  Spain,Midfielder - Defensive Midfield,right,Atlético Madrid,"Jul 1, 2019",,6,1,33,2.528,€20.00m
+473,Álvaro Odriozola,24,"1,76 m",  Spain,Defender - Right-Back,right,Bayern Munich,"Jan 22, 2020","Apr 13, 2018",11,8,31,970,€20.00m
+474,Miguel Almirón,26,"1,74 m",  Paraguay,Midfielder - Attacking Midfield,left,"Jan 31, 2019",30.06.2024,30.06.2023,22,12,27,1.613,€20.00m
+475,Viktor Tsygankov,22,"1,77 m",  Ukraine,Forward - Right Winger,left,"Aug 1, 2016",30.06.2023,30.06.2021,2,2,19,1.619,€20.00m
+476,Unai Simón,22,"1,90 m",  Spain,Goalkeeper,right,Athletic Bilbao,"Jul 1, 2018",30.06.2024,2,-,30,1.316,€20.00m
+477,Timothy Castagne,24,"1,80 m",  Belgium,Defender - Right-Back,right,Atalanta BC,"Jul 7, 2017",30.06.2022,93,31,236,2.227,€20.00m
+478,Joachim Andersen,23,"1,92 m",  Denmark,Defender - Centre-Back,right,Olympique Lyon,"Jul 12, 2019",30.06.2023,4,1,33,2.944,€20.00m
+479,Talisca,26,"1,90 m",  Brazil,Midfielder - Attacking Midfield,left,Guangzhou Evergrande Taobao,"Jan 1, 2019",30.06.2023,1,-,27,1.156,€20.00m
+480,Renato Sanches,22,"1,76 m","  Portugal
+  Sao Tome and Principe",Midfielder - Central Midfield,right,LOSC Lille,"Aug 23, 2019",30.06.2023,-,3,32,error,error
+481,Wilmar Barrios,26,"1,78 m",  Colombia,Midfielder - Defensive Midfield,right,Zenit St. Petersburg,"Feb 1, 2019",30.06.2022,-,-,22,error,error
+482,Zeki Celik,23,"1,80 m",  Turkey,Defender - Right-Back,right,LOSC Lille,"Jul 7, 2018",30.06.2022,8,4,26,error,error
+483,Lewis Cook,23,"1,75 m",  England,Midfielder - Central Midfield,right,AFC Bournemouth,"Jul 8, 2016",30.06.2024,1,6,32,error,error
+484,Keita Baldé,25,"1,84 m","  Senegal
+  Spain",Forward - Left Winger,both,AS Monaco,"Aug 29, 2017",30.06.2021,3,2,18,error,error
+485,Nadiem Amiri,23,"1,80 m","  Germany
+  Afghanistan",Midfielder - Attacking Midfield,right,Bayer 04 Leverkusen,"Jul 30, 2019",30.06.2022,8,4,25,error,error
+486,Lucas Vázquez,28,"1,73 m",  Spain,Forward - Right Winger,right,Real Madrid,"Jul 2, 2015",30.06.2020,7,7,32,error,error
+487,Jeremie Boga,23,"1,74 m","  Cote d'Ivoire
+  France",Forward - Left Winger,right,US Sassuolo,"Jul 21, 2018",30.06.2023,2,4,37,error,error
+488,Mario Pasalic,25,"1,88 m",  Croatia,Midfielder - Central Midfield,right,Atalanta BC,"Jul 25, 2018",30.06.2021,8,4,26,error,error
+489,Andreas Pereira,24,"1,78 m","  Brazil
+  Belgium",Midfielder - Attacking Midfield,right,Manchester United,"Jul 1, 2015",30.06.2022,19,6,30,error,error
+490,André Silva,24,"1,84 m",  Portugal,Forward - Centre-Forward,right,Eintracht Frankfurt,"Sep 2, 2019",30.06.2022,6,2,16,error,error
+491,Jamie Vardy,33,"1,79 m",  England,Forward - Centre-Forward,right,Leicester City,"Jul 1, 2012","Aug 8, 2019",3,2,20,error,error
+492,Luca Waldschmidt,23,"1,81 m",  Germany,Forward - Centre-Forward,left,SC Freiburg,"Jul 1, 2018",30.06.2024,-,-,22,error,error
+493,John McGinn,25,"1,78 m",  Scotland,Midfielder - Central Midfield,left,"Aug 8, 2018",30.06.2024,Mizuno,1,3,28,error,error
+494,Stanislav Lobotka,25,"1,72 m",  Slovakia,Midfielder - Defensive Midfield,both,SSC Napoli,"Jan 15, 2020",30.06.2023,13,4,27,error,error
+495,Shoya Nakajima,25,"1,64 m",  Japan,Forward - Left Winger,right,"Jul 5, 2019",30.06.2024,,1,2,38,error,error
+496,Gerard Moreno,27,"1,80 m",  Spain,Forward - Centre-Forward,left,Villarreal CF,"Jul 1, 2018",30.06.2022,3,2,22,error,error
+497,Jonny Otto,26,"1,75 m",  Spain,Defender - Left-Back,both,"Jan 31, 2019",30.06.2023,error,error,error,error,error,error
+498,Bernard,27,"1,64 m","  Brazil
+  Spain",Forward - Left Winger,right,Everton FC,"Aug 9, 2018",error,error,error,error,error,error
+499,error,error,error,error,error,error,error,error,error,error,error,error,error,error
