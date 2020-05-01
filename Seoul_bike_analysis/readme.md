@@ -8,6 +8,6 @@
   * folium icon
     * icon을 맘대로 적용할 수 있음
     * [Font-Awesome](https://fontawesome.com/)에서 아이콘 찾은 후, 아이콘명과 접두사를 넣어주면 사용 
-```python
-folium.Marker([lat, lng], icon=folium.Icon(color='black',icon="bicycle", prefix='fa')).add_to(map)
-```
+      ```python
+      folium.Marker([lat, lng], icon=folium.Icon(color='black',icon="bicycle", prefix='fa')).add_to(map)
+      ```
