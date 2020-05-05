@@ -1,5 +1,6 @@
 # 서울시 따릉이 데이터 분석
 * 데이터 소스: [대여소 정보](https://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do), [이용 정보](https://data.seoul.go.kr/dataList/OA-15248/F/1/datasetView.do)
+* [nbviewer로 보기](https://nbviewer.jupyter.org/gist/Sean-Parkk/0d7d9567b0d8145eaf2f4fec587740f4)
 * 새로 알게된 것
   * folium plugin
     * HeatMap, Clustering을 자주 쓰게될 듯.
