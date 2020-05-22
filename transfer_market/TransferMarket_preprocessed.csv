@@ -1,0 +1,501 @@
+,name,age,height,country,position,position-detail,foot,league,team,joined,contract expires,goals,assists,appearances,goals conceded,clean sheets,market value
+0,Kylian Mbappé,21,178,France,Forward,Centre-Forward,right,Ligue 1,Paris Saint-Germain,2018-07-01,2022-06-30,30,17,33,0,0,267274026727.39996
+1,Raheem Sterling,25,170,England,Forward,Left Winger,right,Premier League,Manchester City,2015-07-14,2023-06-30,20,7,39,0,0,213819221381.91998
+2,Neymar,28,175,Brazil,Forward,Left Winger,right,Ligue 1,Paris Saint-Germain,2017-08-03,2022-06-30,18,10,22,0,0,213819221381.91998
+3,Sadio Mané,27,174,Senegal,Forward,Left Winger,right,Premier League,Liverpool FC,2016-07-01,2023-06-30,18,12,38,0,0,200455520045.55
+4,Mohamed Salah,27,175,Egypt,Forward,Right Winger,left,Premier League,Liverpool FC,2017-07-01,2023-06-30,20,9,40,0,0,200455520045.55
+5,Harry Kane,26,188,England,Forward,Centre-Forward,right,Premier League,Tottenham Hotspur,2011-01-01,2024-06-30,17,2,25,0,0,200455520045.55
+6,Kevin De Bruyne,28,181,Belgium,Midfielder,Attacking Midfield,right,Premier League,Manchester City,2015-08-30,2023-06-30,9,20,35,0,0,200455520045.55
+7,Lionel Messi,32,170,Argentina,Forward,Right Winger,left,LaLiga,FC Barcelona,2005-07-01,2021-06-30,24,16,31,0,0,187091818709.18
+8,Jadon Sancho,20,180,England,Forward,Right Winger,right,Bundesliga,Borussia Dortmund,2017-08-31,2022-06-30,17,19,35,0,0,173728117372.81
+9,Antoine Griezmann,29,176,France,Forward,Left Winger,left,LaLiga,FC Barcelona,2019-07-14,2024-06-30,14,4,37,0,0,160364416036.43997
+10,Trent Alexander-Arnold,21,180,England,Defender,Right-Back,right,Premier League,Liverpool FC,2016-07-01,2024-06-30,2,14,40,0,0,147000714700.06998
+11,Bernardo Silva,25,173,Portugal,Forward,Right Winger,left,Premier League,Manchester City,2017-07-01,2025-06-30,7,8,40,0,0,133637013363.69998
+12,N'Golo Kanté,29,168,France,Midfielder,Central Midfield,right,Premier League,Chelsea FC,2016-07-16,2023-06-30,3,0,22,0,0,133637013363.69998
+13,Leroy Sané,24,184,Germany,Forward,Left Winger,left,Premier League,Manchester City,2016-08-02,2021-06-30,0,0,2,0,0,133637013363.69998
+14,Virgil van Dijk,28,193,Netherlands,Defender,Centre-Back,right,Premier League,Liverpool FC,2018-01-01,2023-06-30,4,2,41,0,0,133637013363.69998
+15,Paul Pogba,27,191,France,Midfielder,Central Midfield,both,Premier League,Manchester United,2016-08-09,2021-06-30,0,2,8,0,0,133637013363.69998
+16,Jan Oblak,27,188,Slovenia,Goalkeeper,Goalkeeper,right,LaLiga,Atlético Madrid,2014-07-16,2023-06-30,0,0,37,30,16,133637013363.69998
+17,Eden Hazard,29,175,Belgium,Forward,Left Winger,both,LaLiga,Real Madrid,2019-07-01,2024-06-30,1,5,15,0,0,133637013363.69998
+18,João Félix,20,180,Portugal,Forward,Second Striker,both,LaLiga,Atlético Madrid,2019-07-03,2026-06-30,6,3,28,0,0,120273312027.32999
+19,Frenkie de Jong,22,181,Netherlands,Midfielder,Central Midfield,right,LaLiga,FC Barcelona,2019-07-01,2024-06-30,2,4,37,0,0,120273312027.32999
+20,Kai Havertz,20,189,Germany,Midfielder,Attacking Midfield,left,Bundesliga,Bayer 04 Leverkusen,2016-07-01,2022-06-30,10,8,34,0,0,120273312027.32999
+21,Paulo Dybala,26,177,Argentina,Forward,Second Striker,left,Serie A,Juventus FC,2015-07-01,2022-06-30,13,12,34,0,0,120273312027.32999
+22,Serge Gnabry,24,175,Germany,Forward,Right Winger,right,Bundesliga,Bayern Munich,2017-07-01,2023-06-30,18,11,33,0,0,120273312027.32999
+23,Saúl Ñíguez,25,184,Spain,Midfielder,Central Midfield,left,LaLiga,Atlético Madrid,2013-07-01,2026-06-30,4,0,37,0,0,120273312027.32999
+24,Roberto Firmino,28,181,Brazil,Forward,Centre-Forward,right,Premier League,Liverpool FC,2015-07-01,2023-06-30,11,12,43,0,0,120273312027.32999
+25,Alisson,27,191,Brazil,Goalkeeper,Goalkeeper,right,Premier League,Liverpool FC,2018-07-19,2024-06-30,0,0,28,17,14,120273312027.32999
+26,Marc-André ter Stegen,27,187,Germany,Goalkeeper,Goalkeeper,right,LaLiga,FC Barcelona,2014-07-01,2022-06-30,0,0,34,34,11,120273312027.32999
+27,Romelu Lukaku,26,191,Belgium,Forward,Centre-Forward,left,Serie A,Inter Milan,2019-08-08,2024-06-30,23,5,35,0,0,113591461359.14499
+28,Christian Eriksen,28,182,Denmark,Midfielder,Attacking Midfield,both,Serie A,Inter Milan,2020-01-28,2024-06-30,4,4,36,0,0,113591461359.14499
+29,Erling Haaland,19,194,Norway,Forward,Centre-Forward,left,Bundesliga,Borussia Dortmund,2020-01-01,2024-06-30,40,9,33,0,0,106909610690.95999
+30,Lautaro Martínez,22,174,Argentina,Forward,Centre-Forward,right,Serie A,Inter Milan,2018-07-04,2023-06-30,16,4,31,0,0,106909610690.95999
+31,Rodri,23,191,Spain,Midfielder,Defensive Midfield,right,Premier League,Manchester City,2019-07-04,2024-06-30,4,1,39,0,0,106909610690.95999
+32,Sergej Milinkovic-Savic,25,191,Serbia,Midfielder,Central Midfield,right,Serie A,SS Lazio,2015-08-06,2024-06-30,5,7,31,0,0,106909610690.95999
+33,Marcus Rashford,22,185,England,Forward,Centre-Forward,right,Premier League,Manchester United,2016-01-01,2023-06-30,19,5,31,0,0,106909610690.95999
+34,Andrew Robertson,26,178,Scotland,Defender,Left-Back,left,Premier League,Liverpool FC,2017-07-21,2024-06-30,2,7,41,0,0,106909610690.95999
+35,Dele Alli,23,188,England,Midfielder,Attacking Midfield,right,Premier League,Tottenham Hotspur,2015-02-02,2024-06-30,9,5,35,0,0,106909610690.95999
+36,Timo Werner,24,181,Germany,Forward,Centre-Forward,right,Bundesliga,RB Leipzig,2016-07-01,2023-06-30,27,12,36,0,0,106909610690.95999
+37,Raphaël Varane,26,191,France,Defender,Centre-Back,right,LaLiga,Real Madrid,2011-07-01,2022-06-30,3,1,33,0,0,106909610690.95999
+38,Joshua Kimmich,25,176,Germany,Midfielder,Defensive Midfield,right,Bundesliga,Bayern Munich,2015-07-02,2023-06-30,4,8,36,0,0,106909610690.95999
+39,Heung-min Son,27,184,Korea,Forward,Left Winger,both,Premier League,Tottenham Hotspur,2015-08-28,2023-06-30,16,9,32,0,0,106909610690.95999
+40,Casemiro,28,185,Brazil,Midfielder,Defensive Midfield,right,LaLiga,Real Madrid,2013-07-01,2023-06-30,4,4,35,0,0,106909610690.95999
+41,Matthijs de Ligt,20,189,Netherlands,Defender,Centre-Back,right,Serie A,Juventus FC,2019-07-18,2024-06-30,2,0,27,0,0,100227760022.775
+42,Aymeric Laporte,25,190,France,Defender,Centre-Back,left,Premier League,Manchester City,2018-01-30,2025-06-30,0,0,8,0,0,100227760022.775
+43,Marco Verratti,27,165,Italy,Midfielder,Central Midfield,right,Ligue 1,Paris Saint-Germain,2012-07-18,2024-06-30,0,6,33,0,0,100227760022.775
+44,Mauro Icardi,27,181,Argentina,Forward,Centre-Forward,right,Ligue 1,Paris Saint-Germain,2019-09-02,2020-06-30,20,4,31,0,0,100227760022.775
+45,Cristiano Ronaldo,35,187,Portugal,Forward,Left Winger,both,Serie A,Juventus FC,2018-07-10,2022-06-30,25,4,32,0,0,100227760022.775
+46,Gabriel Jesus,23,175,Brazil,Forward,Centre-Forward,right,Premier League,Manchester City,2017-01-01,2023-06-30,18,9,39,0,0,93545909354.59
+47,Arthur,23,172,Brazil,Midfielder,Central Midfield,right,LaLiga,FC Barcelona,2018-07-09,2024-06-30,4,4,23,0,0,93545909354.59
+48,Ousmane Dembélé,22,178,France,Forward,Right Winger,both,LaLiga,FC Barcelona,2017-08-25,2022-06-30,1,0,9,0,0,93545909354.59
+49,Lucas Hernández,24,182,France,Defender,Centre-Back,left,Bundesliga,Bayern Munich,2019-07-01,2024-06-30,0,0,14,0,0,93545909354.59
+50,José Giménez,25,185,Uruguay,Defender,Centre-Back,right,LaLiga,Atlético Madrid,2013-07-01,2023-06-30,0,1,16,0,0,93545909354.59
+51,Ederson,26,188,Brazil,Goalkeeper,Goalkeeper,left,Premier League,Manchester City,2017-07-01,2025-06-30,0,0,31,27,13,93545909354.59
+52,Fabinho,26,188,Brazil,Midfielder,Defensive Midfield,right,Premier League,Liverpool FC,2018-07-01,2023-06-30,1,2,31,0,0,93545909354.59
+53,Harry Maguire,27,194,England,Defender,Centre-Back,right,Premier League,Manchester United,2019-08-05,2025-06-30,2,2,41,0,0,93545909354.59
+54,Kalidou Koulibaly,28,187,Senegal,Defender,Centre-Back,right,Serie A,SSC Napoli,2014-07-01,2023-06-30,0,0,21,0,0,93545909354.59
+55,Philippe Coutinho,27,172,Brazil,Midfielder,Attacking Midfield,right,Bundesliga,Bayern Munich,2019-08-19,2020-06-30,9,8,32,0,0,93545909354.59
+56,Pierre-Emerick Aubameyang,30,187,Gabon,Forward,Centre-Forward,right,Premier League,Arsenal FC,2018-01-31,2021-06-30,20,1,32,0,0,93545909354.59
+57,Robert Lewandowski,31,184,Poland,Forward,Centre-Forward,right,Bundesliga,Bayern Munich,2014-07-01,2023-06-30,39,5,33,0,0,93545909354.59
+58,Tanguy Ndombélé,23,181,France,Midfielder,Central Midfield,right,Premier League,Tottenham Hotspur,2019-07-02,2025-06-30,2,4,27,0,0,86864058686.405
+59,Richarlison,22,179,Brazil,Forward,Left Winger,right,Premier League,Everton FC,2018-07-24,2024-06-30,12,4,32,0,0,86864058686.405
+60,Nicolas Pépé,24,183,Cote,Forward,Right Winger,left,Premier League,Arsenal FC,2019-08-01,2024-06-30,6,8,32,0,0,86864058686.405
+61,Marquinhos,25,183,Brazil,Defender,Centre-Back,right,Ligue 1,Paris Saint-Germain,2013-07-19,2024-06-30,4,1,32,0,0,86864058686.405
+62,Jorginho,28,180,Italy,Midfielder,Defensive Midfield,right,Premier League,Chelsea FC,2018-07-14,2023-06-30,7,2,37,0,0,86864058686.405
+63,David Alaba,27,180,Austria,Defender,Centre-Back,left,Bundesliga,Bayern Munich,2010-07-01,2021-06-30,1,2,28,0,0,86864058686.405
+64,Miralem Pjanic,30,180,Bosnia,Midfielder,Central Midfield,right,Serie A,Juventus FC,2016-07-01,2023-06-30,3,4,32,0,0,86864058686.405
+65,Sergio Agüero,31,173,Argentina,Forward,Centre-Forward,right,Premier League,Manchester City,2011-07-28,2021-06-30,23,3,30,0,0,86864058686.405
+66,Achraf Hakimi,21,181,Morocco,Defender,Right-Back,right,Bundesliga,Borussia Dortmund,2018-07-11,2020-06-30,7,10,37,0,0,80182208018.21999
+67,Federico Valverde,21,182,Uruguay,Midfielder,Central Midfield,right,LaLiga,Real Madrid,2018-07-01,2025-06-30,2,4,32,0,0,80182208018.21999
+68,Mikel Oyarzabal,22,181,Spain,Forward,Left Winger,left,LaLiga,Real Sociedad,2016-01-01,2024-06-30,10,7,33,0,0,80182208018.21999
+69,Fabián Ruiz,24,189,Spain,Midfielder,Central Midfield,left,Serie A,SSC Napoli,2018-07-05,2023-06-30,3,2,32,0,0,80182208018.21999
+70,Davinson Sánchez,23,187,Colombia,Defender,Centre-Back,right,Premier League,Tottenham Hotspur,2017-08-23,2024-06-30,0,0,32,0,0,80182208018.21999
+71,Federico Chiesa,22,180,Italy,Forward,Right Winger,right,Serie A,ACF Fiorentina,2016-07-01,2022-06-30,7,5,26,0,0,80182208018.21999
+72,Christian Pulisic,21,172,United,Forward,Right Winger,right,Premier League,Chelsea FC,2019-01-02,2024-06-30,6,6,23,0,0,80182208018.21999
+73,James Maddison,23,175,England,Midfielder,Attacking Midfield,right,Premier League,Leicester City,2018-07-01,2023-06-30,9,3,35,0,0,80182208018.21999
+74,Bruno Fernandes,25,183,Portugal,Midfielder,Attacking Midfield,right,Premier League,Manchester United,2020-01-29,2025-06-30,18,18,37,0,0,80182208018.21999
+75,Milan Skriniar,25,188,Slovakia,Defender,Centre-Back,right,Serie A,Inter Milan,2017-07-07,2023-06-30,0,1,32,0,0,80182208018.21999
+76,Clément Lenglet,24,186,France,Defender,Centre-Back,left,LaLiga,FC Barcelona,2018-07-12,2023-06-30,3,1,29,0,0,80182208018.21999
+77,Anthony Martial,24,183,France,Forward,Centre-Forward,right,Premier League,Manchester United,2015-09-01,2024-06-30,16,5,34,0,0,80182208018.21999
+78,Riyad Mahrez,29,179,Algeria,Forward,Right Winger,left,Premier League,Manchester City,2018-07-10,2023-06-30,9,14,37,0,0,80182208018.21999
+79,Niklas Süle,24,195,Germany,Defender,Centre-Back,right,Bundesliga,Bayern Munich,2017-07-01,2022-06-30,0,1,12,0,0,80182208018.21999
+80,Marcelo Brozovic,27,181,Croatia,Midfielder,Defensive Midfield,both,Serie A,Inter Milan,2016-07-01,2022-06-30,3,5,32,0,0,80182208018.21999
+81,Lorenzo Insigne,28,163,Italy,Forward,Left Winger,right,Serie A,SSC Napoli,2010-01-01,2022-06-30,9,6,31,0,0,80182208018.21999
+82,Stefan de Vrij,28,189,Netherlands,Defender,Centre-Back,right,Serie A,Inter Milan,2018-07-01,2023-06-30,2,4,30,0,0,80182208018.21999
+83,Thibaut Courtois,27,199,Belgium,Goalkeeper,Goalkeeper,left,LaLiga,Real Madrid,2018-08-09,2024-06-30,0,0,32,26,15,80182208018.21999
+84,Alexandre Lacazette,28,176,France,Forward,Centre-Forward,right,Premier League,Arsenal FC,2017-07-05,2022-06-30,9,3,26,0,0,80182208018.21999
+85,Koke,28,176,Spain,Midfielder,Central Midfield,right,LaLiga,Atlético Madrid,2011-01-01,2024-06-30,3,5,31,0,0,80182208018.21999
+86,Thiago,28,174,Spain,Midfielder,Central Midfield,right,Bundesliga,Bayern Munich,2013-07-14,2021-06-30,3,2,32,0,0,80182208018.21999
+87,Toni Kroos,30,183,Germany,Midfielder,Central Midfield,right,LaLiga,Real Madrid,2014-07-17,2023-06-30,5,9,33,0,0,80182208018.21999
+88,Houssem Aouar,21,175,France,Midfielder,Central Midfield,right,Ligue 1,Olympique Lyon,2016-07-04,2023-06-30,9,7,37,0,0,73500357350.03499
+89,Declan Rice,21,185,England,Midfielder,Defensive Midfield,right,Premier League,West Ham United,2017-07-01,2024-06-30,0,2,30,0,0,73500357350.03499
+90,Gianluigi Donnarumma,21,196,Italy,Goalkeeper,Goalkeeper,right,Serie A,AC Milan,2015-07-01,2021-06-30,0,0,26,33,10,73500357350.03499
+91,Donny van de Beek,22,184,Netherlands,Midfielder,Attacking Midfield,right,Other league,Ajax Amsterdam,2016-02-01,2022-06-30,10,11,37,0,0,73500357350.03499
+92,Youri Tielemans,22,176,Belgium,Midfielder,Central Midfield,right,Premier League,Leicester City,2019-07-08,2023-06-30,5,7,34,0,0,73500357350.03499
+93,Memphis Depay,26,176,Netherlands,Forward,Left Winger,right,Ligue 1,Olympique Lyon,2017-01-20,2021-06-30,14,2,18,0,0,73500357350.03499
+94,Wilfried Zaha,27,180,Cote,Forward,Right Winger,right,Premier League,Crystal Palace,2015-02-02,2023-06-30,3,5,30,0,0,73500357350.03499
+95,Luis Alberto,27,183,Spain,Midfielder,Attacking Midfield,right,Serie A,SS Lazio,2016-08-31,2022-06-30,5,14,30,0,0,73500357350.03499
+96,Alphonso Davies,19,181,Canada,Defender,Left-Back,left,Bundesliga,Bayern Munich,2019-01-01,2023-06-30,1,8,32,0,0,66818506681.84999
+97,Rodrygo,19,174,Brazil,Forward,Right Winger,right,LaLiga,Real Madrid,2019-07-01,2025-06-30,9,2,21,0,0,66818506681.84999
+98,Ferran Torres,20,184,Spain,Forward,Right Winger,right,LaLiga,Valencia CF,2018-01-01,2021-06-30,6,7,35,0,0,66818506681.84999
+99,Nicolò Zaniolo,20,190,Italy,Midfielder,Attacking Midfield,left,Serie A,AS Roma,2018-07-01,2024-06-30,6,2,24,0,0,66818506681.84999
+100,Carlos Soler,23,180,Spain,Midfielder,Right Midfield,right,LaLiga,Valencia CF,2017-01-01,2023-06-30,3,0,27,0,0,66818506681.84999
+101,Vinícius Júnior,19,176,Brazil,Forward,Left Winger,right,LaLiga,Real Madrid,2018-07-12,2025-06-30,4,3,28,0,0,66818506681.84999
+102,Rodrigo Bentancur,22,187,Uruguay,Midfielder,Central Midfield,right,Serie A,Juventus FC,2017-07-01,2024-06-30,1,7,29,0,0,66818506681.84999
+103,Giovani Lo Celso,23,177,Argentina,Midfielder,Central Midfield,left,Premier League,Tottenham Hotspur,2019-08-08,2025-06-30,2,1,28,0,0,66818506681.84999
+104,Dayot Upamecano,21,186,France,Defender,Centre-Back,right,Bundesliga,RB Leipzig,2017-01-13,2021-06-30,0,1,29,0,0,66818506681.84999
+105,Tammy Abraham,22,191,England,Forward,Centre-Forward,right,Premier League,Chelsea FC,2017-07-01,2022-06-30,15,6,34,0,0,66818506681.84999
+106,Martin Ödegaard,21,178,Norway,Midfielder,Attacking Midfield,left,LaLiga,Real Sociedad,2019-07-05,2020-06-30,7,8,28,0,0,66818506681.84999
+107,Ben Chilwell,23,178,England,Defender,Left-Back,left,Premier League,Leicester City,2015-07-01,2024-06-30,2,4,28,0,0,66818506681.84999
+108,Iñaki Williams,25,186,Spain,Forward,Centre-Forward,right,LaLiga,Athletic Bilbao,2015-07-01,2028-06-30,10,3,34,0,0,66818506681.84999
+109,Kingsley Coman,23,179,France,Forward,Left Winger,right,Bundesliga,Bayern Munich,2017-07-01,2023-06-30,5,5,24,0,0,66818506681.84999
+110,Thomas,26,185,Ghana,Midfielder,Defensive Midfield,right,LaLiga,Atlético Madrid,2015-07-01,2023-06-30,3,1,35,0,0,66818506681.84999
+111,Moussa Dembélé,23,183,France,Forward,Centre-Forward,right,Ligue 1,Olympique Lyon,2018-08-31,2023-06-30,22,7,42,0,0,66818506681.84999
+112,Rúben Neves,23,180,Portugal,Midfielder,Defensive Midfield,right,Premier League,Wolverhampton Wanderers,2017-07-08,2023-06-30,4,2,43,0,0,66818506681.84999
+113,José Gayà,24,172,Spain,Defender,Left-Back,left,LaLiga,Valencia CF,2014-07-01,2023-06-30,0,1,28,0,0,66818506681.84999
+114,Hakim Ziyech,27,181,Morocco,Forward,Right Winger,left,Other league,Ajax Amsterdam,2016-08-30,2022-06-30,8,21,35,0,0,66818506681.84999
+115,Raúl Jiménez,28,188,Mexico,Forward,Centre-Forward,right,Premier League,Wolverhampton Wanderers,2019-07-01,2023-06-30,22,10,44,0,0,66818506681.84999
+116,Julian Brandt,23,185,Germany,Midfielder,Central Midfield,right,Bundesliga,Borussia Dortmund,2019-07-01,2024-06-30,7,8,33,0,0,66818506681.84999
+117,Leon Goretzka,25,189,Germany,Midfielder,Central Midfield,right,Bundesliga,Bayern Munich,2018-07-01,2022-06-30,5,6,23,0,0,66818506681.84999
+118,Wissam Ben Yedder,29,170,France,Forward,Centre-Forward,right,Ligue 1,AS Monaco,2019-08-14,2024-06-30,19,9,31,0,0,66818506681.84999
+119,Daniel Carvajal,28,173,Spain,Defender,Right-Back,right,LaLiga,Real Madrid,2013-07-01,2022-06-30,1,7,32,0,0,66818506681.84999
+120,Rodrigo,29,182,Spain,Forward,Centre-Forward,left,LaLiga,Valencia CF,2015-07-01,2022-06-30,5,11,28,0,0,66818506681.84999
+121,Ciro Immobile,30,185,Italy,Forward,Centre-Forward,right,Serie A,SS Lazio,2016-07-27,2023-06-30,30,7,33,0,0,66818506681.84999
+122,Kyle Walker,29,183,England,Defender,Right-Back,right,Premier League,Manchester City,2017-07-14,2024-06-30,1,4,30,0,0,66818506681.84999
+123,Antonio Rüdiger,27,190,Germany,Defender,Centre-Back,right,Premier League,Chelsea FC,2017-07-09,2022-06-30,2,0,18,0,0,66818506681.84999
+124,Sergi Roberto,28,178,Spain,Defender,Right-Back,right,LaLiga,FC Barcelona,2013-07-01,2022-06-30,1,2,29,0,0,66818506681.84999
+125,Isco,27,176,Spain,Midfielder,Attacking Midfield,right,LaLiga,Real Madrid,2013-07-01,2022-06-30,3,0,23,0,0,66818506681.84999
+126,Alex Sandro,29,181,Brazil,Defender,Left-Back,left,Serie A,Juventus FC,2015-08-20,2023-06-30,0,4,31,0,0,66818506681.84999
+127,Jordi Alba,31,170,Spain,Defender,Left-Back,left,LaLiga,FC Barcelona,2012-07-01,2024-06-30,1,2,24,0,0,66818506681.84999
+128,David de Gea,29,189,Spain,Goalkeeper,Goalkeeper,right,Premier League,Manchester United,2011-07-01,2023-06-30,0,0,32,33,10,66818506681.84999
+129,Ilkay Gündogan,29,180,Germany,Midfielder,Central Midfield,right,Premier League,Manchester City,2016-07-01,2023-06-30,5,5,40,0,0,66818506681.84999
+130,Georginio Wijnaldum,29,175,Netherlands,Midfielder,Central Midfield,right,Premier League,Liverpool FC,2016-07-22,2021-06-30,5,0,38,0,0,66818506681.84999
+131,David Neres,23,176,Brazil,Forward,Right Winger,left,Other league,Ajax Amsterdam,2017-01-31,2023-06-30,6,2,20,0,0,60136656013.66499
+132,Mattéo Guendouzi,20,184,France,Midfielder,Central Midfield,right,Premier League,Arsenal FC,2018-07-11,2022-06-30,0,3,32,0,0,60136656013.66499
+133,Ibrahima Konaté,20,193,France,Defender,Centre-Back,right,Bundesliga,RB Leipzig,2017-07-01,2023-06-30,0,0,8,0,0,60136656013.66499
+134,Mason Mount,21,178,England,Midfielder,Attacking Midfield,right,Premier League,Chelsea FC,2019-07-01,2024-06-30,6,5,41,0,0,60136656013.66499
+135,Denis Zakaria,23,190,Switzerland,Midfielder,Defensive Midfield,right,Bundesliga,Borussia Mönchengladbach,2017-07-01,2022-06-30,2,2,31,0,0,60136656013.66499
+136,Lucas Torreira,24,166,Uruguay,Midfielder,Defensive Midfield,right,Premier League,Arsenal FC,2018-07-10,2023-06-30,2,1,33,0,0,60136656013.66499
+137,Wilfred Ndidi,23,183,Nigeria,Midfielder,Defensive Midfield,right,Premier League,Leicester City,2017-01-03,2024-06-30,2,1,29,0,0,60136656013.66499
+138,Nicolò Barella,23,172,Italy,Midfielder,Central Midfield,right,Serie A,Inter Milan,2019-07-12,2024-06-30,3,6,29,0,0,60136656013.66499
+139,André Onana,24,190,Cameroon,Goalkeeper,Goalkeeper,right,Other league,Ajax Amsterdam,2015-01-14,2022-06-30,0,0,39,37,15,60136656013.66499
+140,Alessio Romagnoli,25,188,Italy,Defender,Centre-Back,left,Serie A,AC Milan,2015-08-11,2022-06-30,0,0,29,0,0,60136656013.66499
+141,John Stones,25,188,England,Defender,Centre-Back,right,Premier League,Manchester City,2016-08-09,2022-06-30,0,1,20,0,0,60136656013.66499
+142,João Cancelo,25,182,Portugal,Defender,Right-Back,right,Premier League,Manchester City,2019-08-07,2025-06-30,1,1,24,0,0,60136656013.66499
+143,Sébastien Haller,25,190,France,Forward,Centre-Forward,right,Premier League,West Ham United,2019-07-17,2024-06-30,7,2,29,0,0,60136656013.66499
+144,Álvaro Morata,27,187,Spain,Forward,Centre-Forward,right,LaLiga,Atlético Madrid,2019-01-28,2020-06-30,12,3,32,0,0,60136656013.66499
+145,Duván Zapata,29,189,Colombia,Forward,Centre-Forward,right,Serie A,Atalanta BC,2020-01-17,2023-06-30,12,7,19,0,0,60136656013.66499
+146,Mateo Kovacic,25,177,Croatia,Midfielder,Central Midfield,right,Premier League,Chelsea FC,2019-07-01,2024-06-30,2,3,37,0,0,60136656013.66499
+147,Eduardo Camavinga,17,182,France,Midfielder,Defensive Midfield,left,Ligue 1,Stade Rennais FC,2019-01-01,2022-06-30,1,2,36,0,0,56127545612.75399
+148,Naby Keïta,25,172,Guinea,Midfielder,Central Midfield,right,Premier League,Liverpool FC,2018-07-01,2023-06-30,3,1,18,0,0,56127545612.75399
+149,Joe Gomez,22,188,England,Defender,Centre-Back,right,Premier League,Liverpool FC,2015-07-01,2024-06-30,0,0,34,0,0,56127545612.75399
+150,Aaron Wan-Bissaka,22,183,England,Defender,Right-Back,right,Premier League,Manchester United,2019-07-01,2024-06-30,0,2,34,0,0,53454805345.479996
+151,Ansu Fati,17,178,Spain,Forward,Left Winger,right,LaLiga,FC Barcelona,2019-08-01,2022-06-30,5,1,24,0,0,53454805345.479996
+152,Éder Militão,22,186,Brazil,Defender,Centre-Back,right,LaLiga,Real Madrid,2019-07-01,2025-06-30,0,0,13,0,0,53454805345.479996
+153,Maxi Gómez,23,186,Uruguay,Forward,Centre-Forward,right,LaLiga,Valencia CF,2019-07-14,2024-06-30,9,4,32,0,0,53454805345.479996
+154,Theo Hernández,22,184,France,Defender,Left-Back,left,Serie A,AC Milan,2019-07-06,2024-06-30,6,2,25,0,0,53454805345.479996
+155,Diego Carlos,27,186,Brazil,Defender,Centre-Back,right,Ligue 1,Sevilla FC,2019-07-01,2024-06-30,2,0,31,0,0,53454805345.479996
+156,Jonathan Ikoné,21,175,France,Midfielder,Attacking Midfield,left,Ligue 1,LOSC Lille,2018-07-02,2023-06-30,4,7,36,0,0,53454805345.479996
+157,Caglar Söyüncü,23,187,Turkey,Defender,Centre-Back,right,Premier League,Leicester City,2018-08-09,2023-06-30,1,1,35,0,0,53454805345.479996
+158,Dani Ceballos,23,179,Spain,Midfielder,Central Midfield,right,Premier League,Arsenal FC,2019-07-25,2020-06-30,1,2,24,0,0,53454805345.479996
+159,Marco Asensio,24,182,Spain,Forward,Left Winger,left,LaLiga,Real Madrid,2015-07-01,2023-06-30,0,0,0,0,0,53454805345.479996
+160,Ferland Mendy,24,180,France,Defender,Left-Back,left,LaLiga,Real Madrid,2019-07-01,2025-06-30,0,2,22,0,0,53454805345.479996
+161,Lorenzo Pellegrini,23,186,Italy,Midfielder,Central Midfield,both,Serie A,AS Roma,2017-07-01,2022-06-30,3,11,24,0,0,53454805345.479996
+162,Ángel Correa,25,171,Argentina,Forward,Right Winger,right,LaLiga,Atlético Madrid,2015-01-01,2024-06-30,7,8,33,0,0,53454805345.479996
+163,Luka Jovic,22,182,Serbia,Forward,Centre-Forward,both,LaLiga,Real Madrid,2019-07-02,2025-06-30,2,2,24,0,0,53454805345.479996
+164,Alex Telles,27,181,Brazil,Defender,Left-Back,left,Other league,FC Porto,2016-07-12,2021-06-30,10,9,40,0,0,53454805345.479996
+165,Harry Winks,24,178,England,Midfielder,Central Midfield,right,Premier League,Tottenham Hotspur,2016-07-01,2024-06-30,0,0,33,0,0,53454805345.479996
+166,Nélson Semedo,26,177,Portugal,Defender,Right-Back,right,LaLiga,FC Barcelona,2017-07-14,2022-06-30,0,5,29,0,0,53454805345.479996
+167,Ricardo Pereira,26,175,Portugal,Defender,Right-Back,right,Premier League,Leicester City,2018-07-01,2023-06-30,4,3,33,0,0,53454805345.479996
+168,Nabil Fekir,26,173,France,Midfielder,Attacking Midfield,left,LaLiga,FC Barcelona,2019-07-23,2023-06-30,7,6,23,0,0,53454805345.479996
+169,Kepa,25,186,Spain,Goalkeeper,Goalkeeper,right,Premier League,Chelsea FC,2018-08-08,2025-06-30,0,0,33,43,8,53454805345.479996
+170,Arkadiusz Milik,26,186,Poland,Forward,Centre-Forward,left,Serie A,SSC Napoli,2016-08-01,2021-06-30,12,0,22,0,0,53454805345.479996
+171,Héctor Bellerín,25,178,Spain,Defender,Right-Back,right,Premier League,Arsenal FC,2014-07-01,2023-06-30,1,2,16,0,0,53454805345.479996
+172,Lucas Ocampos,25,187,Argentina,Forward,Right Winger,both,Ligue 1,Sevilla FC,2019-07-03,2024-06-30,12,3,29,0,0,53454805345.479996
+173,Florian Thauvin,27,179,France,Forward,Right Winger,left,Ligue 1,Olympique Marseille,2017-07-01,2021-06-30,0,0,2,0,0,53454805345.479996
+174,Piotr Zielinski,25,180,Poland,Midfielder,Central Midfield,both,Serie A,SSC Napoli,2016-08-04,2021-06-30,2,5,35,0,0,53454805345.479996
+175,Andrea Belotti,26,181,Italy,Forward,Centre-Forward,right,Serie A,Torino FC,2015-08-18,2022-06-30,15,3,31,0,0,53454805345.479996
+176,Filip Kostic,27,184,Serbia,Midfielder,Left Midfield,left,Bundesliga,Eintracht Frankfurt,2019-07-01,2023-06-30,12,15,40,0,0,53454805345.479996
+177,Felipe Anderson,26,175,Brazil,Forward,Left Winger,right,Premier League,West Ham United,2018-07-15,2022-06-30,1,5,24,0,0,53454805345.479996
+178,Samuel Umtiti,26,182,France,Defender,Centre-Back,left,LaLiga,FC Barcelona,2016-07-12,2023-06-30,0,0,16,0,0,53454805345.479996
+179,Allan,29,175,Brazil,Midfielder,Central Midfield,right,Serie A,SSC Napoli,2015-07-21,2023-06-30,1,1,24,0,0,53454805345.479996
+180,Marcel Sabitzer,26,177,Austria,Forward,Right Winger,right,Bundesliga,RB Leipzig,2014-07-01,2022-06-30,15,8,35,0,0,53454805345.479996
+181,Konstantinos Manolas,28,189,Greece,Defender,Centre-Back,right,Serie A,SSC Napoli,2019-07-01,2024-06-30,3,0,27,0,0,53454805345.479996
+182,Thorgan Hazard,27,175,Belgium,Forward,Left Winger,right,Bundesliga,Borussia Dortmund,2019-07-01,2024-06-30,5,11,34,0,0,53454805345.479996
+183,James Rodríguez,28,181,Colombia,Midfielder,Attacking Midfield,left,LaLiga,Real Madrid,2014-07-22,2021-06-30,1,2,13,0,0,53454805345.479996
+184,Joel Matip,28,195,Cameroon,Defender,Centre-Back,right,Premier League,Liverpool FC,2016-07-01,2024-06-30,2,0,12,0,0,53454805345.479996
+185,Lucas Moura,27,172,Brazil,Forward,Right Winger,right,Premier League,Tottenham Hotspur,2018-01-31,2024-06-30,7,3,39,0,0,53454805345.479996
+186,Ángel Di María,32,180,Argentina,Forward,Right Winger,left,Ligue 1,Paris Saint-Germain,2015-08-06,2021-06-30,11,21,37,0,0,53454805345.479996
+187,Wojciech Szczesny,29,196,Poland,Goalkeeper,Goalkeeper,right,Serie A,Juventus FC,2017-07-19,2024-06-30,0,0,26,25,10,53454805345.479996
+188,Gareth Bale,30,185,Wales,Forward,Right Winger,left,LaLiga,Real Madrid,2013-09-01,2022-06-30,3,2,18,0,0,53454805345.479996
+189,Marco Reus,30,180,Germany,Forward,Second Striker,right,Bundesliga,Borussia Dortmund,2012-07-01,2023-06-30,12,7,26,0,0,53454805345.479996
+190,Karim Benzema,32,184,France,Forward,Centre-Forward,both,LaLiga,Real Madrid,2009-07-09,2022-06-30,19,9,36,0,0,53454805345.479996
+191,Malcom,23,171,Brazil,Forward,Right Winger,left,Other league,Zenit St. Petersburg,2019-08-02,2024-06-30,1,1,6,0,0,50782065078.20599
+192,Rúben Dias,22,187,Portugal,Defender,Centre-Back,right,Other league,SL Benfica,2017-07-01,2024-06-30,3,2,39,0,0,50782065078.20599
+193,Joaquín Correa,25,188,Argentina,Forward,Second Striker,right,Serie A,SS Lazio,2018-08-01,2024-06-30,8,4,27,0,0,50782065078.20599
+194,Jack Grealish,24,175,England,Midfielder,Attacking Midfield,right,Premier League,Aston Villa,2013-07-01,2023-06-30,9,8,31,0,0,50782065078.20599
+195,Andrej Kramaric,28,177,Croatia,Forward,Centre-Forward,right,Bundesliga,TSG 1899 Hoffenheim,2016-07-01,2022-06-30,7,3,15,0,0,50782065078.20599
+196,Leon Bailey,22,178,Jamaica,Forward,Left Winger,left,Bundesliga,Bayer 04 Leverkusen,2017-01-31,2023-06-30,7,1,22,0,0,49445694944.56899
+197,Jonathan Tah,24,195,Germany,Defender,Centre-Back,right,Bundesliga,Bayer 04 Leverkusen,2015-07-16,2023-06-30,0,1,32,0,0,49445694944.56899
+198,Bruno Guimarães,22,182,Brazil,Midfielder,Central Midfield,right,Ligue 1,Olympique Lyon,2020-01-30,2024-06-30,0,0,5,0,0,46772954677.295
+199,Renan Lodi,21,179,Brazil,Defender,Left-Back,left,LaLiga,Atlético Madrid,2019-07-07,2025-06-30,1,3,33,0,0,46772954677.295
+200,Dejan Kulusevski,19,186,Sweden,Forward,Right Winger,left,Serie A,Parma Calcio 1913,2020-01-03,2020-06-30,5,7,26,0,0,46772954677.295
+201,Sandro Tonali,19,181,Italy,Midfielder,Defensive Midfield,right,Serie A,Brescia Calcio,2018-01-01,2021-06-30,1,5,24,0,0,46772954677.295
+202,Ryan Sessegnon,19,178,England,Midfielder,Left Midfield,left,Premier League,Tottenham Hotspur,2019-08-08,2025-06-30,1,1,12,0,0,46772954677.295
+203,Callum Hudson-Odoi,19,177,England,Forward,Left Winger,right,Premier League,Chelsea FC,2019-01-01,2024-06-30,4,6,27,0,0,46772954677.295
+204,Benjamin Pavard,24,186,France,Defender,Right-Back,right,Bundesliga,Bayern Munich,2019-07-01,2024-06-30,2,5,35,0,0,46772954677.295
+205,Dan-Axel Zagadou,20,196,France,Defender,Centre-Back,left,Bundesliga,Borussia Dortmund,2017-07-01,2022-06-30,1,1,20,0,0,46772954677.295
+206,Christopher Nkunku,22,175,France,Midfielder,Attacking Midfield,right,Bundesliga,RB Leipzig,2019-07-18,2024-06-30,4,15,33,0,0,46772954677.295
+207,Diogo Jota,23,178,Portugal,Forward,Left Winger,right,Premier League,Wolverhampton Wanderers,2018-07-01,2022-06-30,15,6,37,0,0,46772954677.295
+208,Éverton,24,174,Brazil,Forward,Left Winger,right,Other league,Grêmio Foot-Ball Porto Alegrense,2014-01-01,2023-12-31,0,1,2,0,0,46772954677.295
+209,Hirving Lozano,24,175,Mexico,Forward,Left Winger,right,Serie A,SSC Napoli,2019-08-23,2024-06-30,3,2,28,0,0,46772954677.295
+210,Alessandro Bastoni,20,190,Italy,Defender,Centre-Back,left,Serie A,Inter Milan,2017-08-30,2023-06-30,1,0,17,0,0,46772954677.295
+211,Dani Olmo,21,179,Spain,Midfielder,Attacking Midfield,right,Bundesliga,RB Leipzig,2020-01-25,2024-06-30,9,8,27,0,0,46772954677.295
+212,Milot Rashica,23,177,Kosovo,Forward,Left Winger,right,Bundesliga,SV Werder Bremen,2018-01-31,2022-06-30,10,5,24,0,0,46772954677.295
+213,Steven Bergwijn,22,178,Netherlands,Forward,Left Winger,right,Premier League,Tottenham Hotspur,2020-01-29,2025-06-30,8,13,36,0,0,46772954677.295
+214,Presnel Kimpembe,24,183,France,Defender,Centre-Back,left,Ligue 1,Paris Saint-Germain,2015-07-01,2023-06-30,0,0,24,0,0,46772954677.295
+215,Issa Diop,23,194,France,Defender,Centre-Back,right,Premier League,West Ham United,2018-07-01,2023-06-30,3,0,26,0,0,46772954677.295
+216,Alex Meret,23,190,Italy,Goalkeeper,Goalkeeper,left,Serie A,SSC Napoli,2019-07-01,2023-06-30,0,0,21,27,6,46772954677.295
+217,Abdou Diallo,23,187,France,Defender,Centre-Back,left,Ligue 1,Paris Saint-Germain,2019-07-16,2024-06-30,0,1,22,0,0,46772954677.295
+218,Thilo Kehrer,23,186,Germany,Defender,Centre-Back,right,Ligue 1,Paris Saint-Germain,2018-08-16,2023-06-30,1,0,16,0,0,46772954677.295
+219,Lukas Klostermann,23,189,Germany,Defender,Centre-Back,right,Bundesliga,RB Leipzig,2014-08-22,2021-06-30,3,2,33,0,0,46772954677.295
+220,Federico Bernardeschi,26,183,Italy,Forward,Right Winger,left,Serie A,Juventus FC,2017-07-24,2022-06-30,1,1,24,0,0,46772954677.295
+221,Alejandro Grimaldo,24,171,Spain,Defender,Left-Back,left,Other league,SL Benfica,2016-01-01,2023-06-30,1,8,39,0,0,46772954677.295
+222,Nico Elvedi,23,189,Switzerland,Defender,Centre-Back,right,Bundesliga,Borussia Mönchengladbach,2015-07-01,2021-06-30,1,0,31,0,0,46772954677.295
+223,Victor Lindelöf,25,187,Sweden,Defender,Centre-Back,right,Premier League,Manchester United,2017-07-01,2024-06-30,1,1,35,0,0,46772954677.295
+224,Nathan Aké,25,180,Netherlands,Defender,Centre-Back,left,Premier League,AFC Bournemouth,2017-07-01,2022-06-30,2,1,24,0,0,46772954677.295
+225,Raphaël Guerreiro,26,170,Portugal,Midfielder,Left Midfield,left,Bundesliga,Borussia Dortmund,2016-07-01,2023-06-30,5,5,29,0,0,46772954677.295
+226,Kurt Zouma,25,190,France,Defender,Centre-Back,right,Premier League,Chelsea FC,2014-01-31,2023-06-30,1,3,33,0,0,46772954677.295
+227,Benjamin Mendy,25,185,France,Defender,Left-Back,left,Premier League,Manchester City,2017-07-24,2023-06-30,0,4,23,0,0,46772954677.295
+228,Alex Oxlade-Chamberlain,26,175,England,Midfielder,Central Midfield,right,Premier League,Liverpool FC,2017-08-31,2023-06-30,7,1,34,0,0,46772954677.295
+229,Nicolás Tagliafico,27,172,Argentina,Defender,Left-Back,left,Other league,Ajax Amsterdam,2018-01-05,2022-06-30,5,7,38,0,0,46772954677.295
+230,Jordan Pickford,26,185,England,Goalkeeper,Goalkeeper,left,Premier League,Everton FC,2017-07-01,2024-06-30,0,0,34,51,8,46772954677.295
+231,Paco Alcácer,26,175,Spain,Forward,Centre-Forward,right,LaLiga,Villarreal CF,2020-01-30,2025-06-30,9,4,22,0,0,46772954677.295
+232,Lucas Digne,26,178,France,Defender,Left-Back,left,Premier League,Everton FC,2018-08-01,2023-06-30,1,6,30,0,0,46772954677.295
+233,Matthias Ginter,26,191,Germany,Defender,Centre-Back,right,Bundesliga,Borussia Mönchengladbach,2017-07-04,2021-06-30,1,1,27,0,0,46772954677.295
+234,Kieran Trippier,29,173,England,Defender,Right-Back,right,LaLiga,Atlético Madrid,2019-07-17,2022-06-30,0,4,26,0,0,46772954677.295
+235,Kevin Volland,27,179,Germany,Forward,Centre-Forward,left,Bundesliga,Bayer 04 Leverkusen,2016-07-01,2021-06-30,11,9,31,0,0,46772954677.295
+236,Pablo Sarabia,27,178,Spain,Forward,Right Winger,left,Ligue 1,Paris Saint-Germain,2019-07-02,2024-06-30,14,8,36,0,0,46772954677.295
+237,Bernd Leno,28,189,Germany,Goalkeeper,Goalkeeper,right,Premier League,Arsenal FC,2018-07-01,2023-06-30,0,0,30,38,8,46772954677.295
+238,Sergio Busquets,31,189,Spain,Midfielder,Defensive Midfield,right,LaLiga,FC Barcelona,2008-09-01,2023-06-30,2,2,32,0,0,46772954677.295
+239,Jordan Henderson,29,187,England,Midfielder,Central Midfield,right,Premier League,Liverpool FC,2011-07-01,2023-06-30,3,5,35,0,0,46772954677.295
+240,Dani Parejo,30,182,Spain,Midfielder,Central Midfield,right,LaLiga,Valencia CF,2011-07-01,2022-06-30,10,6,37,0,0,46772954677.295
+241,Aaron Ramsey,29,182,Wales,Midfielder,Central Midfield,both,Serie A,Juventus FC,2019-07-01,2023-06-30,4,1,24,0,0,46772954677.295
+242,Luis Suárez,33,182,Uruguay,Forward,Centre-Forward,right,LaLiga,FC Barcelona,2014-07-11,2021-06-30,14,11,23,0,0,46772954677.295
+243,Mason Greenwood,18,181,England,Forward,Centre-Forward,both,Premier League,Manchester United,2019-07-01,2023-06-30,14,4,38,0,0,42763844276.383995
+244,Ozan Kabak,20,186,Turkey,Defender,Centre-Back,right,Bundesliga,FC Schalke 04,2019-07-01,2024-06-30,3,1,21,0,0,42763844276.383995
+245,Alex Iwobi,23,183,Nigeria,Forward,Left Winger,right,Premier League,Everton FC,2019-08-08,2024-06-30,2,1,22,0,0,42763844276.383995
+246,Adama Traoré,24,178,Spain,Forward,Right Winger,right,Premier League,Wolverhampton Wanderers,2018-08-08,2023-06-30,6,10,43,0,0,42763844276.383995
+247,Corentin Tolisso,25,181,France,Midfielder,Central Midfield,right,Bundesliga,Bayern Munich,2017-07-01,2022-06-30,3,5,24,0,0,42763844276.383995
+248,Adrien Rabiot,25,188,France,Midfielder,Central Midfield,left,Serie A,Juventus FC,2019-07-01,2023-06-30,0,0,24,0,0,42763844276.383995
+249,Tiemoué Bakayoko,25,189,France,Midfielder,Defensive Midfield,right,Ligue 1,AS Monaco,2019-08-31,2020-06-30,1,2,23,0,0,42763844276.383995
+250,Iñigo Martínez,28,182,Spain,Defender,Centre-Back,left,LaLiga,Athletic Bilbao,2018-01-30,2023-06-30,0,3,31,0,0,42763844276.383995
+251,Felipe,30,191,Brazil,Defender,Centre-Back,right,LaLiga,Atlético Madrid,2019-07-01,2022-06-30,2,0,31,0,0,42763844276.383995
+252,Stefan Savic,29,187,Montenegro,Defender,Centre-Back,right,LaLiga,Atlético Madrid,2015-07-20,2022-06-30,1,0,19,0,0,42763844276.383995
+253,Thomas Müller,30,186,Germany,Forward,Second Striker,right,Bundesliga,Bayern Munich,2009-07-01,2021-06-30,10,19,36,0,0,42763844276.383995
+254,Gonzalo Higuaín,32,184,Argentina,Forward,Centre-Forward,right,Serie A,Juventus FC,2016-07-26,2021-06-30,8,8,34,0,0,42763844276.383995
+255,Nikola Milenkovic,22,195,Serbia,Defender,Centre-Back,right,Serie A,ACF Fiorentina,2017-07-01,2022-06-30,3,0,29,0,0,40091104009.10999
+256,Phil Foden,19,171,England,Midfielder,Central Midfield,left,Premier League,Manchester City,2017-07-01,2024-06-30,3,7,26,0,0,40091104009.10999
+257,Victor Osimhen,21,185,Nigeria,Forward,Centre-Forward,right,Ligue 1,LOSC Lille,2019-08-01,2024-06-30,18,6,38,0,0,40091104009.10999
+258,Samu Chukwueze,20,172,Nigeria,Forward,Right Winger,left,LaLiga,Villarreal CF,2018-11-01,2023-06-30,4,4,30,0,0,40091104009.10999
+259,Moussa Diaby,20,170,France,Forward,Left Winger,left,Bundesliga,Bayer 04 Leverkusen,2019-07-01,2024-06-30,5,6,26,0,0,40091104009.10999
+260,Boubacar Kamara,20,184,France,Defender,Centre-Back,right,Ligue 1,Olympique Marseille,2017-07-01,2022-06-30,2,2,28,0,0,40091104009.10999
+261,Wesley,23,191,Brazil,Forward,Centre-Forward,right,Premier League,Aston Villa,2019-07-01,2024-06-30,6,1,22,0,0,40091104009.10999
+262,Amine Harit,22,180,Morocco,Midfielder,Attacking Midfield,right,Bundesliga,FC Schalke 04,2017-07-10,2024-06-30,7,7,27,0,0,40091104009.10999
+263,Igor Zubeldia,23,180,Spain,Midfielder,Defensive Midfield,right,LaLiga,Real Sociedad,2017-07-01,2024-06-30,0,1,31,0,0,40091104009.10999
+264,Cengiz Ünder,22,173,Turkey,Forward,Right Winger,left,Serie A,AS Roma,2017-07-16,2023-06-30,3,0,20,0,0,40091104009.10999
+265,Merih Demiral,22,190,Turkey,Defender,Centre-Back,right,Serie A,Juventus FC,2019-07-05,2024-06-30,1,1,7,0,0,40091104009.10999
+266,Mikel Merino,23,186,Spain,Midfielder,Central Midfield,left,LaLiga,Real Sociedad,2018-07-12,2023-06-30,4,1,32,0,0,40091104009.10999
+267,Dominic Calvert-Lewin,23,187,England,Forward,Centre-Forward,right,Premier League,Everton FC,2016-08-31,2025-06-30,15,1,32,0,0,40091104009.10999
+268,David Brooks,22,173,Wales,Midfielder,Attacking Midfield,left,Premier League,AFC Bournemouth,2018-07-01,2022-06-30,11,14,75,0,0,40091104009.10999
+269,Yeray Álvarez,25,182,Spain,Defender,Centre-Back,right,LaLiga,Athletic Bilbao,2016-07-01,2026-06-30,0,0,30,0,0,40091104009.10999
+270,Ayoze Pérez,26,178,Spain,Forward,Second Striker,right,Premier League,Leicester City,2019-07-04,2023-06-30,7,5,31,0,0,40091104009.10999
+271,Rafa Silva,26,171,Portugal,Midfielder,Left Midfield,right,Other league,SL Benfica,2016-08-31,2024-06-30,9,6,25,0,0,40091104009.10999
+272,Konrad Laimer,22,180,Austria,Midfielder,Central Midfield,right,Bundesliga,RB Leipzig,2017-07-01,2023-06-30,4,4,33,0,0,40091104009.10999
+273,Djené,28,178,Togo,Defender,Centre-Back,right,LaLiga,Getafe CF,2017-07-24,2023-06-30,0,0,32,0,0,40091104009.10999
+274,Stefano Sensi,24,168,Italy,Midfielder,Central Midfield,right,Serie A,Inter Milan,2019-07-02,2020-06-30,3,4,17,0,0,40091104009.10999
+275,Thomas Lemar,24,171,France,Forward,Left Winger,left,LaLiga,Atlético Madrid,2018-07-01,2023-06-30,0,0,24,0,0,40091104009.10999
+276,Oleksandr Zinchenko,23,175,Ukraine,Defender,Left-Back,left,Premier League,Manchester City,2016-07-04,2024-06-30,1,0,18,0,0,40091104009.10999
+277,Ruben Loftus-Cheek,24,191,England,Midfielder,Central Midfield,right,Premier League,Chelsea FC,2015-01-01,2024-06-30,0,1,1,0,0,40091104009.10999
+278,Andreas Christensen,23,188,Denmark,Defender,Centre-Back,right,Premier League,Chelsea FC,2015-07-01,2022-06-30,0,0,20,0,0,40091104009.10999
+279,Ante Rebic,26,185,Croatia,Forward,Second Striker,right,Serie A,AC Milan,2019-09-02,2021-06-30,10,2,24,0,0,40091104009.10999
+280,Emerson,25,175,Italy,Defender,Left-Back,left,Premier League,Chelsea FC,2018-01-30,2022-06-30,0,1,18,0,0,40091104009.10999
+281,Alassane Plea,27,181,France,Forward,Centre-Forward,right,Bundesliga,Borussia Mönchengladbach,2018-07-13,2023-06-30,8,8,28,0,0,40091104009.10999
+282,Yussuf Poulsen,25,193,Denmark,Forward,Centre-Forward,right,Bundesliga,RB Leipzig,2013-07-04,2022-06-30,3,11,29,0,0,40091104009.10999
+283,Danilo Pereira,28,188,Portugal,Midfielder,Defensive Midfield,right,Other league,FC Porto,2015-07-02,2022-06-30,0,1,30,0,0,40091104009.10999
+284,Idrissa Gueye,30,174,Senegal,Midfielder,Defensive Midfield,right,Ligue 1,Paris Saint-Germain,2019-07-30,2023-06-30,1,2,31,0,0,40091104009.10999
+285,Kerem Demirbay,26,183,Germany,Midfielder,Central Midfield,left,Bundesliga,Bayer 04 Leverkusen,2019-07-01,2024-06-30,1,6,29,0,0,40091104009.10999
+286,Callum Wilson,28,180,England,Forward,Centre-Forward,right,Premier League,AFC Bournemouth,2014-07-04,2023-06-30,9,1,32,0,0,40091104009.10999
+287,Willian José,28,189,Brazil,Forward,Centre-Forward,right,LaLiga,Real Sociedad,2016-07-31,2024-06-30,9,0,30,0,0,40091104009.10999
+288,Emre Can,26,186,Germany,Midfielder,Defensive Midfield,right,Bundesliga,Borussia Dortmund,2020-01-31,2024-06-30,1,0,16,0,0,40091104009.10999
+289,Granit Xhaka,27,186,Switzerland,Midfielder,Defensive Midfield,left,Premier League,Arsenal FC,2016-07-01,2023-06-30,0,1,29,0,0,40091104009.10999
+290,Mário Fernandes,29,187,Russia,Defender,Right-Back,right,Other league,CSKA Moscow,2012-07-01,2022-06-30,3,3,29,0,0,40091104009.10999
+291,Thomas Meunier,28,190,Belgium,Defender,Right-Back,right,Ligue 1,Paris Saint-Germain,2016-07-03,2020-06-30,1,2,27,0,0,40091104009.10999
+292,Julian Draxler,26,187,Germany,Midfielder,Central Midfield,right,Ligue 1,Paris Saint-Germain,2017-01-03,2021-06-30,0,7,19,0,0,40091104009.10999
+293,Douglas Costa,29,172,Brazil,Forward,Right Winger,left,Serie A,Juventus FC,2018-07-01,2022-06-30,2,5,18,0,0,40091104009.10999
+294,César Azpilicueta,30,178,Spain,Defender,Right-Back,right,Premier League,Chelsea FC,2012-08-24,2022-06-30,4,3,37,0,0,40091104009.10999
+295,Toby Alderweireld,31,186,Belgium,Defender,Centre-Back,right,Premier League,Tottenham Hotspur,2015-07-08,2023-06-30,1,2,36,0,0,40091104009.10999
+296,Mats Hummels,31,191,Germany,Defender,Centre-Back,right,Bundesliga,Borussia Dortmund,2019-07-01,2022-06-30,1,3,33,0,0,40091104009.10999
+297,Gabriel Martinelli,18,180,Brazil,Forward,Centre-Forward,right,Premier League,Arsenal FC,2019-07-02,2024-06-30,10,4,26,0,0,37418363741.836
+298,Lucas Paquetá,22,180,Brazil,Midfielder,Attacking Midfield,left,Serie A,AC Milan,2019-01-03,2023-06-30,0,1,19,0,0,37418363741.836
+299,Moise Kean,20,183,Italy,Forward,Centre-Forward,right,Premier League,Everton FC,2019-08-04,2024-06-30,1,2,26,0,0,37418363741.836
+300,Donyell Malen,21,179,Netherlands,Forward,Centre-Forward,right,Other league,PSV Eindhoven,2018-07-01,2024-06-30,17,9,25,0,0,37418363741.836
+301,Daniel James,22,170,Wales,Forward,Left Winger,right,Premier League,Manchester United,2019-07-01,2024-06-30,4,7,37,0,0,37418363741.836
+302,Marcus Thuram,22,192,France,Forward,Centre-Forward,right,Bundesliga,Borussia Mönchengladbach,2019-07-22,2023-06-30,10,9,33,0,0,37418363741.836
+303,Scott McTominay,23,190,Scotland,Midfielder,Central Midfield,right,Premier League,Manchester United,2017-07-01,2023-06-30,5,1,27,0,0,37418363741.836
+304,Gianluca Mancini,23,190,Italy,Defender,Centre-Back,right,Serie A,AS Roma,2019-07-17,2024-06-30,1,1,31,0,0,37418363741.836
+305,Tyrone Mings,27,195,England,Defender,Centre-Back,left,Premier League,Aston Villa,2019-07-08,2024-06-30,2,1,26,0,0,37418363741.836
+306,Gonçalo Guedes,23,179,Portugal,Forward,Left Winger,right,LaLiga,Valencia CF,2018-08-27,2023-06-30,0,1,14,0,0,37418363741.836
+307,André Gomes,26,188,Portugal,Midfielder,Central Midfield,right,Premier League,Everton FC,2019-07-01,2024-06-30,0,0,12,0,0,37418363741.836
+308,Jean-Philippe Gbamin,24,186,Cote,Midfielder,Defensive Midfield,right,Premier League,Everton FC,2019-08-02,2024-06-30,0,0,2,0,0,37418363741.836
+309,Morgan Sanson,25,180,France,Midfielder,Central Midfield,right,Ligue 1,Olympique Marseille,2017-01-17,2022-06-30,5,5,30,0,0,37418363741.836
+310,Leander Dendoncker,24,188,Belgium,Midfielder,Defensive Midfield,right,Premier League,Wolverhampton Wanderers,2019-07-01,2024-06-30,4,0,46,0,0,37418363741.836
+311,Matteo Politano,26,171,Italy,Forward,Right Winger,left,Serie A,SSC Napoli,2020-01-28,2021-06-30,0,0,22,0,0,37418363741.836
+312,Yannick Carrasco,26,180,Belgium,Forward,Left Winger,both,LaLiga,Atlético Madrid,2020-01-31,2020-06-30,0,0,5,0,0,37418363741.836
+313,Geoffrey Kondogbia,27,188,Central,Midfielder,Central Midfield,left,LaLiga,Valencia CF,2018-07-01,2022-06-30,2,0,24,0,0,37418363741.836
+314,Emil Forsberg,28,179,Sweden,Forward,Left Winger,right,Bundesliga,RB Leipzig,2015-01-07,2022-06-30,10,4,27,0,0,37418363741.836
+315,Gylfi Sigurdsson,30,186,Iceland,Midfielder,Attacking Midfield,right,Premier League,Everton FC,2017-08-16,2022-06-30,2,2,29,0,0,37418363741.836
+316,Willian,31,175,Brazil,Forward,Right Winger,right,Premier League,Chelsea FC,2013-08-28,2020-06-30,7,6,37,0,0,37418363741.836
+317,Ismaïla Sarr,22,185,Senegal,Forward,Right Winger,right,Premier League,Watford FC,2019-08-08,2024-06-30,6,4,21,0,0,36081993608.199
+318,Boubakary Soumaré,21,188,France,Midfielder,Defensive Midfield,right,Ligue 1,LOSC Lille,2017-07-12,2022-06-30,0,1,30,0,0,36081993608.199
+319,Krzysztof Piatek,24,183,Poland,Forward,Centre-Forward,right,Bundesliga,Hertha BSC,2020-01-30,2025-06-30,7,1,27,0,0,36081993608.199
+320,Wout Weghorst,27,197,Netherlands,Forward,Centre-Forward,right,Bundesliga,VfL Wolfsburg,2018-07-01,2023-06-30,15,5,34,0,0,36081993608.199
+321,Ross Barkley,26,185,England,Midfielder,Central Midfield,right,Premier League,Chelsea FC,2018-01-05,2023-06-30,3,4,20,0,0,36081993608.199
+322,Pizzi,30,177,SL,Midfielder,Right Midfield,right,Other league,SL Benfica,2013-07-26,2023-06-30,26,13,40,0,0,36081993608.199
+323,Axel Witsel,31,188,Belgium,Midfielder,Defensive Midfield,right,Bundesliga,Borussia Dortmund,2018-08-06,2022-06-30,4,4,32,0,0,36081993608.199
+324,Nahitan Nández,24,172,Uruguay,Midfielder,Central Midfield,right,Serie A,Cagliari Calcio,2019-08-09,2024-06-30,1,4,26,0,0,34745623474.562
+325,Reinier,18,185,Brazil,Midfielder,Attacking Midfield,right,LaLiga,Real Madrid,2020-01-20,2026-06-30,2,1,3,0,0,33409253340.924995
+326,Gabriel Veron,17,176,Brazil,Forward,Right Winger,right,Other league,Sociedade Esportiva Palmeiras,2020-01-01,2024-12-31,0,0,1,0,0,33409253340.924995
+327,Jonathan David,20,180,Canada,Midfielder,Attacking Midfield,both,Other league,KAA Gent,2018-07-01,2023-06-30,23,10,40,0,0,33409253340.924995
+328,William Saliba,19,193,France,Defender,Centre-Back,right,Ligue 1,AS Saint-Étienne,2019-07-26,2020-06-30,0,0,17,0,0,33409253340.924995
+329,Reece James,20,182,England,Defender,Right-Back,right,Premier League,Chelsea FC,2019-07-01,2025-06-30,2,4,28,0,0,33409253340.924995
+330,Youcef Atal,23,176,Algeria,Defender,Right-Back,both,Ligue 1,OGC Nice,2018-07-17,2023-06-30,1,2,14,0,0,33409253340.924995
+331,Jules Koundé,21,184,France,Defender,Centre-Back,right,Ligue 1,Sevilla FC,2019-07-03,2024-06-30,2,1,26,0,0,33409253340.924995
+332,Exequiel Palacios,21,177,Argentina,Midfielder,Central Midfield,right,Bundesliga,Bayer 04 Leverkusen,2020-01-01,2025-06-30,1,1,19,0,0,33409253340.924995
+333,Júnior Firpo,23,184,Spain,Defender,Left-Back,left,LaLiga,FC Barcelona,2019-08-04,2024-06-30,1,1,17,0,0,33409253340.924995
+334,Marash Kumbulla,20,185,Albania,Defender,Centre-Back,right,Serie A,Hellas Verona,2018-07-01,2022-06-30,1,0,19,0,0,33409253340.924995
+335,Evan N'Dicka,20,192,France,Defender,Centre-Back,left,Bundesliga,Eintracht Frankfurt,2018-07-05,2023-06-30,0,0,22,0,0,33409253340.924995
+336,Riccardo Orsolini,23,183,Italy,Forward,Right Winger,left,Serie A,Bologna FC 1909,2019-07-01,2022-06-30,8,5,28,0,0,33409253340.924995
+337,André Zambo Anguissa,24,184,Cameroon,Midfielder,Defensive Midfield,right,LaLiga,Villarreal CF,2019-07-26,2020-06-30,1,1,28,0,0,33409253340.924995
+338,Alexander Isak,20,190,Sweden,Forward,Centre-Forward,right,LaLiga,Real Sociedad,2019-07-01,2023-06-30,14,3,34,0,0,33409253340.924995
+339,Nordi Mukiele,22,187,France,Defender,Right-Back,right,Bundesliga,RB Leipzig,2018-07-01,2025-06-30,1,1,28,0,0,33409253340.924995
+340,Joelinton,23,186,Brazil,Forward,Centre-Forward,right,Premier League,Newcastle United,2019-07-23,2023-06-30,3,4,34,0,0,33409253340.924995
+341,Justin Kluivert,20,171,Netherlands,Forward,Left Winger,both,Serie A,AS Roma,2018-07-01,2023-06-30,7,2,27,0,0,33409253340.924995
+342,Jeff Reine-Adélaïde,22,184,France,Midfielder,Central Midfield,right,Ligue 1,Olympique Lyon,2019-08-14,2024-06-30,3,4,20,0,0,33409253340.924995
+343,Gaetano Castrovilli,23,187,Italy,Midfielder,Central Midfield,right,Serie A,ACF Fiorentina,2017-07-01,2024-06-30,3,2,26,0,0,33409253340.924995
+344,Kieran Tierney,22,178,Scotland,Defender,Left-Back,left,Premier League,Arsenal FC,2019-08-08,2022-06-30,0,2,12,0,0,33409253340.924995
+345,Franck Kessié,23,183,Cote,Midfielder,Central Midfield,right,Serie A,AC Milan,2019-07-01,2023-06-30,1,2,25,0,0,33409253340.924995
+346,Mauro Arambarri,24,175,Uruguay,Midfielder,Central Midfield,right,LaLiga,Getafe CF,2018-07-01,2023-06-30,1,1,31,0,0,33409253340.924995
+347,Yerry Mina,25,195,Colombia,Defender,Centre-Back,right,Premier League,Everton FC,2018-08-09,2022-06-30,2,1,29,0,0,33409253340.924995
+348,Manuel Akanji,24,187,Switzerland,Defender,Centre-Back,right,Bundesliga,Borussia Dortmund,2018-01-15,2022-06-30,0,1,33,0,0,33409253340.924995
+349,Sergio Reguilón,23,178,Spain,Defender,Left-Back,left,Ligue 1,Sevilla FC,2019-07-05,2020-06-30,1,4,25,0,0,33409253340.924995
+350,Mario Hermoso,24,184,Spain,Defender,Centre-Back,left,LaLiga,Atlético Madrid,2019-07-18,2024-06-30,0,0,20,0,0,33409253340.924995
+351,Nemanja Maksimovic,25,184,Serbia,Midfielder,Central Midfield,right,LaLiga,Getafe CF,2018-07-16,2022-06-30,2,0,32,0,0,33409253340.924995
+352,Robin Gosens,25,183,Germany,Defender,Left-Back,left,Serie A,Atalanta BC,2017-07-01,2022-06-30,8,5,30,0,0,33409253340.924995
+353,Allan Saint-Maximin,23,173,France,Forward,Left Winger,right,Premier League,Newcastle United,2019-08-02,2025-06-30,3,4,21,0,0,33409253340.924995
+354,Aleksandr Golovin,23,180,Russia,Midfielder,Attacking Midfield,right,Ligue 1,AS Monaco,2018-07-27,2024-06-30,3,4,30,0,0,33409253340.924995
+355,Jefferson Lerma,25,179,Colombia,Midfielder,Defensive Midfield,right,Premier League,AFC Bournemouth,2018-08-07,2022-06-30,1,2,24,0,0,33409253340.924995
+356,Suat Serdar,22,184,Germany,Midfielder,Central Midfield,right,Bundesliga,FC Schalke 04,2018-07-01,2024-06-30,7,1,20,0,0,33409253340.924995
+357,Gelson Martins,24,173,Portugal,Forward,Right Winger,right,Ligue 1,AS Monaco,2019-07-01,2024-06-30,4,1,23,0,0,33409253340.924995
+358,Rodrigo de Paul,25,180,Argentina,Midfielder,Attacking Midfield,right,Serie A,Udinese Calcio,2016-07-20,2022-06-30,5,3,24,0,0,33409253340.924995
+359,Diego Llorente,26,186,Spain,Defender,Centre-Back,right,LaLiga,Real Sociedad,2017-07-01,2020-06-30,0,2,20,0,0,33409253340.924995
+360,Patrik Schick,24,187,Czech,Forward,Centre-Forward,left,Bundesliga,RB Leipzig,2019-09-02,2022-06-30,7,3,19,0,0,33409253340.924995
+361,Duje Caleta-Car,23,192,Croatia,Defender,Centre-Back,right,Ligue 1,Olympique Marseille,2018-07-20,2023-06-30,1,1,26,0,0,33409253340.924995
+362,Thomas Strakosha,25,193,Albania,Goalkeeper,Goalkeeper,right,Serie A,SS Lazio,2013-01-31,2022-06-30,0,0,32,32,9,33409253340.924995
+363,Bryan Cristante,25,186,Italy,Midfielder,Central Midfield,right,Serie A,AS Roma,2019-07-01,2024-06-30,1,2,21,0,0,33409253340.924995
+364,Florian Grillitsch,24,187,Austria,Midfielder,Central Midfield,right,Bundesliga,TSG 1899 Hoffenheim,2017-07-01,2022-06-30,1,3,26,0,0,33409253340.924995
+365,Eric Dier,26,188,England,Midfielder,Defensive Midfield,right,Premier League,Tottenham Hotspur,2014-07-31,2021-06-30,0,2,25,0,0,33409253340.924995
+366,James Tarkowski,27,185,England,Defender,Centre-Back,right,Premier League,Burnley FC,2016-02-01,2022-06-30,1,1,31,0,0,33409253340.924995
+367,Leandro Paredes,25,180,Argentina,Midfielder,Defensive Midfield,right,Ligue 1,Paris Saint-Germain,2019-01-29,2022-06-30,1,1,28,0,0,33409253340.924995
+368,Jordan Veretout,27,177,France,Midfielder,Central Midfield,right,Serie A,AS Roma,2019-07-20,2023-06-30,3,1,34,0,0,33409253340.924995
+369,Remo Freuler,27,180,Switzerland,Midfielder,Central Midfield,right,Serie A,Atalanta BC,2016-01-19,2022-06-30,3,2,28,0,0,33409253340.924995
+370,Gerard Deulofeu,26,177,Spain,Forward,Left Winger,right,Premier League,Watford FC,2018-07-01,2022-06-30,4,5,30,0,0,33409253340.924995
+371,Abdoulaye Doucouré,27,183,France,Midfielder,Central Midfield,right,Premier League,Watford FC,2016-02-01,2023-06-30,4,2,30,0,0,33409253340.924995
+372,Jesús Corona,27,173,Mexico,Midfielder,Right Midfield,right,Other league,FC Porto,2015-08-31,2023-06-30,2,17,41,0,0,33409253340.924995
+373,Michael Keane,27,188,England,Defender,Centre-Back,right,Premier League,Everton FC,2017-07-03,2023-06-30,1,0,25,0,0,33409253340.924995
+374,Marcos Alonso,29,188,Spain,Defender,Left-Back,left,Premier League,Chelsea FC,2016-08-31,2023-06-30,4,3,20,0,0,33409253340.924995
+375,Luka Milivojevic,28,186,Serbia,Midfielder,Defensive Midfield,right,Premier League,Crystal Palace,2017-01-31,2020-06-30,2,1,24,0,0,33409253340.924995
+376,Sergio Canales,29,180,Spain,Midfielder,Attacking Midfield,left,LaLiga,Real Betis Balompié,2018-07-03,2020-06-30,4,4,27,0,0,33409253340.924995
+377,Dries Mertens,32,169,Belgium,Forward,Centre-Forward,right,Serie A,SSC Napoli,2013-07-01,2020-06-30,12,6,29,0,0,33409253340.924995
+378,Henrikh Mkhitaryan,31,177,Armenia,Midfielder,Attacking Midfield,both,Serie A,AS Roma,2019-09-02,2020-06-30,6,4,20,0,0,33409253340.924995
+379,Aleksandar Mitrovic,25,188,Serbia,Forward,Centre-Forward,right,Premier League,Fulham FC,2018-07-30,2024-06-30,23,1,34,0,0,33409253340.924995
+380,Edinson Cavani,33,184,Uruguay,Forward,Centre-Forward,right,Ligue 1,Paris Saint-Germain,2013-07-16,2020-06-30,7,3,22,0,0,33409253340.924995
+381,Moussa Sissoko,30,187,France,Midfielder,Central Midfield,right,Premier League,Tottenham Hotspur,2016-08-31,2023-06-30,2,2,26,0,0,33409253340.924995
+382,Leonardo Bonucci,32,190,Italy,Defender,Centre-Back,right,Serie A,Juventus FC,2018-08-02,2021-06-30,4,0,34,0,0,33409253340.924995
+383,Dusan Tadic,31,181,Serbia,Forward,Left Winger,left,Other league,Ajax Amsterdam,2018-07-03,2022-06-30,16,21,42,0,0,33409253340.924995
+384,Ivan Rakitic,32,184,Croatia,Midfielder,Central Midfield,right,LaLiga,FC Barcelona,2014-07-01,2022-06-30,0,4,31,0,0,33409253340.924995
+385,Gerard Piqué,33,192,Spain,Defender,Centre-Back,right,LaLiga,FC Barcelona,2008-07-01,2024-06-30,1,0,33,0,0,33409253340.924995
+386,Daley Blind,30,180,Netherlands,Defender,Centre-Back,left,Other league,Ajax Amsterdam,2018-07-17,2024-06-30,1,1,34,0,0,33409253340.924995
+387,Pau López,25,189,Spain,Goalkeeper,Goalkeeper,left,Serie A,AS Roma,2019-07-10,2024-06-30,0,0,34,43,9,32072883207.287994
+388,Moussa Marega,28,183,Mali,Forward,Second Striker,right,Other league,FC Porto,2016-01-25,2021-06-30,1,2,21,0,0,32072883207.287994
+389,Domenico Berardi,25,183,Italy,Forward,Right Winger,left,Serie A,US Sassuolo,2015-07-01,2024-06-30,9,5,21,0,0,32072883207.287994
+390,Marten de Roon,29,185,Netherlands,Midfielder,Defensive Midfield,right,Serie A,Atalanta BC,2017-08-10,2024-11-30,9,7,35,0,0,32072883207.287994
+391,Dennis Praet,25,181,Belgium,Midfielder,Central Midfield,right,Premier League,Leicester City,2019-08-08,2022-06-30,1,3,29,0,0,32072883207.287994
+392,Oscar,28,179,Brazil,Midfielder,Attacking Midfield,right,Other league,Shanghai SIPG,2017-01-01,2024-11-30,0,2,1,0,0,32072883207.287994
+393,Francis Coquelin,28,177,France,Midfielder,Defensive Midfield,right,LaLiga,Valencia CF,2018-01-11,2024-12-31,0,2,29,0,0,32072883207.287994
+394,Amadou Diawara,22,183,Guinea,Midfielder,Defensive Midfield,right,Serie A,AS Roma,2019-07-01,2024-06-30,0,0,20,0,0,30736513073.650997
+395,Gabriel Barbosa,23,178,Brazil,Forward,Centre-Forward,left,Other league,Clube de Regatas do Flamengo,2020-01-28,2022-06-30,2,0,5,0,0,30736513073.650997
+396,Julian Weigl,24,186,Germany,Midfielder,Defensive Midfield,right,Other league,SL Benfica,2020-01-01,2023-12-31,1,0,31,0,0,30736513073.650997
+397,Matías Vecino,28,187,Uruguay,Midfielder,Central Midfield,right,Serie A,Inter Milan,2017-08-02,2022-06-30,3,1,23,0,0,30736513073.650997
+398,Paulinho,31,183,Brazil,Midfielder,Central Midfield,right,Other league,Guangzhou Evergrande Taobao,2019-01-02,2019-03-05,0,0,0,0,0,30736513073.650997
+399,Matheus Henrique,22,175,Brazil,Midfielder,Central Midfield,right,Other league,Grêmio Foot-Ball Porto Alegrense,2018-09-27,2023-12-31,1,0,2,0,0,29400142940.013996
+400,Mohamed Ihattaren,18,183,Netherlands,Midfielder,Attacking Midfield,left,Other league,PSV Eindhoven,2019-01-01,2022-06-30,9,9,34,0,0,29400142940.013996
+401,Lisandro Martínez,22,178,Argentina,Defender,Centre-Back,left,Other league,Ajax Amsterdam,2019-07-01,2023-06-30,2,1,41,0,0,29400142940.013996
+402,Max Aarons,20,178,England,Defender,Right-Back,right,Premier League,Norwich City,2018-07-01,2021-06-30,0,2,30,0,0,29400142940.013996
+403,Gabriel Magalhães,22,190,Brazil,Defender,Centre-Back,left,Ligue 1,LOSC Lille,2017-01-31,2023-06-30,1,0,34,0,0,29400142940.013996
+404,Bukayo Saka,18,178,England,Midfielder,Left Midfield,left,Premier League,Arsenal FC,2019-07-01,2024-06-30,3,9,30,0,0,29400142940.013996
+405,Jean-Philippe Mateta,22,192,France,Forward,Centre-Forward,right,Bundesliga,1.FSV Mainz 05,2018-07-01,2023-06-30,2,1,10,0,0,29400142940.013996
+406,Harvey Barnes,22,180,England,Midfielder,Left Midfield,right,Premier League,Leicester City,2017-07-01,2024-06-30,7,7,32,0,0,29400142940.013996
+407,Rafael Leão,20,188,Portugal,Forward,Centre-Forward,right,Serie A,AC Milan,2019-08-01,2024-06-30,2,2,22,0,0,29400142940.013996
+408,Ismaël Bennacer,22,175,Algeria,Midfielder,Defensive Midfield,left,Serie A,AC Milan,2019-08-04,2023-06-30,0,1,23,0,0,29400142940.013996
+409,Sean Longstaff,22,181,England,Midfielder,Central Midfield,right,Premier League,Newcastle United,2019-01-01,2020-06-30,1,2,26,0,0,29400142940.013996
+410,Mouctar Diakhaby,23,192,France,Defender,Centre-Back,right,LaLiga,Valencia CF,2018-07-01,2024-06-30,0,0,24,0,0,29400142940.013996
+411,Christian Kouamé,22,185,Cote,Forward,Centre-Forward,right,Serie A,ACF Fiorentina,2020-01-31,2024-06-30,5,3,12,0,0,29400142940.013996
+412,Sander Berge,22,195,Norway,Midfielder,Defensive Midfield,right,Premier League,Sheffield United,2020-01-30,2022-06-30,4,0,36,0,0,29400142940.013996
+413,Weston McKennie,21,185,United,Midfielder,Central Midfield,right,Bundesliga,FC Schalke 04,2017-07-01,2024-06-30,1,1,24,0,0,29400142940.013996
+414,Todd Cantwell,22,177,England,Midfielder,Left Midfield,right,Premier League,Norwich City,2018-07-01,2022-06-30,6,2,31,0,0,29400142940.013996
+415,Nikola Vlasic,22,178,Croatia,Midfielder,Attacking Midfield,right,Other league,CSKA Moscow,2019-07-01,2020-05-31,8,6,30,0,0,29400142940.013996
+416,Eric Bailly,25,187,Cote,Defender,Centre-Back,right,Premier League,Manchester United,2016-07-01,2024-06-30,0,0,6,0,0,29400142940.013996
+417,Harry Wilson,23,173,Wales,Forward,Right Winger,left,Premier League,AFC Bournemouth,2019-08-06,2020-06-30,6,2,27,0,0,29400142940.013996
+418,Florian Neuhaus,23,183,Germany,Midfielder,Central Midfield,right,Bundesliga,Borussia Mönchengladbach,2017-07-01,2024-06-30,3,2,28,0,0,29400142940.013996
+419,Angeliño,23,170,Spain,Defender,Left-Back,left,Bundesliga,RB Leipzig,2020-01-31,2024-06-30,1,4,21,0,0,29400142940.013996
+420,Neal Maupay,23,173,France,Forward,Centre-Forward,right,Premier League,Brighton & Hove Albion,2019-08-05,2023-06-30,8,2,29,0,0,29400142940.013996
+421,Ben Davies,26,181,Wales,Defender,Left-Back,left,Premier League,Tottenham Hotspur,2014-07-23,2023-06-30,0,1,13,0,0,29400142940.013996
+422,Fred,27,169,Brazil,Midfielder,Central Midfield,left,Premier League,Manchester United,2018-07-01,2022-06-30,2,4,39,0,0,29400142940.013996
+423,Luke Shaw,24,181,England,Defender,Left-Back,left,Premier League,Manchester United,2014-07-01,2019-03-05,1,2,26,0,0,29400142940.013996
+424,Mike Maignan,24,191,France,Goalkeeper,Goalkeeper,right,Ligue 1,LOSC Lille,2015-08-18,2021-06-30,0,0,37,45,13,29400142940.013996
+425,Quincy Promes,28,174,Netherlands,Forward,Left Winger,both,Other league,Ajax Amsterdam,2019-07-01,2024-06-30,16,5,28,0,0,29400142940.013996
+426,Michy Batshuayi,26,184,Belgium,Forward,Centre-Forward,right,Premier League,Chelsea FC,2016-07-03,2020-06-30,8,3,25,0,0,29400142940.013996
+427,Gabriel Paulista,29,187,Brazil,Defender,Centre-Back,right,LaLiga,Valencia CF,2017-08-18,2022-06-30,1,0,33,0,0,29400142940.013996
+428,Ryan Fraser,26,163,Scotland,Forward,Left Winger,right,Premier League,AFC Bournemouth,2013-01-18,2022-06-30,1,4,32,0,0,29400142940.013996
+429,Jesse Lingard,27,174,England,Forward,Right Winger,right,Premier League,Manchester United,2012-07-01,2021-06-30,2,2,35,0,0,29400142940.013996
+430,Danny Ings,27,178,England,Forward,Centre-Forward,right,Premier League,Southampton FC,2019-07-01,2023-06-30,18,2,33,0,0,29400142940.013996
+431,Suso,26,177,Spain,Forward,Right Winger,left,Ligue 1,Sevilla FC,2020-01-29,2022-06-30,2,3,25,0,0,29400142940.013996
+432,Marc Bartra,29,184,Spain,Defender,Centre-Back,right,LaLiga,Real Betis Balompié,2018-01-30,2022-06-30,2,1,26,0,0,29400142940.013996
+433,Thomas Delaney,28,182,Denmark,Midfielder,Central Midfield,left,Bundesliga,Borussia Dortmund,2018-07-01,2022-06-30,0,0,9,0,0,29400142940.013996
+434,Josip Ilicic,32,190,Slovenia,Forward,Second Striker,left,Serie A,Atalanta BC,2017-07-05,2022-06-30,21,9,29,0,0,29400142940.013996
+435,Marcel Halstenberg,28,188,Germany,Defender,Left-Back,left,Bundesliga,RB Leipzig,2015-08-31,2024-06-30,3,2,28,0,0,29400142940.013996
+436,Anthony Lopes,29,184,Portugal,Goalkeeper,Goalkeeper,left,Ligue 1,Olympique Lyon,2011-07-01,2023-06-30,0,0,37,41,12,29400142940.013996
+437,Kevin Kampl,29,178,Slovenia,Midfielder,Central Midfield,right,Bundesliga,RB Leipzig,2017-08-31,2021-06-30,1,0,6,0,0,29400142940.013996
+438,Ivan Perisic,31,187,Croatia,Forward,Left Winger,both,Bundesliga,Bayern Munich,2019-08-13,2020-06-30,5,8,22,0,0,29400142940.013996
+439,Mesut Özil,31,180,Germany,Midfielder,Attacking Midfield,left,Premier League,Arsenal FC,2013-09-02,2021-06-30,1,3,23,0,0,29400142940.013996
+440,Krépin Diatta,21,175,Senegal,Forward,Left Winger,right,Other league,Club Brugge KV,2018-01-03,2023-06-30,8,4,34,0,0,28063772806.376995
+441,Dodi Lukebakio,22,187,Belgium,Forward,Right Winger,left,Bundesliga,Hertha BSC,2019-08-01,2024-06-30,6,6,25,0,0,28063772806.376995
+442,João Pedro,18,182,Brazil,Forward,Centre-Forward,right,Premier League,Watford FC,2020-01-01,2025-06-30,0,0,2,0,0,26727402672.739998
+443,Rayan Cherki,16,176,France,Midfielder,Attacking Midfield,right,Ligue 1,Olympique Lyon,2020-01-01,2022-06-30,8,3,16,0,0,26727402672.739998
+444,Antony,20,172,Brazil,Forward,Right Winger,left,Other league,São Paulo Futebol Clube,2019-01-01,2023-06-30,0,0,2,0,0,26727402672.739998
+445,Dwight McNeil,20,183,England,Forward,Left Winger,left,Premier League,Burnley FC,2018-07-01,2025-06-30,2,5,31,0,0,26727402672.739998
+446,Thiago Almada,18,171,Argentina,Midfielder,Attacking Midfield,right,Other league,Club Atlético Vélez Sarsfield,2018-07-01,2024-06-30,5,2,24,0,0,26727402672.739998
+447,Edmond Tapsoba,21,192,Burkina,Defender,Centre-Back,right,Bundesliga,Bayer 04 Leverkusen,2020-01-31,2025-06-30,9,1,41,0,0,26727402672.739998
+448,Carlos Vinícius,25,190,Brazil,Forward,Centre-Forward,left,Other league,SL Benfica,2019-07-20,2024-06-30,20,12,36,0,0,26727402672.739998
+449,Emerson,21,183,Brazil,Defender,Right-Back,right,LaLiga,Real Betis Balompié,2019-07-02,2021-06-30,3,5,24,0,0,26727402672.739998
+450,Benoît Badiashile,19,194,France,Defender,Centre-Back,left,Ligue 1,AS Monaco,2018-07-01,2024-06-30,0,0,20,0,0,26727402672.739998
+451,Luiz Felipe,23,187,Brazil,Defender,Centre-Back,right,Serie A,SS Lazio,2016-08-30,2022-06-30,1,1,23,0,0,26727402672.739998
+452,Douglas Luiz,21,178,Brazil,Midfielder,Central Midfield,right,Premier League,Aston Villa,2019-07-25,2023-06-30,3,2,32,0,0,26727402672.739998
+453,Myron Boadu,19,183,Netherlands,Forward,Centre-Forward,right,Other league,AZ Alkmaar,2017-07-01,2023-06-30,20,13,39,0,0,26727402672.739998
+454,Raphinha,23,175,Brazil,Forward,Right Winger,left,Ligue 1,Stade Rennais FC,2019-09-02,2024-06-30,9,5,35,0,0,26727402672.739998
+455,Calvin Stengs,21,182,Netherlands,Forward,Right Winger,left,Other league,AZ Alkmaar,2017-05-18,2022-06-30,10,12,42,0,0,26727402672.739998
+456,Pau Torres,23,191,Spain,Defender,Centre-Back,left,LaLiga,Villarreal CF,2018-07-01,2024-06-30,1,2,26,0,0,26727402672.739998
+457,Sergiño Dest,19,175,United,Defender,Right-Back,right,Other league,Ajax Amsterdam,2019-09-12,2024-06-30,2,6,36,0,0,26727402672.739998
+458,Pablo Fornals,24,178,Spain,Midfielder,Attacking Midfield,right,Premier League,West Ham United,2019-07-01,2023-06-30,3,5,30,0,0,26727402672.739998
+459,Florentino,20,184,Portugal,Midfielder,Defensive Midfield,right,Other league,SL Benfica,2019-02-01,2022-06-30,0,1,15,0,0,26727402672.739998
+460,Diogo Dalot,21,183,Portugal,Defender,Right-Back,right,Premier League,Manchester United,2018-07-01,2020-06-30,1,0,10,0,0,26727402672.739998
+461,Loren Morón,26,185,Spain,Forward,Centre-Forward,right,LaLiga,Real Betis Balompié,2018-01-30,2023-06-30,11,3,29,0,0,26727402672.739998
+462,Lucas Tousart,22,185,France,Midfielder,Defensive Midfield,right,Ligue 1,Olympique Lyon,2020-01-28,2022-06-30,3,3,39,0,0,26727402672.739998
+463,Unai Núñez,23,186,Spain,Defender,Centre-Back,right,LaLiga,Athletic Bilbao,2017-07-01,2023-06-30,0,0,18,0,0,26727402672.739998
+464,Marc Roca,23,184,Spain,Midfielder,Defensive Midfield,left,LaLiga,RCD Espanyol Barcelona,2016-07-01,2025-06-30,2,3,33,0,0,26727402672.739998
+465,Valentin Rongier,25,172,France,Midfielder,Central Midfield,right,Ligue 1,Olympique Marseille,2019-09-03,2024-06-30,0,5,31,0,0,26727402672.739998
+466,Jarrod Bowen,23,175,England,Forward,Right Winger,left,Premier League,West Ham United,2020-01-31,2025-06-30,18,6,36,0,0,26727402672.739998
+467,Fikayo Tomori,22,184,England,Defender,Centre-Back,right,Premier League,Chelsea FC,2017-07-01,2024-06-30,2,1,22,0,0,26727402672.739998
+468,Jonathan Bamba,24,175,France,Forward,Left Winger,right,Ligue 1,LOSC Lille,2018-07-02,2023-06-30,1,9,37,0,0,26727402672.739998
+469,Marc Cucurella,21,175,Spain,Midfielder,Left Midfield,left,LaLiga,Getafe CF,2019-07-18,2024-06-30,1,5,34,0,0,26727402672.739998
+470,Carles Aleñá,22,180,Spain,Midfielder,Central Midfield,left,LaLiga,Real Betis Balompié,2020-01-01,2024-06-30,0,2,15,0,0,26727402672.739998
+471,Kasper Dolberg,22,187,Denmark,Forward,Centre-Forward,right,Ligue 1,OGC Nice,2019-08-29,2020-06-30,12,3,29,0,0,26727402672.739998
+472,Marcos Llorente,25,184,Spain,Midfielder,Defensive Midfield,right,LaLiga,Atlético Madrid,2019-07-01,2024-06-30,3,1,24,0,0,26727402672.739998
+473,Álvaro Odriozola,24,176,Spain,Defender,Right-Back,right,Bundesliga,Bayern Munich,2020-01-22,2020-06-30,0,1,7,0,0,26727402672.739998
+474,Miguel Almirón,26,174,Paraguay,Midfielder,Attacking Midfield,left,Premier League,Newcastle United,2019-01-31,2024-06-30,6,1,33,0,0,26727402672.739998
+475,Viktor Tsygankov,22,177,Ukraine,Forward,Right Winger,left,Other league,Dynamo Kyiv,2016-08-01,2023-06-30,11,8,31,0,0,26727402672.739998
+476,Unai Simón,22,190,Spain,Goalkeeper,Goalkeeper,right,LaLiga,Athletic Bilbao,2018-07-01,2024-06-30,0,0,27,22,12,26727402672.739998
+477,Timothy Castagne,24,180,Belgium,Defender,Right-Back,right,Serie A,Atalanta BC,2017-07-07,2022-06-30,2,2,19,0,0,26727402672.739998
+478,Joachim Andersen,23,192,Denmark,Defender,Centre-Back,right,Ligue 1,Olympique Lyon,2019-07-12,2023-06-30,2,0,30,0,0,26727402672.739998
+479,Talisca,26,190,Brazil,Midfielder,Attacking Midfield,left,Other league,Guangzhou Evergrande Taobao,2019-01-01,2023-06-30,0,0,0,0,0,26727402672.739998
+480,Renato Sanches,22,176,Portugal,Midfielder,Central Midfield,right,Ligue 1,LOSC Lille,2019-08-23,2023-06-30,4,1,33,0,0,26727402672.739998
+481,Wilmar Barrios,26,178,Colombia,Midfielder,Defensive Midfield,right,Other league,Zenit St. Petersburg,2019-02-01,2022-06-30,1,0,27,0,0,26727402672.739998
+482,Zeki Celik,23,180,Turkey,Defender,Right-Back,right,Ligue 1,LOSC Lille,2018-07-07,2022-06-30,0,3,32,0,0,26727402672.739998
+483,Lewis Cook,23,175,England,Midfielder,Central Midfield,right,Premier League,AFC Bournemouth,2016-07-08,2024-06-30,0,0,22,0,0,26727402672.739998
+484,Keita Baldé,25,184,Senegal,Forward,Left Winger,both,Ligue 1,AS Monaco,2017-08-29,2021-06-30,8,4,26,0,0,26727402672.739998
+485,Nadiem Amiri,23,180,Germany,Midfielder,Attacking Midfield,right,Bundesliga,Bayer 04 Leverkusen,2019-07-30,2022-06-30,1,6,32,0,0,26727402672.739998
+486,Lucas Vázquez,28,173,Spain,Forward,Right Winger,right,LaLiga,Real Madrid,2015-07-02,2020-06-30,3,2,18,0,0,26727402672.739998
+487,Jeremie Boga,23,174,Cote,Forward,Left Winger,right,Serie A,US Sassuolo,2018-07-21,2023-06-30,8,4,25,0,0,26727402672.739998
+488,Mario Pasalic,25,188,Croatia,Midfielder,Central Midfield,right,Serie A,Atalanta BC,2018-07-25,2021-06-30,7,7,32,0,0,26727402672.739998
+489,Andreas Pereira,24,178,Brazil,Midfielder,Attacking Midfield,right,Premier League,Manchester United,2015-07-01,2022-06-30,2,4,37,0,0,26727402672.739998
+490,André Silva,24,184,Portugal,Forward,Centre-Forward,right,Bundesliga,Eintracht Frankfurt,2019-09-02,2022-06-30,8,4,26,0,0,26727402672.739998
+491,Jamie Vardy,33,179,England,Forward,Centre-Forward,right,Premier League,Leicester City,2012-07-01,2022-06-30,19,6,30,0,0,26727402672.739998
+492,Luca Waldschmidt,23,181,Germany,Forward,Centre-Forward,left,Bundesliga,SC Freiburg,2018-07-01,2024-06-30,6,2,16,0,0,26727402672.739998
+493,John McGinn,25,178,Scotland,Midfielder,Central Midfield,left,Premier League,Aston Villa,2018-08-08,2024-06-30,3,2,20,0,0,26727402672.739998
+494,Stanislav Lobotka,25,172,Slovakia,Midfielder,Defensive Midfield,both,Serie A,SSC Napoli,2020-01-15,2024-06-30,0,0,22,0,0,26727402672.739998
+495,Shoya Nakajima,25,164,Japan,Forward,Left Winger,right,Other league,FC Porto,2019-07-05,2024-06-30,1,3,28,0,0,26727402672.739998
+496,Gerard Moreno,27,180,Spain,Forward,Centre-Forward,left,LaLiga,Villarreal CF,2018-07-01,2023-06-30,13,4,27,0,0,26727402672.739998
+497,Jonny Otto,26,175,Spain,Defender,Left-Back,both,Premier League,Wolverhampton Wanderers,2019-01-31,2023-06-30,1,2,38,0,0,26727402672.739998
+498,Bernard,27,164,Brazil,Forward,Left Winger,right,Premier League,Everton FC,2018-08-09,2022-06-30,3,2,22,0,0,26727402672.739998
+499,Matt Doherty,28,186,Ireland,Defender,Right-Back,right,Premier League,Wolverhampton Wanderers,2010-08-22,2023-06-30,7,3,39,0,0,26727402672.739998
