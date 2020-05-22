@@ -1,0 +1,501 @@
+,name,age,height,position,league,team,market value
+0,Kylian Mbappé,21,178,Forward,Ligue 1,Paris Saint-Germain,2600
+1,Raheem Sterling,25,170,Forward,Premier League,Manchester City,2080
+2,Neymar,28,175,Forward,Ligue 1,Paris Saint-Germain,2080
+3,Sadio Mané,27,174,Forward,Premier League,Liverpool FC,1950
+4,Mohamed Salah,27,175,Forward,Premier League,Liverpool FC,1950
+5,Harry Kane,26,188,Forward,Premier League,Tottenham Hotspur,1950
+6,Kevin De Bruyne,28,181,Midfielder,Premier League,Manchester City,1950
+7,Lionel Messi,32,170,Forward,LaLiga,FC Barcelona,1820
+8,Jadon Sancho,20,180,Forward,Bundesliga,Borussia Dortmund,1690
+9,Antoine Griezmann,29,176,Forward,LaLiga,FC Barcelona,1560
+10,Trent Alexander-Arnold,21,180,Defender,Premier League,Liverpool FC,1430
+11,Bernardo Silva,25,173,Forward,Premier League,Manchester City,1300
+12,N'Golo Kanté,29,168,Midfielder,Premier League,Chelsea FC,1300
+13,Leroy Sané,24,184,Forward,Premier League,Manchester City,1300
+14,Virgil van Dijk,28,193,Defender,Premier League,Liverpool FC,1300
+15,Paul Pogba,27,191,Midfielder,Premier League,Manchester United,1300
+16,Jan Oblak,27,188,Goalkeeper,LaLiga,Atlético Madrid,1300
+17,Eden Hazard,29,175,Forward,LaLiga,Real Madrid,1300
+18,João Félix,20,180,Forward,LaLiga,Atlético Madrid,1170
+19,Frenkie de Jong,22,181,Midfielder,LaLiga,FC Barcelona,1170
+20,Kai Havertz,20,189,Midfielder,Bundesliga,Bayer 04 Leverkusen,1170
+21,Paulo Dybala,26,177,Forward,Serie A,Juventus FC,1170
+22,Serge Gnabry,24,175,Forward,Bundesliga,Bayern Munich,1170
+23,Saúl Ñíguez,25,184,Midfielder,LaLiga,Atlético Madrid,1170
+24,Roberto Firmino,28,181,Forward,Premier League,Liverpool FC,1170
+25,Alisson,27,191,Goalkeeper,Premier League,Liverpool FC,1170
+26,Marc-André ter Stegen,27,187,Goalkeeper,LaLiga,FC Barcelona,1170
+27,Romelu Lukaku,26,191,Forward,Serie A,Inter Milan,1105
+28,Christian Eriksen,28,182,Midfielder,Serie A,Inter Milan,1105
+29,Erling Haaland,19,194,Forward,Bundesliga,Borussia Dortmund,1040
+30,Lautaro Martínez,22,174,Forward,Serie A,Inter Milan,1040
+31,Rodri,23,191,Midfielder,Premier League,Manchester City,1040
+32,Sergej Milinkovic-Savic,25,191,Midfielder,Serie A,SS Lazio,1040
+33,Marcus Rashford,22,185,Forward,Premier League,Manchester United,1040
+34,Andrew Robertson,26,178,Defender,Premier League,Liverpool FC,1040
+35,Dele Alli,23,188,Midfielder,Premier League,Tottenham Hotspur,1040
+36,Timo Werner,24,181,Forward,Bundesliga,RB Leipzig,1040
+37,Raphaël Varane,26,191,Defender,LaLiga,Real Madrid,1040
+38,Joshua Kimmich,25,176,Midfielder,Bundesliga,Bayern Munich,1040
+39,Heung-min Son,27,184,Forward,Premier League,Tottenham Hotspur,1040
+40,Casemiro,28,185,Midfielder,LaLiga,Real Madrid,1040
+41,Matthijs de Ligt,20,189,Defender,Serie A,Juventus FC,975
+42,Aymeric Laporte,25,190,Defender,Premier League,Manchester City,975
+43,Marco Verratti,27,165,Midfielder,Ligue 1,Paris Saint-Germain,975
+44,Mauro Icardi,27,181,Forward,Ligue 1,Paris Saint-Germain,975
+45,Cristiano Ronaldo,35,187,Forward,Serie A,Juventus FC,975
+46,Gabriel Jesus,23,175,Forward,Premier League,Manchester City,910
+47,Arthur,23,172,Midfielder,LaLiga,FC Barcelona,910
+48,Ousmane Dembélé,22,178,Forward,LaLiga,FC Barcelona,910
+49,Lucas Hernández,24,182,Defender,Bundesliga,Bayern Munich,910
+50,José Giménez,25,185,Defender,LaLiga,Atlético Madrid,910
+51,Ederson,26,188,Goalkeeper,Premier League,Manchester City,910
+52,Fabinho,26,188,Midfielder,Premier League,Liverpool FC,910
+53,Harry Maguire,27,194,Defender,Premier League,Manchester United,910
+54,Kalidou Koulibaly,28,187,Defender,Serie A,SSC Napoli,910
+55,Philippe Coutinho,27,172,Midfielder,Bundesliga,Bayern Munich,910
+56,Pierre-Emerick Aubameyang,30,187,Forward,Premier League,Arsenal FC,910
+57,Robert Lewandowski,31,184,Forward,Bundesliga,Bayern Munich,910
+58,Tanguy Ndombélé,23,181,Midfielder,Premier League,Tottenham Hotspur,845
+59,Richarlison,22,179,Forward,Premier League,Everton FC,845
+60,Nicolas Pépé,24,183,Forward,Premier League,Arsenal FC,845
+61,Marquinhos,25,183,Defender,Ligue 1,Paris Saint-Germain,845
+62,Jorginho,28,180,Midfielder,Premier League,Chelsea FC,845
+63,David Alaba,27,180,Defender,Bundesliga,Bayern Munich,845
+64,Miralem Pjanic,30,180,Midfielder,Serie A,Juventus FC,845
+65,Sergio Agüero,31,173,Forward,Premier League,Manchester City,845
+66,Achraf Hakimi,21,181,Defender,Bundesliga,Borussia Dortmund,780
+67,Federico Valverde,21,182,Midfielder,LaLiga,Real Madrid,780
+68,Mikel Oyarzabal,22,181,Forward,LaLiga,Real Sociedad,780
+69,Fabián Ruiz,24,189,Midfielder,Serie A,SSC Napoli,780
+70,Davinson Sánchez,23,187,Defender,Premier League,Tottenham Hotspur,780
+71,Federico Chiesa,22,180,Forward,Serie A,ACF Fiorentina,780
+72,Christian Pulisic,21,172,Forward,Premier League,Chelsea FC,780
+73,James Maddison,23,175,Midfielder,Premier League,Leicester City,780
+74,Bruno Fernandes,25,183,Midfielder,Premier League,Manchester United,780
+75,Milan Skriniar,25,188,Defender,Serie A,Inter Milan,780
+76,Clément Lenglet,24,186,Defender,LaLiga,FC Barcelona,780
+77,Anthony Martial,24,183,Forward,Premier League,Manchester United,780
+78,Riyad Mahrez,29,179,Forward,Premier League,Manchester City,780
+79,Niklas Süle,24,195,Defender,Bundesliga,Bayern Munich,780
+80,Marcelo Brozovic,27,181,Midfielder,Serie A,Inter Milan,780
+81,Lorenzo Insigne,28,163,Forward,Serie A,SSC Napoli,780
+82,Stefan de Vrij,28,189,Defender,Serie A,Inter Milan,780
+83,Thibaut Courtois,27,199,Goalkeeper,LaLiga,Real Madrid,780
+84,Alexandre Lacazette,28,176,Forward,Premier League,Arsenal FC,780
+85,Koke,28,176,Midfielder,LaLiga,Atlético Madrid,780
+86,Thiago,28,174,Midfielder,Bundesliga,Bayern Munich,780
+87,Toni Kroos,30,183,Midfielder,LaLiga,Real Madrid,780
+88,Houssem Aouar,21,175,Midfielder,Ligue 1,Olympique Lyon,715
+89,Declan Rice,21,185,Midfielder,Premier League,West Ham United,715
+90,Gianluigi Donnarumma,21,196,Goalkeeper,Serie A,AC Milan,715
+91,Donny van de Beek,22,184,Midfielder,Other league,Ajax Amsterdam,715
+92,Youri Tielemans,22,176,Midfielder,Premier League,Leicester City,715
+93,Memphis Depay,26,176,Forward,Ligue 1,Olympique Lyon,715
+94,Wilfried Zaha,27,180,Forward,Premier League,Crystal Palace,715
+95,Luis Alberto,27,183,Midfielder,Serie A,SS Lazio,715
+96,Alphonso Davies,19,181,Defender,Bundesliga,Bayern Munich,650
+97,Rodrygo,19,174,Forward,LaLiga,Real Madrid,650
+98,Ferran Torres,20,184,Forward,LaLiga,Valencia CF,650
+99,Nicolò Zaniolo,20,190,Midfielder,Serie A,AS Roma,650
+100,Carlos Soler,23,180,Midfielder,LaLiga,Valencia CF,650
+101,Vinícius Júnior,19,176,Forward,LaLiga,Real Madrid,650
+102,Rodrigo Bentancur,22,187,Midfielder,Serie A,Juventus FC,650
+103,Giovani Lo Celso,23,177,Midfielder,Premier League,Tottenham Hotspur,650
+104,Dayot Upamecano,21,186,Defender,Bundesliga,RB Leipzig,650
+105,Tammy Abraham,22,191,Forward,Premier League,Chelsea FC,650
+106,Martin Ödegaard,21,178,Midfielder,LaLiga,Real Sociedad,650
+107,Ben Chilwell,23,178,Defender,Premier League,Leicester City,650
+108,Iñaki Williams,25,186,Forward,LaLiga,Athletic Bilbao,650
+109,Kingsley Coman,23,179,Forward,Bundesliga,Bayern Munich,650
+110,Thomas,26,185,Midfielder,LaLiga,Atlético Madrid,650
+111,Moussa Dembélé,23,183,Forward,Ligue 1,Olympique Lyon,650
+112,Rúben Neves,23,180,Midfielder,Premier League,Wolverhampton Wanderers,650
+113,José Gayà,24,172,Defender,LaLiga,Valencia CF,650
+114,Hakim Ziyech,27,181,Forward,Other league,Ajax Amsterdam,650
+115,Raúl Jiménez,28,188,Forward,Premier League,Wolverhampton Wanderers,650
+116,Julian Brandt,23,185,Midfielder,Bundesliga,Borussia Dortmund,650
+117,Leon Goretzka,25,189,Midfielder,Bundesliga,Bayern Munich,650
+118,Wissam Ben Yedder,29,170,Forward,Ligue 1,AS Monaco,650
+119,Daniel Carvajal,28,173,Defender,LaLiga,Real Madrid,650
+120,Rodrigo,29,182,Forward,LaLiga,Valencia CF,650
+121,Ciro Immobile,30,185,Forward,Serie A,SS Lazio,650
+122,Kyle Walker,29,183,Defender,Premier League,Manchester City,650
+123,Antonio Rüdiger,27,190,Defender,Premier League,Chelsea FC,650
+124,Sergi Roberto,28,178,Defender,LaLiga,FC Barcelona,650
+125,Isco,27,176,Midfielder,LaLiga,Real Madrid,650
+126,Alex Sandro,29,181,Defender,Serie A,Juventus FC,650
+127,Jordi Alba,31,170,Defender,LaLiga,FC Barcelona,650
+128,David de Gea,29,189,Goalkeeper,Premier League,Manchester United,650
+129,Ilkay Gündogan,29,180,Midfielder,Premier League,Manchester City,650
+130,Georginio Wijnaldum,29,175,Midfielder,Premier League,Liverpool FC,650
+131,David Neres,23,176,Forward,Other league,Ajax Amsterdam,585
+132,Mattéo Guendouzi,20,184,Midfielder,Premier League,Arsenal FC,585
+133,Ibrahima Konaté,20,193,Defender,Bundesliga,RB Leipzig,585
+134,Mason Mount,21,178,Midfielder,Premier League,Chelsea FC,585
+135,Denis Zakaria,23,190,Midfielder,Bundesliga,Borussia Mönchengladbach,585
+136,Lucas Torreira,24,166,Midfielder,Premier League,Arsenal FC,585
+137,Wilfred Ndidi,23,183,Midfielder,Premier League,Leicester City,585
+138,Nicolò Barella,23,172,Midfielder,Serie A,Inter Milan,585
+139,André Onana,24,190,Goalkeeper,Other league,Ajax Amsterdam,585
+140,Alessio Romagnoli,25,188,Defender,Serie A,AC Milan,585
+141,John Stones,25,188,Defender,Premier League,Manchester City,585
+142,João Cancelo,25,182,Defender,Premier League,Manchester City,585
+143,Sébastien Haller,25,190,Forward,Premier League,West Ham United,585
+144,Álvaro Morata,27,187,Forward,LaLiga,Atlético Madrid,585
+145,Duván Zapata,29,189,Forward,Serie A,Atalanta BC,585
+146,Mateo Kovacic,25,177,Midfielder,Premier League,Chelsea FC,585
+147,Eduardo Camavinga,17,182,Midfielder,Ligue 1,Stade Rennais FC,546
+148,Naby Keïta,25,172,Midfielder,Premier League,Liverpool FC,546
+149,Joe Gomez,22,188,Defender,Premier League,Liverpool FC,546
+150,Aaron Wan-Bissaka,22,183,Defender,Premier League,Manchester United,520
+151,Ansu Fati,17,178,Forward,LaLiga,FC Barcelona,520
+152,Éder Militão,22,186,Defender,LaLiga,Real Madrid,520
+153,Maxi Gómez,23,186,Forward,LaLiga,Valencia CF,520
+154,Theo Hernández,22,184,Defender,Serie A,AC Milan,520
+155,Diego Carlos,27,186,Defender,Ligue 1,Sevilla FC,520
+156,Jonathan Ikoné,21,175,Midfielder,Ligue 1,LOSC Lille,520
+157,Caglar Söyüncü,23,187,Defender,Premier League,Leicester City,520
+158,Dani Ceballos,23,179,Midfielder,Premier League,Arsenal FC,520
+159,Marco Asensio,24,182,Forward,LaLiga,Real Madrid,520
+160,Ferland Mendy,24,180,Defender,LaLiga,Real Madrid,520
+161,Lorenzo Pellegrini,23,186,Midfielder,Serie A,AS Roma,520
+162,Ángel Correa,25,171,Forward,LaLiga,Atlético Madrid,520
+163,Luka Jovic,22,182,Forward,LaLiga,Real Madrid,520
+164,Alex Telles,27,181,Defender,Other league,FC Porto,520
+165,Harry Winks,24,178,Midfielder,Premier League,Tottenham Hotspur,520
+166,Nélson Semedo,26,177,Defender,LaLiga,FC Barcelona,520
+167,Ricardo Pereira,26,175,Defender,Premier League,Leicester City,520
+168,Nabil Fekir,26,173,Midfielder,LaLiga,FC Barcelona,520
+169,Kepa,25,186,Goalkeeper,Premier League,Chelsea FC,520
+170,Arkadiusz Milik,26,186,Forward,Serie A,SSC Napoli,520
+171,Héctor Bellerín,25,178,Defender,Premier League,Arsenal FC,520
+172,Lucas Ocampos,25,187,Forward,Ligue 1,Sevilla FC,520
+173,Florian Thauvin,27,179,Forward,Ligue 1,Olympique Marseille,520
+174,Piotr Zielinski,25,180,Midfielder,Serie A,SSC Napoli,520
+175,Andrea Belotti,26,181,Forward,Serie A,Torino FC,520
+176,Filip Kostic,27,184,Midfielder,Bundesliga,Eintracht Frankfurt,520
+177,Felipe Anderson,26,175,Forward,Premier League,West Ham United,520
+178,Samuel Umtiti,26,182,Defender,LaLiga,FC Barcelona,520
+179,Allan,29,175,Midfielder,Serie A,SSC Napoli,520
+180,Marcel Sabitzer,26,177,Forward,Bundesliga,RB Leipzig,520
+181,Konstantinos Manolas,28,189,Defender,Serie A,SSC Napoli,520
+182,Thorgan Hazard,27,175,Forward,Bundesliga,Borussia Dortmund,520
+183,James Rodríguez,28,181,Midfielder,LaLiga,Real Madrid,520
+184,Joel Matip,28,195,Defender,Premier League,Liverpool FC,520
+185,Lucas Moura,27,172,Forward,Premier League,Tottenham Hotspur,520
+186,Ángel Di María,32,180,Forward,Ligue 1,Paris Saint-Germain,520
+187,Wojciech Szczesny,29,196,Goalkeeper,Serie A,Juventus FC,520
+188,Gareth Bale,30,185,Forward,LaLiga,Real Madrid,520
+189,Marco Reus,30,180,Forward,Bundesliga,Borussia Dortmund,520
+190,Karim Benzema,32,184,Forward,LaLiga,Real Madrid,520
+191,Malcom,23,171,Forward,Other league,Zenit St. Petersburg,494
+192,Rúben Dias,22,187,Defender,Other league,SL Benfica,494
+193,Joaquín Correa,25,188,Forward,Serie A,SS Lazio,494
+194,Jack Grealish,24,175,Midfielder,Premier League,Aston Villa,494
+195,Andrej Kramaric,28,177,Forward,Bundesliga,TSG 1899 Hoffenheim,494
+196,Leon Bailey,22,178,Forward,Bundesliga,Bayer 04 Leverkusen,481
+197,Jonathan Tah,24,195,Defender,Bundesliga,Bayer 04 Leverkusen,481
+198,Bruno Guimarães,22,182,Midfielder,Ligue 1,Olympique Lyon,455
+199,Renan Lodi,21,179,Defender,LaLiga,Atlético Madrid,455
+200,Dejan Kulusevski,19,186,Forward,Serie A,Parma Calcio 1913,455
+201,Sandro Tonali,19,181,Midfielder,Serie A,Brescia Calcio,455
+202,Ryan Sessegnon,19,178,Midfielder,Premier League,Tottenham Hotspur,455
+203,Callum Hudson-Odoi,19,177,Forward,Premier League,Chelsea FC,455
+204,Benjamin Pavard,24,186,Defender,Bundesliga,Bayern Munich,455
+205,Dan-Axel Zagadou,20,196,Defender,Bundesliga,Borussia Dortmund,455
+206,Christopher Nkunku,22,175,Midfielder,Bundesliga,RB Leipzig,455
+207,Diogo Jota,23,178,Forward,Premier League,Wolverhampton Wanderers,455
+208,Éverton,24,174,Forward,Other league,Grêmio Foot-Ball Porto Alegrense,455
+209,Hirving Lozano,24,175,Forward,Serie A,SSC Napoli,455
+210,Alessandro Bastoni,20,190,Defender,Serie A,Inter Milan,455
+211,Dani Olmo,21,179,Midfielder,Bundesliga,RB Leipzig,455
+212,Milot Rashica,23,177,Forward,Bundesliga,SV Werder Bremen,455
+213,Steven Bergwijn,22,178,Forward,Premier League,Tottenham Hotspur,455
+214,Presnel Kimpembe,24,183,Defender,Ligue 1,Paris Saint-Germain,455
+215,Issa Diop,23,194,Defender,Premier League,West Ham United,455
+216,Alex Meret,23,190,Goalkeeper,Serie A,SSC Napoli,455
+217,Abdou Diallo,23,187,Defender,Ligue 1,Paris Saint-Germain,455
+218,Thilo Kehrer,23,186,Defender,Ligue 1,Paris Saint-Germain,455
+219,Lukas Klostermann,23,189,Defender,Bundesliga,RB Leipzig,455
+220,Federico Bernardeschi,26,183,Forward,Serie A,Juventus FC,455
+221,Alejandro Grimaldo,24,171,Defender,Other league,SL Benfica,455
+222,Nico Elvedi,23,189,Defender,Bundesliga,Borussia Mönchengladbach,455
+223,Victor Lindelöf,25,187,Defender,Premier League,Manchester United,455
+224,Nathan Aké,25,180,Defender,Premier League,AFC Bournemouth,455
+225,Raphaël Guerreiro,26,170,Midfielder,Bundesliga,Borussia Dortmund,455
+226,Kurt Zouma,25,190,Defender,Premier League,Chelsea FC,455
+227,Benjamin Mendy,25,185,Defender,Premier League,Manchester City,455
+228,Alex Oxlade-Chamberlain,26,175,Midfielder,Premier League,Liverpool FC,455
+229,Nicolás Tagliafico,27,172,Defender,Other league,Ajax Amsterdam,455
+230,Jordan Pickford,26,185,Goalkeeper,Premier League,Everton FC,455
+231,Paco Alcácer,26,175,Forward,LaLiga,Villarreal CF,455
+232,Lucas Digne,26,178,Defender,Premier League,Everton FC,455
+233,Matthias Ginter,26,191,Defender,Bundesliga,Borussia Mönchengladbach,455
+234,Kieran Trippier,29,173,Defender,LaLiga,Atlético Madrid,455
+235,Kevin Volland,27,179,Forward,Bundesliga,Bayer 04 Leverkusen,455
+236,Pablo Sarabia,27,178,Forward,Ligue 1,Paris Saint-Germain,455
+237,Bernd Leno,28,189,Goalkeeper,Premier League,Arsenal FC,455
+238,Sergio Busquets,31,189,Midfielder,LaLiga,FC Barcelona,455
+239,Jordan Henderson,29,187,Midfielder,Premier League,Liverpool FC,455
+240,Dani Parejo,30,182,Midfielder,LaLiga,Valencia CF,455
+241,Aaron Ramsey,29,182,Midfielder,Serie A,Juventus FC,455
+242,Luis Suárez,33,182,Forward,LaLiga,FC Barcelona,455
+243,Mason Greenwood,18,181,Forward,Premier League,Manchester United,416
+244,Ozan Kabak,20,186,Defender,Bundesliga,FC Schalke 04,416
+245,Alex Iwobi,23,183,Forward,Premier League,Everton FC,416
+246,Adama Traoré,24,178,Forward,Premier League,Wolverhampton Wanderers,416
+247,Corentin Tolisso,25,181,Midfielder,Bundesliga,Bayern Munich,416
+248,Adrien Rabiot,25,188,Midfielder,Serie A,Juventus FC,416
+249,Tiemoué Bakayoko,25,189,Midfielder,Ligue 1,AS Monaco,416
+250,Iñigo Martínez,28,182,Defender,LaLiga,Athletic Bilbao,416
+251,Felipe,30,191,Defender,LaLiga,Atlético Madrid,416
+252,Stefan Savic,29,187,Defender,LaLiga,Atlético Madrid,416
+253,Thomas Müller,30,186,Forward,Bundesliga,Bayern Munich,416
+254,Gonzalo Higuaín,32,184,Forward,Serie A,Juventus FC,416
+255,Nikola Milenkovic,22,195,Defender,Serie A,ACF Fiorentina,390
+256,Phil Foden,19,171,Midfielder,Premier League,Manchester City,390
+257,Victor Osimhen,21,185,Forward,Ligue 1,LOSC Lille,390
+258,Samu Chukwueze,20,172,Forward,LaLiga,Villarreal CF,390
+259,Moussa Diaby,20,170,Forward,Bundesliga,Bayer 04 Leverkusen,390
+260,Boubacar Kamara,20,184,Defender,Ligue 1,Olympique Marseille,390
+261,Wesley,23,191,Forward,Premier League,Aston Villa,390
+262,Amine Harit,22,180,Midfielder,Bundesliga,FC Schalke 04,390
+263,Igor Zubeldia,23,180,Midfielder,LaLiga,Real Sociedad,390
+264,Cengiz Ünder,22,173,Forward,Serie A,AS Roma,390
+265,Merih Demiral,22,190,Defender,Serie A,Juventus FC,390
+266,Mikel Merino,23,186,Midfielder,LaLiga,Real Sociedad,390
+267,Dominic Calvert-Lewin,23,187,Forward,Premier League,Everton FC,390
+268,David Brooks,22,173,Midfielder,Premier League,AFC Bournemouth,390
+269,Yeray Álvarez,25,182,Defender,LaLiga,Athletic Bilbao,390
+270,Ayoze Pérez,26,178,Forward,Premier League,Leicester City,390
+271,Rafa Silva,26,171,Midfielder,Other league,SL Benfica,390
+272,Konrad Laimer,22,180,Midfielder,Bundesliga,RB Leipzig,390
+273,Djené,28,178,Defender,LaLiga,Getafe CF,390
+274,Stefano Sensi,24,168,Midfielder,Serie A,Inter Milan,390
+275,Thomas Lemar,24,171,Forward,LaLiga,Atlético Madrid,390
+276,Oleksandr Zinchenko,23,175,Defender,Premier League,Manchester City,390
+277,Ruben Loftus-Cheek,24,191,Midfielder,Premier League,Chelsea FC,390
+278,Andreas Christensen,23,188,Defender,Premier League,Chelsea FC,390
+279,Ante Rebic,26,185,Forward,Serie A,AC Milan,390
+280,Emerson,25,175,Defender,Premier League,Chelsea FC,390
+281,Alassane Plea,27,181,Forward,Bundesliga,Borussia Mönchengladbach,390
+282,Yussuf Poulsen,25,193,Forward,Bundesliga,RB Leipzig,390
+283,Danilo Pereira,28,188,Midfielder,Other league,FC Porto,390
+284,Idrissa Gueye,30,174,Midfielder,Ligue 1,Paris Saint-Germain,390
+285,Kerem Demirbay,26,183,Midfielder,Bundesliga,Bayer 04 Leverkusen,390
+286,Callum Wilson,28,180,Forward,Premier League,AFC Bournemouth,390
+287,Willian José,28,189,Forward,LaLiga,Real Sociedad,390
+288,Emre Can,26,186,Midfielder,Bundesliga,Borussia Dortmund,390
+289,Granit Xhaka,27,186,Midfielder,Premier League,Arsenal FC,390
+290,Mário Fernandes,29,187,Defender,Other league,CSKA Moscow,390
+291,Thomas Meunier,28,190,Defender,Ligue 1,Paris Saint-Germain,390
+292,Julian Draxler,26,187,Midfielder,Ligue 1,Paris Saint-Germain,390
+293,Douglas Costa,29,172,Forward,Serie A,Juventus FC,390
+294,César Azpilicueta,30,178,Defender,Premier League,Chelsea FC,390
+295,Toby Alderweireld,31,186,Defender,Premier League,Tottenham Hotspur,390
+296,Mats Hummels,31,191,Defender,Bundesliga,Borussia Dortmund,390
+297,Gabriel Martinelli,18,180,Forward,Premier League,Arsenal FC,364
+298,Lucas Paquetá,22,180,Midfielder,Serie A,AC Milan,364
+299,Moise Kean,20,183,Forward,Premier League,Everton FC,364
+300,Donyell Malen,21,179,Forward,Other league,PSV Eindhoven,364
+301,Daniel James,22,170,Forward,Premier League,Manchester United,364
+302,Marcus Thuram,22,192,Forward,Bundesliga,Borussia Mönchengladbach,364
+303,Scott McTominay,23,190,Midfielder,Premier League,Manchester United,364
+304,Gianluca Mancini,23,190,Defender,Serie A,AS Roma,364
+305,Tyrone Mings,27,195,Defender,Premier League,Aston Villa,364
+306,Gonçalo Guedes,23,179,Forward,LaLiga,Valencia CF,364
+307,André Gomes,26,188,Midfielder,Premier League,Everton FC,364
+308,Jean-Philippe Gbamin,24,186,Midfielder,Premier League,Everton FC,364
+309,Morgan Sanson,25,180,Midfielder,Ligue 1,Olympique Marseille,364
+310,Leander Dendoncker,24,188,Midfielder,Premier League,Wolverhampton Wanderers,364
+311,Matteo Politano,26,171,Forward,Serie A,SSC Napoli,364
+312,Yannick Carrasco,26,180,Forward,LaLiga,Atlético Madrid,364
+313,Geoffrey Kondogbia,27,188,Midfielder,LaLiga,Valencia CF,364
+314,Emil Forsberg,28,179,Forward,Bundesliga,RB Leipzig,364
+315,Gylfi Sigurdsson,30,186,Midfielder,Premier League,Everton FC,364
+316,Willian,31,175,Forward,Premier League,Chelsea FC,364
+317,Ismaïla Sarr,22,185,Forward,Premier League,Watford FC,351
+318,Boubakary Soumaré,21,188,Midfielder,Ligue 1,LOSC Lille,351
+319,Krzysztof Piatek,24,183,Forward,Bundesliga,Hertha BSC,351
+320,Wout Weghorst,27,197,Forward,Bundesliga,VfL Wolfsburg,351
+321,Ross Barkley,26,185,Midfielder,Premier League,Chelsea FC,351
+322,Pizzi,30,177,Midfielder,Other league,SL Benfica,351
+323,Axel Witsel,31,188,Midfielder,Bundesliga,Borussia Dortmund,351
+324,Nahitan Nández,24,172,Midfielder,Serie A,Cagliari Calcio,338
+325,Reinier,18,185,Midfielder,LaLiga,Real Madrid,325
+326,Gabriel Veron,17,176,Forward,Other league,Sociedade Esportiva Palmeiras,325
+327,Jonathan David,20,180,Midfielder,Other league,KAA Gent,325
+328,William Saliba,19,193,Defender,Ligue 1,AS Saint-Étienne,325
+329,Reece James,20,182,Defender,Premier League,Chelsea FC,325
+330,Youcef Atal,23,176,Defender,Ligue 1,OGC Nice,325
+331,Jules Koundé,21,184,Defender,Ligue 1,Sevilla FC,325
+332,Exequiel Palacios,21,177,Midfielder,Bundesliga,Bayer 04 Leverkusen,325
+333,Júnior Firpo,23,184,Defender,LaLiga,FC Barcelona,325
+334,Marash Kumbulla,20,185,Defender,Serie A,Hellas Verona,325
+335,Evan N'Dicka,20,192,Defender,Bundesliga,Eintracht Frankfurt,325
+336,Riccardo Orsolini,23,183,Forward,Serie A,Bologna FC 1909,325
+337,André Zambo Anguissa,24,184,Midfielder,LaLiga,Villarreal CF,325
+338,Alexander Isak,20,190,Forward,LaLiga,Real Sociedad,325
+339,Nordi Mukiele,22,187,Defender,Bundesliga,RB Leipzig,325
+340,Joelinton,23,186,Forward,Premier League,Newcastle United,325
+341,Justin Kluivert,20,171,Forward,Serie A,AS Roma,325
+342,Jeff Reine-Adélaïde,22,184,Midfielder,Ligue 1,Olympique Lyon,325
+343,Gaetano Castrovilli,23,187,Midfielder,Serie A,ACF Fiorentina,325
+344,Kieran Tierney,22,178,Defender,Premier League,Arsenal FC,325
+345,Franck Kessié,23,183,Midfielder,Serie A,AC Milan,325
+346,Mauro Arambarri,24,175,Midfielder,LaLiga,Getafe CF,325
+347,Yerry Mina,25,195,Defender,Premier League,Everton FC,325
+348,Manuel Akanji,24,187,Defender,Bundesliga,Borussia Dortmund,325
+349,Sergio Reguilón,23,178,Defender,Ligue 1,Sevilla FC,325
+350,Mario Hermoso,24,184,Defender,LaLiga,Atlético Madrid,325
+351,Nemanja Maksimovic,25,184,Midfielder,LaLiga,Getafe CF,325
+352,Robin Gosens,25,183,Defender,Serie A,Atalanta BC,325
+353,Allan Saint-Maximin,23,173,Forward,Premier League,Newcastle United,325
+354,Aleksandr Golovin,23,180,Midfielder,Ligue 1,AS Monaco,325
+355,Jefferson Lerma,25,179,Midfielder,Premier League,AFC Bournemouth,325
+356,Suat Serdar,22,184,Midfielder,Bundesliga,FC Schalke 04,325
+357,Gelson Martins,24,173,Forward,Ligue 1,AS Monaco,325
+358,Rodrigo de Paul,25,180,Midfielder,Serie A,Udinese Calcio,325
+359,Diego Llorente,26,186,Defender,LaLiga,Real Sociedad,325
+360,Patrik Schick,24,187,Forward,Bundesliga,RB Leipzig,325
+361,Duje Caleta-Car,23,192,Defender,Ligue 1,Olympique Marseille,325
+362,Thomas Strakosha,25,193,Goalkeeper,Serie A,SS Lazio,325
+363,Bryan Cristante,25,186,Midfielder,Serie A,AS Roma,325
+364,Florian Grillitsch,24,187,Midfielder,Bundesliga,TSG 1899 Hoffenheim,325
+365,Eric Dier,26,188,Midfielder,Premier League,Tottenham Hotspur,325
+366,James Tarkowski,27,185,Defender,Premier League,Burnley FC,325
+367,Leandro Paredes,25,180,Midfielder,Ligue 1,Paris Saint-Germain,325
+368,Jordan Veretout,27,177,Midfielder,Serie A,AS Roma,325
+369,Remo Freuler,27,180,Midfielder,Serie A,Atalanta BC,325
+370,Gerard Deulofeu,26,177,Forward,Premier League,Watford FC,325
+371,Abdoulaye Doucouré,27,183,Midfielder,Premier League,Watford FC,325
+372,Jesús Corona,27,173,Midfielder,Other league,FC Porto,325
+373,Michael Keane,27,188,Defender,Premier League,Everton FC,325
+374,Marcos Alonso,29,188,Defender,Premier League,Chelsea FC,325
+375,Luka Milivojevic,28,186,Midfielder,Premier League,Crystal Palace,325
+376,Sergio Canales,29,180,Midfielder,LaLiga,Real Betis Balompié,325
+377,Dries Mertens,32,169,Forward,Serie A,SSC Napoli,325
+378,Henrikh Mkhitaryan,31,177,Midfielder,Serie A,AS Roma,325
+379,Aleksandar Mitrovic,25,188,Forward,Premier League,Fulham FC,325
+380,Edinson Cavani,33,184,Forward,Ligue 1,Paris Saint-Germain,325
+381,Moussa Sissoko,30,187,Midfielder,Premier League,Tottenham Hotspur,325
+382,Leonardo Bonucci,32,190,Defender,Serie A,Juventus FC,325
+383,Dusan Tadic,31,181,Forward,Other league,Ajax Amsterdam,325
+384,Ivan Rakitic,32,184,Midfielder,LaLiga,FC Barcelona,325
+385,Gerard Piqué,33,192,Defender,LaLiga,FC Barcelona,325
+386,Daley Blind,30,180,Defender,Other league,Ajax Amsterdam,325
+387,Pau López,25,189,Goalkeeper,Serie A,AS Roma,312
+388,Moussa Marega,28,183,Forward,Other league,FC Porto,312
+389,Domenico Berardi,25,183,Forward,Serie A,US Sassuolo,312
+390,Marten de Roon,29,185,Midfielder,Serie A,Atalanta BC,312
+391,Dennis Praet,25,181,Midfielder,Premier League,Leicester City,312
+392,Oscar,28,179,Midfielder,Other league,Shanghai SIPG,312
+393,Francis Coquelin,28,177,Midfielder,LaLiga,Valencia CF,312
+394,Amadou Diawara,22,183,Midfielder,Serie A,AS Roma,299
+395,Gabriel Barbosa,23,178,Forward,Other league,Clube de Regatas do Flamengo,299
+396,Julian Weigl,24,186,Midfielder,Other league,SL Benfica,299
+397,Matías Vecino,28,187,Midfielder,Serie A,Inter Milan,299
+398,Paulinho,31,183,Midfielder,Other league,Guangzhou Evergrande Taobao,299
+399,Matheus Henrique,22,175,Midfielder,Other league,Grêmio Foot-Ball Porto Alegrense,286
+400,Mohamed Ihattaren,18,183,Midfielder,Other league,PSV Eindhoven,286
+401,Lisandro Martínez,22,178,Defender,Other league,Ajax Amsterdam,286
+402,Max Aarons,20,178,Defender,Premier League,Norwich City,286
+403,Gabriel Magalhães,22,190,Defender,Ligue 1,LOSC Lille,286
+404,Bukayo Saka,18,178,Midfielder,Premier League,Arsenal FC,286
+405,Jean-Philippe Mateta,22,192,Forward,Bundesliga,1.FSV Mainz 05,286
+406,Harvey Barnes,22,180,Midfielder,Premier League,Leicester City,286
+407,Rafael Leão,20,188,Forward,Serie A,AC Milan,286
+408,Ismaël Bennacer,22,175,Midfielder,Serie A,AC Milan,286
+409,Sean Longstaff,22,181,Midfielder,Premier League,Newcastle United,286
+410,Mouctar Diakhaby,23,192,Defender,LaLiga,Valencia CF,286
+411,Christian Kouamé,22,185,Forward,Serie A,ACF Fiorentina,286
+412,Sander Berge,22,195,Midfielder,Premier League,Sheffield United,286
+413,Weston McKennie,21,185,Midfielder,Bundesliga,FC Schalke 04,286
+414,Todd Cantwell,22,177,Midfielder,Premier League,Norwich City,286
+415,Nikola Vlasic,22,178,Midfielder,Other league,CSKA Moscow,286
+416,Eric Bailly,25,187,Defender,Premier League,Manchester United,286
+417,Harry Wilson,23,173,Forward,Premier League,AFC Bournemouth,286
+418,Florian Neuhaus,23,183,Midfielder,Bundesliga,Borussia Mönchengladbach,286
+419,Angeliño,23,170,Defender,Bundesliga,RB Leipzig,286
+420,Neal Maupay,23,173,Forward,Premier League,Brighton & Hove Albion,286
+421,Ben Davies,26,181,Defender,Premier League,Tottenham Hotspur,286
+422,Fred,27,169,Midfielder,Premier League,Manchester United,286
+423,Luke Shaw,24,181,Defender,Premier League,Manchester United,286
+424,Mike Maignan,24,191,Goalkeeper,Ligue 1,LOSC Lille,286
+425,Quincy Promes,28,174,Forward,Other league,Ajax Amsterdam,286
+426,Michy Batshuayi,26,184,Forward,Premier League,Chelsea FC,286
+427,Gabriel Paulista,29,187,Defender,LaLiga,Valencia CF,286
+428,Ryan Fraser,26,163,Forward,Premier League,AFC Bournemouth,286
+429,Jesse Lingard,27,174,Forward,Premier League,Manchester United,286
+430,Danny Ings,27,178,Forward,Premier League,Southampton FC,286
+431,Suso,26,177,Forward,Ligue 1,Sevilla FC,286
+432,Marc Bartra,29,184,Defender,LaLiga,Real Betis Balompié,286
+433,Thomas Delaney,28,182,Midfielder,Bundesliga,Borussia Dortmund,286
+434,Josip Ilicic,32,190,Forward,Serie A,Atalanta BC,286
+435,Marcel Halstenberg,28,188,Defender,Bundesliga,RB Leipzig,286
+436,Anthony Lopes,29,184,Goalkeeper,Ligue 1,Olympique Lyon,286
+437,Kevin Kampl,29,178,Midfielder,Bundesliga,RB Leipzig,286
+438,Ivan Perisic,31,187,Forward,Bundesliga,Bayern Munich,286
+439,Mesut Özil,31,180,Midfielder,Premier League,Arsenal FC,286
+440,Krépin Diatta,21,175,Forward,Other league,Club Brugge KV,273
+441,Dodi Lukebakio,22,187,Forward,Bundesliga,Hertha BSC,273
+442,João Pedro,18,182,Forward,Premier League,Watford FC,260
+443,Rayan Cherki,16,176,Midfielder,Ligue 1,Olympique Lyon,260
+444,Antony,20,172,Forward,Other league,São Paulo Futebol Clube,260
+445,Dwight McNeil,20,183,Forward,Premier League,Burnley FC,260
+446,Thiago Almada,18,171,Midfielder,Other league,Club Atlético Vélez Sarsfield,260
+447,Edmond Tapsoba,21,192,Defender,Bundesliga,Bayer 04 Leverkusen,260
+448,Carlos Vinícius,25,190,Forward,Other league,SL Benfica,260
+449,Emerson,21,183,Defender,LaLiga,Real Betis Balompié,260
+450,Benoît Badiashile,19,194,Defender,Ligue 1,AS Monaco,260
+451,Luiz Felipe,23,187,Defender,Serie A,SS Lazio,260
+452,Douglas Luiz,21,178,Midfielder,Premier League,Aston Villa,260
+453,Myron Boadu,19,183,Forward,Other league,AZ Alkmaar,260
+454,Raphinha,23,175,Forward,Ligue 1,Stade Rennais FC,260
+455,Calvin Stengs,21,182,Forward,Other league,AZ Alkmaar,260
+456,Pau Torres,23,191,Defender,LaLiga,Villarreal CF,260
+457,Sergiño Dest,19,175,Defender,Other league,Ajax Amsterdam,260
+458,Pablo Fornals,24,178,Midfielder,Premier League,West Ham United,260
+459,Florentino,20,184,Midfielder,Other league,SL Benfica,260
+460,Diogo Dalot,21,183,Defender,Premier League,Manchester United,260
+461,Loren Morón,26,185,Forward,LaLiga,Real Betis Balompié,260
+462,Lucas Tousart,22,185,Midfielder,Ligue 1,Olympique Lyon,260
+463,Unai Núñez,23,186,Defender,LaLiga,Athletic Bilbao,260
+464,Marc Roca,23,184,Midfielder,LaLiga,RCD Espanyol Barcelona,260
+465,Valentin Rongier,25,172,Midfielder,Ligue 1,Olympique Marseille,260
+466,Jarrod Bowen,23,175,Forward,Premier League,West Ham United,260
+467,Fikayo Tomori,22,184,Defender,Premier League,Chelsea FC,260
+468,Jonathan Bamba,24,175,Forward,Ligue 1,LOSC Lille,260
+469,Marc Cucurella,21,175,Midfielder,LaLiga,Getafe CF,260
+470,Carles Aleñá,22,180,Midfielder,LaLiga,Real Betis Balompié,260
+471,Kasper Dolberg,22,187,Forward,Ligue 1,OGC Nice,260
+472,Marcos Llorente,25,184,Midfielder,LaLiga,Atlético Madrid,260
+473,Álvaro Odriozola,24,176,Defender,Bundesliga,Bayern Munich,260
+474,Miguel Almirón,26,174,Midfielder,Premier League,Newcastle United,260
+475,Viktor Tsygankov,22,177,Forward,Other league,Dynamo Kyiv,260
+476,Unai Simón,22,190,Goalkeeper,LaLiga,Athletic Bilbao,260
+477,Timothy Castagne,24,180,Defender,Serie A,Atalanta BC,260
+478,Joachim Andersen,23,192,Defender,Ligue 1,Olympique Lyon,260
+479,Talisca,26,190,Midfielder,Other league,Guangzhou Evergrande Taobao,260
+480,Renato Sanches,22,176,Midfielder,Ligue 1,LOSC Lille,260
+481,Wilmar Barrios,26,178,Midfielder,Other league,Zenit St. Petersburg,260
+482,Zeki Celik,23,180,Defender,Ligue 1,LOSC Lille,260
+483,Lewis Cook,23,175,Midfielder,Premier League,AFC Bournemouth,260
+484,Keita Baldé,25,184,Forward,Ligue 1,AS Monaco,260
+485,Nadiem Amiri,23,180,Midfielder,Bundesliga,Bayer 04 Leverkusen,260
+486,Lucas Vázquez,28,173,Forward,LaLiga,Real Madrid,260
+487,Jeremie Boga,23,174,Forward,Serie A,US Sassuolo,260
+488,Mario Pasalic,25,188,Midfielder,Serie A,Atalanta BC,260
+489,Andreas Pereira,24,178,Midfielder,Premier League,Manchester United,260
+490,André Silva,24,184,Forward,Bundesliga,Eintracht Frankfurt,260
+491,Jamie Vardy,33,179,Forward,Premier League,Leicester City,260
+492,Luca Waldschmidt,23,181,Forward,Bundesliga,SC Freiburg,260
+493,John McGinn,25,178,Midfielder,Premier League,Aston Villa,260
+494,Stanislav Lobotka,25,172,Midfielder,Serie A,SSC Napoli,260
+495,Shoya Nakajima,25,164,Forward,Other league,FC Porto,260
+496,Gerard Moreno,27,180,Forward,LaLiga,Villarreal CF,260
+497,Jonny Otto,26,175,Defender,Premier League,Wolverhampton Wanderers,260
+498,Bernard,27,164,Forward,Premier League,Everton FC,260
+499,Matt Doherty,28,186,Defender,Premier League,Wolverhampton Wanderers,260
