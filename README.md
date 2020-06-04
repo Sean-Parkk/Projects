@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Sean-Parkk/Projects.svg)](http://hits.dwyl.com/Sean-Parkk/Projects)
+
 # Projects
 * 내가 관심있는 주제로 작은 프로젝트들을 진행해보며 실력 쌓아보기
   
