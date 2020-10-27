@@ -1,5 +1,5 @@
 # 마스크와 턱스크, 코스크를 구별할 수 있을까? (with CNN)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1PWrxCgjWIw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1PWrxCgjWIw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ## 주제 선정 이유 (목적)
 
