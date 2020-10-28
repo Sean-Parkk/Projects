@@ -1,7 +1,7 @@
 [![HitCount](http://hits.dwyl.com/Sean-Parkk/Projects.svg)](http://hits.dwyl.com/Sean-Parkk/Projects)
 
 # Projects
-* 관심있는 주제로 작은 프로젝트들을 진행해보며 실력 쌓아보기
+* 관심있는 주제로 작은 프로젝트들을 진행해보며 실력 쌓아보기!
   
 * 목표
   * 작은 성공 경험들을 만들어나가는 것이 목표
