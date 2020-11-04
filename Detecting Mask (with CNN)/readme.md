@@ -1,6 +1,7 @@
 # 마스크와 턱스크, 코스크를 구별할 수 있을까? (with CNN)
 * Date: 20.09 ~ 20.10
-* [발표 자료](https://slides.com/seanparkk/deck-098e47)
+* 이 주제로 발표를 했었습니다!
+    * [발표 자료](https://slides.com/seanparkk/deck-098e47)
 * 결과물
 ![image](images/test_img.gif)
 ## 문제 정의
